@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Kashmir Shaivism Learning Hub - Downloads</title>
   <style>
     body {
@@ -23,7 +23,7 @@
       margin: 0 auto;
     }
     .card {
-      background: white;
+      background: #fff;
       border: 1px solid #ddd;
       border-radius: 12px;
       padding: 1.5em;
@@ -33,7 +33,7 @@
     .card:hover { transform: translateY(-5px); }
     a.button {
       display: inline-block;
-      margin-top: 1em;
+      margin: 0.4em;
       padding: 0.6em 1.5em;
       background: #0070f3;
       color: #fff;
@@ -41,13 +41,14 @@
       border-radius: 6px;
       font-weight: 600;
     }
-    a.button:hover { background: #0058c7; }
+    a.button.demo { background: #22c55e; } /* green button */
+    a.button:hover { opacity: 0.85; }
     footer { margin-top: 3em; font-size: 0.9em; color: #666; }
   </style>
 </head>
 <body>
   <h1>🕉️ Kashmir Shaivism Learning Hub</h1>
-  <p>Automatically updated with the latest release from GitHub.</p>
+  <p>Explore, learn, and download the latest builds of the app.</p>
 
   <div id="downloads" class="cards">Loading latest release…</div>
 
@@ -58,6 +59,7 @@
 
   <script>
     const repo = "riverart2000/learning_hub_KS";
+    const webDemoURL = "https://riverart2000.github.io/learning_hub_KS/"; // 👈 Live demo link
     const container = document.getElementById("downloads");
 
     async function loadLatestRelease() {
@@ -65,32 +67,55 @@
         const res = await fetch(`https://api.github.com/repos/${repo}/releases/latest`);
         if (!res.ok) throw new Error("Failed to fetch release");
         const release = await res.json();
-
         container.innerHTML = "";
 
         release.assets.forEach(asset => {
-          const name = asset.name;
+          const name = asset.name.toLowerCase();
           const size = (asset.size / 1024 / 1024).toFixed(2) + " MB";
           const card = document.createElement("div");
           card.className = "card";
 
-          let platform = "📦 General Build";
-          if (/apk/i.test(name)) platform = "📱 Android APK";
-          else if (/web/i.test(name)) platform = "🌐 Web Build";
-          else if (/win/i.test(name)) platform = "🪟 Windows Build";
-          else if (/mac/i.test(name)) platform = "🍎 macOS Build";
-          else if (/linux/i.test(name)) platform = "🐧 Linux Build";
+          let platform = "";
+          let buttons = "";
+
+          if (name.includes("apk")) {
+            platform = "📱 Android App";
+            buttons = `<a class='button' href='${asset.browser_download_url}'>Download APK</a>`;
+          } 
+          else if (name.includes("web")) {
+            platform = "🌐 Web App";
+            buttons = `
+              <a class='button demo' href='${webDemoURL}' target='_blank'>View Demo</a>
+              <a class='button' href='${asset.browser_download_url}'>Download Web ZIP</a>
+            `;
+          }
+          else if (name.includes("win")) {
+            platform = "🪟 Windows Build";
+            buttons = `<a class='button' href='${asset.browser_download_url}'>Download Windows</a>`;
+          }
+          else if (name.includes("mac")) {
+            platform = "🍎 macOS Build";
+            buttons = `<a class='button' href='${asset.browser_download_url}'>Download macOS</a>`;
+          }
+          else if (name.includes("linux")) {
+            platform = "🐧 Linux Build";
+            buttons = `<a class='button' href='${asset.browser_download_url}'>Download Linux</a>`;
+          }
+          else {
+            platform = "📦 Other Build";
+            buttons = `<a class='button' href='${asset.browser_download_url}'>Download</a>`;
+          }
 
           card.innerHTML = `
             <h2>${platform}</h2>
-            <p>${name} <br><small>${size}</small></p>
-            <a class="button" href="${asset.browser_download_url}">Download</a>
+            <p>${asset.name} <br><small>${size}</small></p>
+            ${buttons}
           `;
           container.appendChild(card);
         });
       } catch (err) {
-        container.innerHTML = "<p>⚠️ Could not load latest release. Please check the GitHub repo.</p>";
         console.error(err);
+        container.innerHTML = "<p>⚠️ Could not load latest release. Please check GitHub.</p>";
       }
     }
 
