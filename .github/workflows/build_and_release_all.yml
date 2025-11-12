@@ -236,8 +236,27 @@ jobs:
         with:
           path: artifacts
 
-      - name: Display artifact contents
-        run: ls -R artifacts
+      - name: Package release bundles
+        run: |
+          mkdir -p packaged
+          if [ -d artifacts/android-artifacts ]; then
+            (cd artifacts/android-artifacts && zip -r ../../packaged/android.zip .)
+          fi
+          if [ -d artifacts/ios-artifacts ]; then
+            (cd artifacts/ios-artifacts && zip -r ../../packaged/ios.zip .)
+          fi
+          if [ -d artifacts/macos-app ]; then
+            (cd artifacts/macos-app && zip -r ../../packaged/macos.zip .)
+          fi
+          if [ -d artifacts/windows-app ]; then
+            (cd artifacts/windows-app && zip -r ../../packaged/windows.zip .)
+          fi
+          if [ -d artifacts/linux-app ]; then
+            (cd artifacts/linux-app && tar -czf ../../packaged/linux.tar.gz .)
+          fi
+          if [ -d artifacts/web-build ]; then
+            (cd artifacts/web-build && zip -r ../../packaged/web.zip .)
+          fi
 
       - name: Create release
         uses: softprops/action-gh-release@v1
@@ -245,36 +264,11 @@ jobs:
           tag_name: ${{ inputs.version_tag }}
           name: Release ${{ inputs.version_tag }}
           files: |
-            artifacts/android-artifacts/*.apk
-            artifacts/android-artifacts/*.aab
-            artifacts/ios-artifacts/**
-            artifacts/macos-app/**
-            artifacts/windows-app/**
-            artifacts/linux-app/**
-            artifacts/web-build/**
+            packaged/android.zip
+            packaged/ios.zip
+            packaged/macos.zip
+            packaged/windows.zip
+            packaged/linux.tar.gz
+            packaged/web.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  deploy_pages:
-    name: Deploy GitHub Pages
-    needs: create_release
-    runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      pages: write
-      id-token: write
-    if: github.event_name == 'workflow_dispatch' && inputs.version_tag != ''
-    steps:
-      - name: Download web artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: web-build
-          path: web
-
-      - name: Upload pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: web
-
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v4
