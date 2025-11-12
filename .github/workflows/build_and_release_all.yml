@@ -255,7 +255,10 @@ jobs:
             (cd artifacts/linux-app && tar -czf ../../packaged/linux.tar.gz .)
           fi
           if [ -d artifacts/web-build ]; then
-            (cd artifacts/web-build && zip -r ../../packaged/web.zip .)
+            rm -rf demo
+            mkdir -p demo
+            rsync -a artifacts/web-build/ demo/
+            (cd demo && zip -r ../packaged/web.zip .)
           fi
 
       - name: Create release
@@ -272,3 +275,36 @@ jobs:
             packaged/web.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  deploy_pages:
+    name: Deploy Web Demo
+    needs: build_web
+    runs-on: ubuntu-latest
+    if: github.event_name == 'workflow_dispatch'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Download web artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: web-build
+          path: web
+
+      - name: Prepare demo directory
+        run: |
+          rm -rf demo
+          mkdir -p demo
+          rsync -a web/ demo/
+
+      - name: Upload demo artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: demo
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
