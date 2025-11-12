@@ -123,7 +123,7 @@ jobs:
         run: pod install
 
       - name: Build macOS app
-        run: flutter build macos --release
+        run: flutter build macos --release --target-platform=darwin-universal
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
