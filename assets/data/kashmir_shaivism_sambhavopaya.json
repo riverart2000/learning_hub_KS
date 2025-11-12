@@ -1,0 +1,706 @@
+{
+  "categories": [
+    {
+      "id": "kashmir_shaivism",
+      "name": "Kashmir Shaivism",
+      "description": "A non-dual Tantric tradition from medieval Kashmir that emphasizes the recognition of one's innate identity with Śiva through direct insight, especially via the practice of Śāmbhavopāya—the path of pure will and immediate awareness.",
+      "icon": "insights"
+    }
+  ],
+  "subcategories": [
+    {
+      "id": "sambhavopaya_fundamentals",
+      "categoryId": "kashmir_shaivism",
+      "name": "Śāmbhavopāya Fundamentals",
+      "description": "Core principles of Śāmbhavopāya, including its definition, key features, scriptural sources, and foundational metaphysics."
+    },
+    {
+      "id": "sambhavopaya_practice",
+      "categoryId": "kashmir_shaivism",
+      "name": "Śāmbhavopāya Practice & Application",
+      "description": "Practical methods, techniques, and experiential dimensions of Śāmbhavopāya, including upāya hierarchy, guru’s role, and spontaneous recognition."
+    }
+  ],
+  "learningUnits": [
+    {
+      "id": "sambhavopaya_fundamentals",
+      "subCategoryId": "sambhavopaya_fundamentals",
+      "type": "mixed",
+      "title": "Śāmbhavopāya Fundamentals",
+      "content": {},
+      "difficulty": "beginner",
+      "tags": ["Śāmbhavopāya", "non-duality", "upāya", "Śaiva Tantra", "Kashmir Shaivism"]
+    },
+    {
+      "id": "sambhavopaya_practice",
+      "subCategoryId": "sambhavopaya_practice",
+      "type": "mixed",
+      "title": "Śāmbhavopāya Practice & Application",
+      "content": {},
+      "difficulty": "beginner",
+      "tags": ["meditation", "spontaneous awareness", "guru", "pratyabhijñā", "direct path"]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "What does 'Śāmbhavopāya' literally mean?",
+      "correctAnswer": "The means (upāya) related to Śambhu (Śiva)",
+      "hint": "Break the word: 'Śāmbhava' + 'upāya'. Śambhu is an epithet of Śiva.",
+      "explanation": "‘Śāmbhavopāya’ is a Sanskrit compound: *Śāmbhava* (pertaining to Śambhu, i.e., Śiva) + *upāya* (means or method). It signifies the path rooted in pure Śiva-consciousness.",
+      "difficulty": "beginner",
+      "tags": ["etymology", "Śāmbhavopāya"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q2",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "In Kashmir Shaivism, Śāmbhavopāya is considered the highest among how many upāyas?",
+      "correctAnswer": "Four",
+      "hint": "The upāyas are ranked: Śāmbhava, Śākta, Āṇava, and Anupāya (sometimes counted separately).",
+      "explanation": "Traditionally, there are four upāyas: Śāmbhavopāya, Śāktopāya, Āṇavopāya, and Anupāya (the 'no-method' beyond method). Śāmbhavopāya is supreme as it relies solely on Śiva’s will (*icchā*).",
+      "difficulty": "beginner",
+      "tags": ["upāya", "hierarchy"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q3",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "Which primary text of Kashmir Shaivism most elaborately describes Śāmbhavopāya?",
+      "correctAnswer": "Tantrāloka by Abhinavagupta",
+      "hint": "Abhinavagupta’s magnum opus is central to Trika theology and practice.",
+      "explanation": "Abhinavagupta’s *Tantrāloka* (c. 10th century CE) systematically expounds all upāyas, with *Śāmbhavopāya* receiving special emphasis in Chapter 4 and throughout as the pinnacle of realization.",
+      "difficulty": "beginner",
+      "tags": ["scriptures", "Abhinavagupta"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q4",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "Śāmbhavopāya is primarily based on which of Śiva’s powers (śaktis)?",
+      "correctAnswer": "Icchā-śakti (the power of will)",
+      "hint": "Śāmbhavopāya is also called the 'Path of Will'.",
+      "explanation": "Śāmbhavopāya centers on *icchā-śakti*—pure, spontaneous will or intention—through which the practitioner directly intuits their identity with Śiva without mental or physical effort.",
+      "difficulty": "beginner",
+      "tags": ["śakti", "icchā"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q5",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "Which of the following best defines the 'object' of Śāmbhavopāya?",
+      "correctAnswer": "No object — pure subjectivity/awareness itself",
+      "hint": "It transcends meditation on any external or internal object.",
+      "explanation": "Śāmbhavopāya has no *object* of focus. The practitioner rests in pure subjectivity (*aham*), the luminous 'I'-consciousness that witnesses all but is itself unobjectifiable.",
+      "difficulty": "beginner",
+      "tags": ["non-duality", "awareness"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q6",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "According to Abhinavagupta, what is the main prerequisite for practicing Śāmbhavopāya?",
+      "correctAnswer": "Grace of the Guru and intense spiritual maturity",
+      "hint": "It is not a method for beginners without guidance.",
+      "explanation": "Śāmbhavopāya demands high receptivity, prior purification (often via lower upāyas), and the descent of Śaktipāta (divine grace) catalyzed by a qualified Guru.",
+      "difficulty": "beginner",
+      "tags": ["guru", "prerequisites"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q7",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "What is *vimarśa* in the context of Śāmbhavopāya?",
+      "correctAnswer": "Self-reflective awareness — consciousness knowing itself",
+      "hint": "It’s the dynamic aspect of consciousness, not passive blankness.",
+      "explanation": "*Vimarśa* is the self-referential power of consciousness: Śiva’s ability to recognize 'I am'. Śāmbhavopāya awakens this inherent self-awareness without intermediaries.",
+      "difficulty": "beginner",
+      "tags": ["vimarśa", "consciousness"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q8",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "In Kashmir Shaivism, the 'heart' (*hṛdaya*) refers to:",
+      "correctAnswer": "The core of consciousness, not the physical organ",
+      "hint": "It’s the locus of *ahaṃ* (‘I’-sense) and divine presence.",
+      "explanation": "*Hṛdaya* is the non-localized center of being—where Śiva’s light shines as pure ‘I’-awareness. Śāmbhavopāya directs attention to this innermost essence.",
+      "difficulty": "beginner",
+      "tags": ["hṛdaya", "metaphysics"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q9",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "Which term describes the instantaneous recognition of one’s true nature in Śāmbhavopāya?",
+      "correctAnswer": "Pratyabhijñā",
+      "hint": "It means 'recognition'—central to the Pratyabhijñā school.",
+      "explanation": "*Pratyabhijñā* is immediate self-recognition: not learning something new, but *remembering* one’s innate identity as Śiva. Śāmbhavopāya is its most direct expression.",
+      "difficulty": "beginner",
+      "tags": ["pratyabhijñā", "recognition"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q10",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "What role does effort (*prayatna*) play in Śāmbhavopāya?",
+      "correctAnswer": "Minimal or none — it emphasizes effortless abidance",
+      "hint": "It is *akṛtrima* (non-artificial) and *asakṛt* (unrehearsed).",
+      "explanation": "Śāmbhavopāya is *akṛtrima*—free from contrived effort. The practitioner doesn’t ‘do’ anything but relaxes into spontaneous, pre-existing awareness.",
+      "difficulty": "beginner",
+      "tags": ["effortless", "naturalness"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q11",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "Which of the following is NOT a synonym for Śāmbhavopāya?",
+      "correctAnswer": "Sādhana of mantra repetition",
+      "hint": "Mantra repetition belongs to a different upāya.",
+      "explanation": "Mantra repetition (*uccāra*, *varṇa*) is part of *Śāktopāya*. Śāmbhavopāya involves no mental constructs—even mantra is transcended in pure gaze or intent.",
+      "difficulty": "beginner",
+      "tags": ["distinction", "upāya comparison"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q12",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "What is *udbhava* in Śāmbhavopāya?",
+      "correctAnswer": "The sudden emergence of insight or awakening",
+      "hint": "It’s an ‘upwelling’ of consciousness, often spontaneous.",
+      "explanation": "*Udbhava* is the flash of recognition—when the contracted sense of self dissolves, and Śiva-consciousness surges forth instantly, like a spark igniting fire.",
+      "difficulty": "beginner",
+      "tags": ["awakening", "spontaneity"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q13",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "In Śāmbhavopāya, how is the Guru’s instruction often given?",
+      "correctAnswer": "Through silence, gaze, or a simple word",
+      "hint": "Transmission is non-verbal and immediate.",
+      "explanation": "The Guru may use *tāṇḍava-dṛṣṭi* (dancing gaze), silence (*mauna*), or a single syllable (*bīja*) to trigger recognition—bypassing intellect and awakening direct insight.",
+      "difficulty": "beginner",
+      "tags": ["guru", "transmission"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q14",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "What does *anavopāya* literally mean?",
+      "correctAnswer": "The means related to the individual soul (aṇu)",
+      "hint": "Compare with *Śāmbhavopāya* (Śiva) and *Śāktopāya* (Śakti).",
+      "explanation": "*Āṇavopāya* (sometimes spelled *anavopāya*) is the path for the *aṇu* (atomic, limited self), using body, breath, and mind—contrasting with Śāmbhavopāya’s divine perspective.",
+      "difficulty": "beginner",
+      "tags": ["upāya", "etymology"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q15",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "Which of the following best captures the 'means' in Śāmbhavopāya?",
+      "correctAnswer": "Pure intention or resolve (*saṅkalpa*) aligned with Śiva’s will",
+      "hint": "It’s not technique-based, but will-based.",
+      "explanation": "The ‘means’ is a subtle, non-dual *saṅkalpa*—a firm yet relaxed resolve to abide as Consciousness. Even this resolves into effortless being.",
+      "difficulty": "beginner",
+      "tags": ["saṅkalpa", "will"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q16",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "What is *krama-mudrā* in some Śāmbhavopāya techniques?",
+      "correctAnswer": "A gesture (mudrā) of progressive dissolution into pure awareness",
+      "hint": "‘Krama’ means step-by-step, but here it’s rapid internalization.",
+      "explanation": "Though Śāmbhavopāya is sudden, *krama-mudrā* guides attention from outer senses inward—through void, heart, and finally to the *bindu* of pure ‘I’—in one seamless motion.",
+      "difficulty": "beginner",
+      "tags": ["mudrā", "technique"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q17",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "The phrase *‘aham idam’* (‘I am this’) in Śāmbhavopāya affirms:",
+      "correctAnswer": "Non-dual identity: the Self is all manifestation",
+      "hint": "It reverses the usual sense of separation.",
+      "explanation": "‘Aham idam’ expresses the realization that the ‘I’ (Śiva) is not separate from the world (*idam*). All appears within and as Consciousness—no duality remains.",
+      "difficulty": "beginner",
+      "tags": ["mantra", "non-duality"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q18",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "Which state (*avasthā*) is Śāmbhavopāya most aligned with?",
+      "correctAnswer": "Turya (the Fourth, beyond waking, dream, and sleep)",
+      "hint": "It is the background witnessing awareness.",
+      "explanation": "Śāmbhavopāya accesses *turya*—the constant ‘I’-awareness pervading all states. In mastery, even *turyātīta* (beyond the Fourth) is realized.",
+      "difficulty": "beginner",
+      "tags": ["turya", "states of consciousness"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q19",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "What is *vimarśana* in practice?",
+      "correctAnswer": "Turning awareness back upon itself",
+      "hint": "Like light seeing its own source.",
+      "explanation": "*Vimarśana* is the reflexive act of consciousness recognizing itself—‘Who am I?’ not as inquiry, but as spontaneous self-gaze. Central to Śāmbhavopāya.",
+      "difficulty": "beginner",
+      "tags": ["practice", "self-inquiry"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q20",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "Why is Śāmbhavopāya called ‘anupāya’ in its highest expression?",
+      "correctAnswer": "Because realization occurs without any method or effort",
+      "hint": "‘An-’ means ‘without’; it transcends all upāyas.",
+      "explanation": "In its culmination, Śāmbhavopāya dissolves even the sense of ‘practicing a path’. Grace alone reveals the ever-present truth—hence *anupāya*, the ‘no-means’ means.",
+      "difficulty": "beginner",
+      "tags": ["anupāya", "grace"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q21",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "What is *śaktipāta* and how does it relate to Śāmbhavopāya?",
+      "correctAnswer": "Descent of divine grace; it awakens the capacity for Śāmbhavopāya",
+      "hint": "It’s the initiating spark from Śiva or Guru.",
+      "explanation": "*Śaktipāta* is the infusion of Śiva’s energy that ‘ignites’ the disciple’s inner awakening. Without it, Śāmbhavopāya remains theoretical; with it, recognition becomes possible.",
+      "difficulty": "beginner",
+      "tags": ["śaktipāta", "grace"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q22",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "Which of the following best describes *unmeṣa* and *nimeṣa*?",
+      "correctAnswer": "Expansion and contraction of consciousness (like opening/closing eyes)",
+      "hint": "They model cosmic and individual cycles of manifestation and withdrawal.",
+      "explanation": "*Unmeṣa* (opening) is Śiva’s outward projection of the universe; *nimeṣa* (closing) is reabsorption. In Śāmbhavopāya, one intuits both as movements of one Awareness.",
+      "difficulty": "beginner",
+      "tags": ["cosmology", "dynamics"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q23",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "What is the significance of *bindu* in Śāmbhavopāya?",
+      "correctAnswer": "The point of pure ‘I’-consciousness before manifestation",
+      "hint": "Not a physical dot, but the zero-point of awareness.",
+      "explanation": "*Bindu* is the undifferentiated source—like a seed containing the entire tree. Śāmbhavopāya directs attention to this luminous point where subject-object duality hasn’t arisen.",
+      "difficulty": "beginner",
+      "tags": ["bindu", "symbolism"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q24",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "Which philosopher-saint is considered the systematizer of Śāmbhavopāya?",
+      "correctAnswer": "Abhinavagupta",
+      "hint": "He unified Trika, Krama, and Pratyabhijñā traditions.",
+      "explanation": "Abhinavagupta (c. 950–1020 CE) synthesized earlier teachings in *Tantrāloka* and *Īśvara-pratyabhijñā-vimarśinī*, placing Śāmbhavopāya at the apex of spiritual practice.",
+      "difficulty": "beginner",
+      "tags": ["Abhinavagupta", "history"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q25",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "In Śāmbhavopāya, how is doubt (*saṃśaya*) handled?",
+      "correctAnswer": "It is allowed to dissolve in the light of direct experience",
+      "hint": "No intellectual resolution—only experiential clarity.",
+      "explanation": "Rather than arguing with doubt, the practitioner rests in awareness *with* the doubt present. In that stillness, doubt reveals itself as a transient ripple in the ocean of ‘I’.",
+      "difficulty": "beginner",
+      "tags": ["doubt", "practice"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q26",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "What is *prakāśa*?",
+      "correctAnswer": "The self-luminous light of consciousness",
+      "hint": "It’s the ‘shining’ aspect—what makes awareness knowable.",
+      "explanation": "*Prakāśa* is the radiant, illuminating power of Śiva—pure subjectivity that makes all experience possible. Śāmbhavopāya rests in *prakāśa-vimarśa* unity: light and self-awareness.",
+      "difficulty": "beginner",
+      "tags": ["prakāśa", "metaphysics"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q27",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "Which upāya emphasizes *jñāna* (knowledge) via discernment?",
+      "correctAnswer": "Śāktopāya",
+      "hint": "Śāktopāya uses the mind; Śāmbhavopāya transcends it.",
+      "explanation": "*Śāktopāya* employs *vikalpa* (thought constructs), mantra, and reasoning to purify the mind. Śāmbhavopāya bypasses all that—knowing (*jñāna*) is immediate and non-conceptual.",
+      "difficulty": "beginner",
+      "tags": ["upāya comparison", "jñāna"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q28",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "What does *svātantrya* mean in Kashmir Shaivism?",
+      "correctAnswer": "Absolute freedom/autonomy of Consciousness",
+      "hint": "It’s Śiva’s power to manifest, sustain, and dissolve freely.",
+      "explanation": "*Svātantrya* is the unrestricted freedom of Śiva to appear as the universe—or not—without constraint. Śāmbhavopāya realizes this freedom as one’s own nature.",
+      "difficulty": "beginner",
+      "tags": ["svātantrya", "freedom"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q29",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "How is time (*kāla*) viewed in Śāmbhavopāya?",
+      "correctAnswer": "As a contraction of eternal Consciousness",
+      "hint": "Linear time dissolves in the ‘now’ of awareness.",
+      "explanation": "Time is *kāla-śakti*, a rhythmic pulsation within Śiva. In Śāmbhavopāya, one abides in *nitya* (eternity)—the timeless present where past/future are mental constructs.",
+      "difficulty": "beginner",
+      "tags": ["time", "metaphysics"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q30",
+      "learningUnitId": "sambhavopaya_fundamentals",
+      "question": "The goal of Śāmbhavopāya is best described as:",
+      "correctAnswer": "Recognition (*pratyabhijñā*) of one’s innate identity as Śiva",
+      "hint": "Not attainment, but realization of what already is.",
+      "explanation": "There is no ‘becoming’ Śiva—only *recognizing* that one has always been Śiva. Liberation (*mokṣa*) is the collapse of the illusion of limitation (*āṇava*).",
+      "difficulty": "beginner",
+      "tags": ["goal", "liberation"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q31",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "Which of the following is a core practice of Śāmbhavopāya?",
+      "correctAnswer": "Fixing attention on the gap between two thoughts",
+      "hint": "It’s about noticing the ‘space’ of awareness itself.",
+      "explanation": "The pause between thoughts reveals pure *cit* (consciousness). By gently resting in that gap—without trying to prolong it—one intuits the silent witness beyond mental activity.",
+      "difficulty": "beginner",
+      "tags": ["practice", "awareness gap"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q32",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "What is *dṛṣṭi* (gaze) practice in Śāmbhavopāya?",
+      "correctAnswer": "Gazing without focus, allowing awareness to expand",
+      "hint": "Not staring at an object, but soft, open-eyed abidance.",
+      "explanation": "*Dṛṣṭi* is an unfocused, relaxed gaze—often into space or at a blank wall—where vision becomes a doorway to spacious awareness, dissolving subject-object duality.",
+      "difficulty": "beginner",
+      "tags": ["dṛṣṭi", "gaze"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q33",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "How does one practice Śāmbhavopāya during daily activities?",
+      "correctAnswer": "By maintaining subtle awareness of the ‘I’-sense amid action",
+      "hint": "It’s not withdrawal, but immersion in life with self-remembrance.",
+      "explanation": "While walking, speaking, or working, one lightly holds the sense ‘I am’—not as a thought, but as a background awareness. Action continues, but identity rests in the Seer.",
+      "difficulty": "beginner",
+      "tags": ["integration", "daily life"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q34",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "What is *ādhāra* in Śāmbhavopāya practice?",
+      "correctAnswer": "The support or locus—here, pure awareness itself",
+      "hint": "Unlike other paths, the ‘support’ is not external.",
+      "explanation": "In lower upāyas, *ādhāra* may be breath or mantra. In Śāmbhavopāya, the only *ādhāra* is *svayaṃprakāśa cit*—self-luminous consciousness—requiring no external anchor.",
+      "difficulty": "beginner",
+      "tags": ["ādhāra", "support"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q35",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "Which technique uses the sudden stop of breath or movement?",
+      "correctAnswer": "Kumbhaka or *sthāṇu*-like stillness",
+      "hint": "A pause that reveals the witness.",
+      "explanation": "Abruptly halting breath or motion creates a ‘shock’ that suspends habitual identification, allowing the pure ‘I’ to shine forth. Abhinavagupta mentions this in *Tantrāloka* 4.",
+      "difficulty": "beginner",
+      "tags": ["technique", "kumbhaka"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q36",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "What is the role of *mantra* in Śāmbhavopāya?",
+      "correctAnswer": "Rarely used; if used, as a catalyst for silence, not repetition",
+      "hint": "It serves only to point beyond itself.",
+      "explanation": "A single utterance of *so’ham* or *aham* may trigger recognition—but prolonged *japa* belongs to Śāktopāya. In Śāmbhavopāya, the mantra’s resonance dissolves into stillness.",
+      "difficulty": "beginner",
+      "tags": ["mantra", "distinction"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q37",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "How does Śāmbhavopāya view suffering (*duḥkha*)?",
+      "correctAnswer": "As a contraction of awareness, dissolvable by recognition",
+      "hint": "Not to be eliminated, but seen through.",
+      "explanation": "Suffering arises from *saṃkoca* (contraction of ‘I’ into ‘I am limited’). Śāmbhavopāya doesn’t fight pain but reveals it as a wave in the ocean of bliss (*ānanda*).",
+      "difficulty": "beginner",
+      "tags": ["suffering", "liberation"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q38",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "Which practice involves listening to inner silence?",
+      "correctAnswer": "Nāda-anusandhāna in its subtlest form",
+      "hint": "The ‘unstruck sound’ (*anāhata*) points to awareness.",
+      "explanation": "Though *nāda* practice is usually Śāktopāya, in Śāmbhavopāya, one listens *beyond* sound—to the silence in which all sound arises. That silence is pure *cit*.",
+      "difficulty": "beginner",
+      "tags": ["nāda", "silence"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q39",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "What is *sahaja* samādhi in this context?",
+      "correctAnswer": "Natural, effortless abidance in Śiva-consciousness during activity",
+      "hint": "‘Sahaja’ means ‘born with’—innate, not induced.",
+      "explanation": "*Sahaja* samādhi is the stabilized state where one remains established in ‘I am Śiva’ spontaneously—without entering trances—while fully engaged in the world.",
+      "difficulty": "beginner",
+      "tags": ["samādhi", "sahaja"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q40",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "How should one respond to distractions in Śāmbhavopāya?",
+      "correctAnswer": "Acknowledge them without resistance and return to ‘I’-awareness",
+      "hint": "Resistance strengthens distraction; allowance dissolves it.",
+      "explanation": "Distractions are seen as *vṛttis* (modifications) of Consciousness itself. Rather than suppressing them, one gently re-identifies with the *witness*—like clouds passing in the sky.",
+      "difficulty": "beginner",
+      "tags": ["distraction", "practice"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q41",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "What is *āveśa*?",
+      "correctAnswer": "Spontaneous absorption in divine consciousness",
+      "hint": "It’s not forced—it ‘descends’ unexpectedly.",
+      "explanation": "*Āveśa* is sudden, grace-induced immersion in Śiva-awareness—often triggered by beauty, music, or the Guru’s presence. Śāmbhavopāya cultivates readiness for such moments.",
+      "difficulty": "beginner",
+      "tags": ["āveśa", "grace"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q42",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "Which practice uses the ‘flash’ at the onset of sleep or wakefulness?",
+      "correctAnswer": "Laya at *sandhi* (junction) moments",
+      "hint": "The threshold states are potent for recognition.",
+      "explanation": "The brief moments before falling asleep or upon waking (*sandhi-kāla*) involve dissolution of ego-identity. Śāmbhavopāya uses these to recognize the unchanging ‘I’ beneath the states.",
+      "difficulty": "beginner",
+      "tags": ["laya", "sleep"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q43",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "What is the significance of the Guru’s *sparśa* (touch)?",
+      "correctAnswer": "It can transmit awakening directly, bypassing the mind",
+      "hint": "Physical contact as conduit of śakti.",
+      "explanation": "A Guru’s touch—especially on the head or heart—can induce *śaktipāta*, momentarily dissolving identification and revealing the true Self. It’s a non-verbal upadeśa.",
+      "difficulty": "beginner",
+      "tags": ["guru", "transmission"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q44",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "In practice, how long should a Śāmbhavopāya session last?",
+      "correctAnswer": "As short as a single moment of recognition",
+      "hint": "Quality matters, not duration.",
+      "explanation": "Unlike timed meditations, Śāmbhavopāya values *kṣaṇa-sphurattā*—a flash of insight. Even a millisecond of pure ‘I’-awareness is transformative; sessions may be brief but frequent.",
+      "difficulty": "beginner",
+      "tags": ["practice", "duration"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q45",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "What does *avikalpa samādhi* mean?",
+      "correctAnswer": "Non-conceptual absorption in pure consciousness",
+      "hint": "‘Vikalpa’ = thought-construct; ‘a-’ = without.",
+      "explanation": "*Avikalpa samādhi* is the state where all mental modifications cease, and only undivided awareness remains. Śāmbhavopāya aims for this as natural abidance, not trance.",
+      "difficulty": "beginner",
+      "tags": ["samādhi", "avikalpa"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q46",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "Which attitude supports Śāmbhavopāya practice?",
+      "correctAnswer": "Śāmbhava-bhāva — the attitude of being Śiva",
+      "hint": "Not pretending, but relaxing into one’s true nature.",
+      "explanation": "*Śāmbhava-bhāva* is the subtle stance: ‘I am not the doer; Śiva acts through me.’ It’s not egoic assertion, but surrender to the divine Self already present.",
+      "difficulty": "beginner",
+      "tags": ["bhāva", "attitude"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q47",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "What is *sphurattā*?",
+      "correctAnswer": "The flash or pulsation of self-awareness",
+      "hint": "Like a spark of recognition—sudden and luminous.",
+      "explanation": "*Sphurattā* is the vibrant ‘aha!’ moment when ‘I’-consciousness reveals itself—unmediated and undeniable. Śāmbhavopāya cultivates conditions for this to arise spontaneously.",
+      "difficulty": "beginner",
+      "tags": ["sphurattā", "awakening"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q48",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "How does one relate to emotions in Śāmbhavopāya?",
+      "correctAnswer": "By recognizing them as expressions of Śiva’s energy",
+      "hint": "Not suppression, not indulgence—recognition.",
+      "explanation": "Emotions are *rāga-dveṣa* (attraction/aversion), but in essence, they are *śakti*—vibrations of Consciousness. The practitioner feels them fully yet remains rooted in the ‘I’ that witnesses.",
+      "difficulty": "beginner",
+      "tags": ["emotions", "integration"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q49",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "What is *unmeṣa-dṛṣṭi*?",
+      "correctAnswer": "The gaze that ‘opens’ to the fullness of awareness",
+      "hint": "‘Unmeṣa’ = opening; it’s an inner seeing.",
+      "explanation": "*Unmeṣa-dṛṣṭi* is not physical sight, but the inner ‘opening’ where one perceives the entire universe as a manifestation of one’s own Consciousness—like Śiva beholding creation.",
+      "difficulty": "beginner",
+      "tags": ["dṛṣṭi", "perception"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q50",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "Which practice involves sudden command like ‘Stop!’?",
+      "correctAnswer": "Kṣepaṇa or ‘throwing’ technique",
+      "hint": "Used to interrupt mental momentum.",
+      "explanation": "The Guru or practitioner may suddenly command ‘Stop!’ or ‘Who are you?’ to halt discursive thought, creating a gap where pure awareness shines. Abhinavagupta describes this in *Tantrāloka*.",
+      "difficulty": "beginner",
+      "tags": ["technique", "kṣepaṇa"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q51",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "What supports consistency in Śāmbhavopāya practice?",
+      "correctAnswer": "Regular satsaṅga (company of truth/Guru) and self-remembrance",
+      "hint": "Grace and subtle effort combine.",
+      "explanation": "Daily *smaraṇa* (remembrance of ‘I am’) and *satsaṅga*—physical or mental connection with the Guru/tradition—maintain the ‘thread’ of awareness through life’s fluctuations.",
+      "difficulty": "beginner",
+      "tags": ["consistency", "satsaṅga"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q52",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "What is *viṣaya-tyāga* in this path?",
+      "correctAnswer": "Not renouncing objects, but seeing them as Consciousness",
+      "hint": "Outer renunciation is Āṇavopāya; inner is Śāmbhavopāya.",
+      "explanation": "True *tyāga* (renunciation) is *bhāva-tyāga*—giving up the *idea* that objects are separate. The world remains, but is seen as *ābhāsa* (appearance in Śiva).",
+      "difficulty": "beginner",
+      "tags": ["renunciation", "non-duality"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q53",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "Which state is cultivated during sensory engagement?",
+      "correctAnswer": "Sākṣī-bhāva — the witness attitude",
+      "hint": "‘I am the Seer, not the seen.’",
+      "explanation": "While seeing, hearing, etc., one rests as the *sākṣin* (witness)—aware of sensations without being claimed by them. The senses operate, but identity remains in pure subjectivity.",
+      "difficulty": "beginner",
+      "tags": ["witness", "senses"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q54",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "What is the purpose of *nyāsa* in Śāmbhavopāya?",
+      "correctAnswer": "Rarely used; if used, as symbolic recognition of divinity in the body",
+      "hint": "Not ritual placement, but instant affirmation.",
+      "explanation": "Unlike in ritual Tantra, *nyāsa* in Śāmbhavopāya is a mental flash: ‘This hand is Śiva, this breath is Śiva’—not step-by-step, but instantaneous recognition of pervasion.",
+      "difficulty": "beginner",
+      "tags": ["nyāsa", "symbolism"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q55",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "How is mantra *bīja* like ‘SAUḤ’ used?",
+      "correctAnswer": "As a vibration pointing to the ‘I’ beyond sound",
+      "hint": "Pronounced internally, once, to evoke stillness.",
+      "explanation": "‘SAUḤ’ (‘I am He’) is intoned *once* internally—not repeated—to trigger the recognition ‘I am Śiva’. The resonance dissolves into silence, revealing the source.",
+      "difficulty": "beginner",
+      "tags": ["bīja", "mantra"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q56",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "What is *kṣobha* and how is it used?",
+      "correctAnswer": "Agitation used to break habitual patterns and reveal awareness",
+      "hint": "Controlled disturbance to awaken.",
+      "explanation": "Intentional *kṣobha* (shaking, rapid movement, or emotional provocation) disrupts mental inertia, allowing the steady ‘I’ to emerge as the unshaken ground—like stirring water to see the container.",
+      "difficulty": "beginner",
+      "tags": ["kṣobha", "technique"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q57",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "What does *‘turya in the midst of dvādaśānta’* mean?",
+      "correctAnswer": "Abiding in the Fourth state while attending to the subtle space 12 fingers above the head",
+      "hint": "Dvādaśānta = ‘twelfth finger-end’ — a locus of expansion.",
+      "explanation": "Fixing subtle attention at *dvādaśānta* (above the crown) while resting in *turya* facilitates expansion into universal ‘I’—a technique mentioned by Abhinavagupta for advanced aspirants.",
+      "difficulty": "beginner",
+      "tags": ["dvādaśānta", "technique"],
+      "timeLimit": 50
+    },
+    {
+      "id": "q58",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "Which practice uses the onset of aesthetic rapture (*camatkāra*)?",
+      "correctAnswer": "Rasa-anubhava as gateway to Śiva-consciousness",
+      "hint": "Beauty can trigger recognition.",
+      "explanation": "Moments of awe—before art, nature, or music—induce *camatkāra*, a ‘sudden wonder’ that suspends the ego. Śāmbhavopāya harnesses this to recognize the blissful ‘I’ as source.",
+      "difficulty": "beginner",
+      "tags": ["rasa", "aesthetics"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q59",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "What is *sattarka* in this context?",
+      "correctAnswer": "Correct reasoning that supports, but doesn’t replace, direct insight",
+      "hint": "Intellect serves intuition, not vice versa.",
+      "explanation": "*Sattarka* is purified logic (e.g., ‘If I exist, who is the ‘I’?’) that removes doubts and prepares the mind—but final realization is *anubhava*, beyond thought.",
+      "difficulty": "beginner",
+      "tags": ["reasoning", "preparation"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q60",
+      "learningUnitId": "sambhavopaya_practice",
+      "question": "The culmination of Śāmbhavopāya is described as:",
+      "correctAnswer": "Jīvanmukti — liberation while living",
+      "hint": "Not after death, but here and now.",
+      "explanation": "*Jīvanmukti* is abiding as Śiva in the body-mind—free from bondage while fully participating in the world. Action continues, but the sense of doership has vanished.",
+      "difficulty": "beginner",
+      "tags": ["jīvanmukti", "goal"],
+      "timeLimit": 35
+    }
+  ]
+}

@@ -1,0 +1,706 @@
+{
+  "categories": [
+    {
+      "id": "kashmir-shaivism-sanskrit-advanced",
+      "name": "Kashmir Shaivism Sanskrit Advanced",
+      "description": "Kashmir Shaivism represents a non-dualistic tantric tradition that integrates profound philosophical insights with Sanskrit scriptural exegesis. This advanced category delves into the Trika system's core doctrines and texts, fostering recognition of the divine consciousness inherent in all.",
+      "icon": "book"
+    }
+  ],
+  "subcategories": [
+    {
+      "id": "core-concepts",
+      "categoryId": "kashmir-shaivism-sanskrit-advanced",
+      "name": "Core Philosophical Concepts",
+      "description": "Explores foundational Sanskrit terms and doctrines such as Pratyabhijna and Spanda that underpin the non-dual reality of consciousness."
+    },
+    {
+      "id": "key-texts",
+      "categoryId": "kashmir-shaivism-sanskrit-advanced",
+      "name": "Key Sanskrit Texts",
+      "description": "Analyzes primary scriptures like the Shiva Sutras and Tantraloka, including their Sanskrit verses and interpretive principles."
+    }
+  ],
+  "learningUnits": [
+    {
+      "id": "core-concepts",
+      "subCategoryId": "core-concepts",
+      "type": "mixed",
+      "title": "Core Philosophical Concepts",
+      "content": {},
+      "difficulty": "advanced",
+      "tags": ["pratyabhijna", "spanda", "trika", "tattvas"]
+    },
+    {
+      "id": "key-texts",
+      "subCategoryId": "key-texts",
+      "type": "mixed",
+      "title": "Key Sanskrit Texts",
+      "content": {},
+      "difficulty": "advanced",
+      "tags": ["shiva-sutras", "tantraloka", "spanda-karikas"]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "learningUnitId": "core-concepts",
+      "question": "What is the Sanskrit term for the doctrine of 'recognition' central to Kashmir Shaivism?",
+      "correctAnswer": "Pratyabhijñā",
+      "hint": "Consider the process of realizing one's identity with Shiva through direct insight.",
+      "explanation": "Pratyabhijñā, meaning 'recognition,' is the philosophical system developed by Utpaladeva that emphasizes spontaneous self-recognition as the path to liberation. It posits that ignorance is forgetting one's divine nature, remedied by intellectual and contemplative recognition. This doctrine integrates epistemology and ontology in the Trika tradition.",
+      "difficulty": "advanced",
+      "tags": ["pratyabhijna", "sanskrit-term"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q2",
+      "learningUnitId": "core-concepts",
+      "question": "In Spanda philosophy, what does 'spanda' denote in the context of universal manifestation?",
+      "correctAnswer": "The pulsation or vibration of consciousness",
+      "hint": "Think of the dynamic throb that underlies all phenomena without dual separation.",
+      "explanation": "Spanda refers to the subtle vibration or pulsation of Shiva's consciousness, which is the cause of the universe's appearance and dissolution. As per the Spanda Karikas, this vibration is neither creation nor destruction but the free play of divine energy. It bridges static being and dynamic becoming in non-dual Shaivism.",
+      "difficulty": "advanced",
+      "tags": ["spanda", "consciousness"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q3",
+      "learningUnitId": "core-concepts",
+      "question": "Explain the Trika system's threefold division of energies: Para, Apara, and Parapara.",
+      "correctAnswer": "Para (supreme, transcendent), Apara (inferior, mundane), Parapara (intermediate, immanent-transcendent)",
+      "hint": "Recall the three levels of Shakti that encompass all reality.",
+      "explanation": "In Trika Shaivism, Para Shakti is the pure, transcendent will of Shiva; Apara Shakti governs the limited, objective world; and Parapara Shakti mediates as the creative, immanent power. This triad unifies the absolute and relative, preventing dualistic fragmentation. It forms the basis for understanding non-dual manifestation.",
+      "difficulty": "advanced",
+      "tags": ["trika", "shakti"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q4",
+      "learningUnitId": "core-concepts",
+      "question": "What are the 36 Tattvas in Kashmir Shaivism, and how are they categorized?",
+      "correctAnswer": "Principles of reality divided into pure (Shiva to Maya, 5), pure-impure (5 Kanchukas), and impure (27 from Purusha to Prithvi)",
+      "hint": "They represent the progressive contraction from pure consciousness to material form.",
+      "explanation": "The 36 Tattvas outline the emanation from Shiva-Shakti unity to the material world, with pure Tattvas embodying transcendence, pure-impure introducing limitation, and impure detailing cosmic evolution. This schema, detailed in texts like Tantraloka, illustrates non-dual descent without true separation. It aids in meditative ascent back to the absolute.",
+      "difficulty": "advanced",
+      "tags": ["tattvas", "emanation"],
+      "timeLimit": 50
+    },
+    {
+      "id": "q5",
+      "learningUnitId": "core-concepts",
+      "question": "Define 'Anuttara' in the context of Kashmir Shaivism's absolute reality.",
+      "correctAnswer": "The supreme, uncontrasted principle beyond all categories",
+      "hint": "It signifies that which cannot be exceeded or described.",
+      "explanation": "Anuttara, meaning 'unsurpassed,' is the ineffable ground of being in Shaiva ontology, free from all limitations and dualities. As per Abhinavagupta, it is the restful vibration from which all arises. This concept underscores the tradition's emphasis on direct experiential realization over conceptual grasp.",
+      "difficulty": "advanced",
+      "tags": ["anuttara", "ontology"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q6",
+      "learningUnitId": "core-concepts",
+      "question": "What role does 'Iccha Shakti' play in the triad of divine powers?",
+      "correctAnswer": "The will or desire that initiates manifestation",
+      "hint": "It is the first among Iccha, Jnana, and Kriya.",
+      "explanation": "Iccha Shakti is the supreme will of Shiva that freely chooses to manifest the universe out of playful abundance, not necessity. Integrated with Jnana (knowledge) and Kriya (action), it forms the dynamic triad powering creation. In practice, cultivating Iccha leads to alignment with divine freedom.",
+      "difficulty": "advanced",
+      "tags": ["iccha-shakti", "divine-powers"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q7",
+      "learningUnitId": "core-concepts",
+      "question": "Describe the three Malas (impurities) obstructing liberation.",
+      "correctAnswer": "Anava (egoic contraction), Mayiya (illusion of difference), Karmic (action-based bondage)",
+      "hint": "These are veils covering the innate divinity.",
+      "explanation": "Anava Mala contracts infinite consciousness to finitude; Mayiya Mala projects duality; and Karmic Mala binds through accumulated actions. Kashmir Shaivism teaches their dissolution through recognition, not renunciation. This understanding facilitates the tantric path of affirmation.",
+      "difficulty": "advanced",
+      "tags": ["malas", "impurities"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q8",
+      "learningUnitId": "core-concepts",
+      "question": "What is 'Abhasavada' in Pratyabhijna philosophy?",
+      "correctAnswer": "The theory of appearance or reflection of consciousness",
+      "hint": "It explains how the universe appears within Shiva without separation.",
+      "explanation": "Abhasavada posits that all phenomena are reflections or appearances (abhasas) of Shiva's self-luminous consciousness, maintaining non-duality. Utpaladeva uses this to refute external realism, showing objects as dependent on the subject's awareness. It underpins meditative practices of subject-object unity.",
+      "difficulty": "advanced",
+      "tags": ["abhasavada", "pratyabhijna"],
+      "timeLimit": 50
+    },
+    {
+      "id": "q9",
+      "learningUnitId": "core-concepts",
+      "question": "How does 'Svatantrya' relate to Shiva's nature?",
+      "correctAnswer": "Absolute freedom or self-dependence in manifestation",
+      "hint": "It is the power enabling spontaneous creative play.",
+      "explanation": "Svatantrya denotes Shiva's unrestricted sovereignty, allowing the universe to arise as an expression of infinite freedom. In Trika, it integrates with Spanda as the basis for non-dual causality. Realizing Svatantrya dissolves the illusion of bondage.",
+      "difficulty": "advanced",
+      "tags": ["svatantrya", "freedom"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q10",
+      "learningUnitId": "core-concepts",
+      "question": "What is the significance of 'Shiva-Shakti' non-duality?",
+      "correctAnswer": "Shiva as static consciousness, Shakti as dynamic power, inseparable",
+      "hint": "Their unity is the essence of all existence.",
+      "explanation": "In Kashmir Shaivism, Shiva is the transcendent subject, Shakti the immanent energy; their inseparability means creation is Shiva's self-expression. This avoids dualism, portraying the cosmos as a vibrant unity. Practices like nyasa invoke this integration.",
+      "difficulty": "advanced",
+      "tags": ["shiva-shakti", "non-duality"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q11",
+      "learningUnitId": "core-concepts",
+      "question": "Define 'Vimarsha' in relation to Prakasha.",
+      "correctAnswer": "The reflective awareness that complements illuminative consciousness",
+      "hint": "Prakasha is light, Vimarsha is the self-cognition within it.",
+      "explanation": "Prakasha is Shiva's pure illumination, while Vimarsha is the dynamic self-recognition that objectifies it, forming the basis of manifestation. Abhinavagupta describes this as the 'throb' of consciousness. Their union prevents inertness in the absolute.",
+      "difficulty": "advanced",
+      "tags": ["vimarsha", "prakasha"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q12",
+      "learningUnitId": "core-concepts",
+      "question": "What are the five Kanchukas in the Tattva system?",
+      "correctAnswer": "Kalā (limited action), Avidyā (limited knowledge), Rāgā (attachment), Kāla (time), Niyati (causality)",
+      "hint": "These introduce limitations in the pure-impure category.",
+      "explanation": "The Kanchukas (sheaths) veil pure consciousness, fragmenting it into limited agency, knowledge, desire, temporality, and order. They bridge transcendent and empirical realms in Shaiva cosmology. Transcending them restores wholeness.",
+      "difficulty": "advanced",
+      "tags": ["kanchukas", "limitations"],
+      "timeLimit": 50
+    },
+    {
+      "id": "q13",
+      "learningUnitId": "core-concepts",
+      "question": "Explain 'Kartṛtva' in the context of self-recognition.",
+      "correctAnswer": "The sense of agency or doership inherent in consciousness",
+      "hint": "It is the microcosmic reflection of Shiva's creative power.",
+      "explanation": "Kartṛtva, or agenthood, is the innate capacity for action within the individual soul, mirroring Shiva's Kriya Shakti. In Pratyabhijna, recognizing it as divine dissolves egoic limitations. This empowers tantric identification with the universal actor.",
+      "difficulty": "advanced",
+      "tags": ["kartrtva", "agency"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q14",
+      "learningUnitId": "core-concepts",
+      "question": "What is 'Bhukti' and 'Mukti' in Shaiva soteriology?",
+      "correctAnswer": "Enjoyment of the world and liberation through recognition",
+      "hint": "They represent integrated realization, not ascetic denial.",
+      "explanation": "Bhukti is the tantric enjoyment of phenomena as divine play, while Mukti is liberation via self-recognition; Kashmir Shaivism unites them as simultaneous. This affirms worldly engagement as spiritual. Abhinavagupta exemplifies this in aesthetic theory.",
+      "difficulty": "advanced",
+      "tags": ["bhukti-mukti", "soteriology"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q15",
+      "learningUnitId": "core-concepts",
+      "question": "Describe the role of 'Sankoca' and 'Vikasa' in spiritual practice.",
+      "correctAnswer": "Contraction and expansion of consciousness",
+      "hint": "They mirror cosmic processes in the individual.",
+      "explanation": "Sankoca is the contraction causing limitation, Vikasa the expansion revealing infinity; practices like pranayama enact their reversal. In Spanda, they are natural pulsations to be recognized. This dynamic aids ascent to Anuttara.",
+      "difficulty": "advanced",
+      "tags": ["sankoca-vikasa", "practice"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q16",
+      "learningUnitId": "core-concepts",
+      "question": "What does 'Māyā' signify beyond illusion?",
+      "correctAnswer": "The principle of differentiation and concealment",
+      "hint": "It is a Tattva enabling multiplicity.",
+      "explanation": "Māyā, as the 6th Tattva, introduces obscurity and difference, veiling unity without being illusory in itself. In non-dual view, it is Shiva's power for diversification. Transcending Māyā reveals all as conscious vibration.",
+      "difficulty": "advanced",
+      "tags": ["maya", "tattva"],
+      "timeLimit": 50
+    },
+    {
+      "id": "q17",
+      "learningUnitId": "core-concepts",
+      "question": "Define 'Jñāna Shakti' in the divine triad.",
+      "correctAnswer": "The power of knowledge that cognizes all as self",
+      "hint": "It follows Iccha and precedes Kriya.",
+      "explanation": "Jñāna Shakti is the omniscient awareness that knows the universe as Shiva's form, bridging will and action. It counters Avidyā by illuminating non-duality. In meditation, it fosters total subject-object merger.",
+      "difficulty": "advanced",
+      "tags": ["jnana-shakti", "knowledge"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q18",
+      "learningUnitId": "core-concepts",
+      "question": "What is 'Śakti-caitanya'?",
+      "correctAnswer": "The consciousness inherent in energy",
+      "hint": "It unifies static and dynamic aspects.",
+      "explanation": "Śakti-caitanya refers to the sentient nature of Shakti, making her co-equal with Shiva in manifestation. This concept refutes inert energy views, emphasizing vibrant awareness. It is key to tantric worship of the feminine divine.",
+      "difficulty": "advanced",
+      "tags": ["shakti-caitanya", "energy"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q19",
+      "learningUnitId": "core-concepts",
+      "question": "Explain 'Pūrṇatva' in non-dual realization.",
+      "correctAnswer": "The state of absolute fullness beyond lack",
+      "hint": "It is the recognition of inherent completeness.",
+      "explanation": "Pūrṇatva signifies the plenum of Shiva-consciousness, where no void exists, countering dualistic incompleteness. Realization dawns that the world enhances this fullness. Practices cultivate gratitude for this inherent wealth.",
+      "difficulty": "advanced",
+      "tags": ["purnatva", "fullness"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q20",
+      "learningUnitId": "core-concepts",
+      "question": "What are the four Upāyas in Kashmir Shaivism?",
+      "correctAnswer": "Āṇavopāya (individual effort), Śāktopāya (energy-based), Māṇṭreśopāya (mantra), Śāmbhavopāya (direct grace)",
+      "hint": "They are descending paths from subtle to gross.",
+      "explanation": "The Upāyas are means of realization tailored to the seeker's readiness, from effortful practices to effortless divine descent. Śāmbhavopāya is highest, involving will-less immersion. This flexible system democratizes enlightenment.",
+      "difficulty": "advanced",
+      "tags": ["upayas", "paths"],
+      "timeLimit": 50
+    },
+    {
+      "id": "q21",
+      "learningUnitId": "core-concepts",
+      "question": "Define 'Kriyā Shakti' within the triad.",
+      "correctAnswer": "The power of action that actualizes manifestation",
+      "hint": "It completes the cycle of will and knowledge.",
+      "explanation": "Kriyā Shakti is the efficacious energy executing Iccha and Jñāna, projecting the cosmos as Shiva's body. It empowers ritual and yoga. Recognition reveals all actions as divine lila.",
+      "difficulty": "advanced",
+      "tags": ["kriya-shakti", "action"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q22",
+      "learningUnitId": "core-concepts",
+      "question": "What is 'Anava Mala' specifically?",
+      "correctAnswer": "The fundamental contraction of infinite I-consciousness",
+      "hint": "It is the root impurity causing individuality.",
+      "explanation": "Anava Mala shrinks the universal Self to a limited ego, initiating bondage. It is transcended by expanding awareness to universality. In Trika, it is not sin but a playful veiling.",
+      "difficulty": "advanced",
+      "tags": ["anava-mala", "contraction"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q23",
+      "learningUnitId": "core-concepts",
+      "question": "Describe 'Spanda-sādhana' practice.",
+      "correctAnswer": "Meditation on the pulsation of inner awareness",
+      "hint": "Focus on the throb between inhalation and exhalation.",
+      "explanation": "Spanda-sādhana involves attuning to the subtle vibration of consciousness, revealing its omnipresence. It transforms ordinary perception into divine recognition. Kshemaraja's commentaries guide this immersive technique.",
+      "difficulty": "advanced",
+      "tags": ["spanda-sadhana", "meditation"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q24",
+      "learningUnitId": "core-concepts",
+      "question": "What does 'Parama Shiva' denote?",
+      "correctAnswer": "The supreme form of Shiva beyond attributes",
+      "hint": "It is the unmanifest absolute.",
+      "explanation": "Parama Shiva is the transcendent, attributeless essence, source of all. Distinguished from Savisesha (with qualities), it is realized in Samavesha. This distinction clarifies non-dual hierarchy.",
+      "difficulty": "advanced",
+      "tags": ["parama-shiva", "absolute"],
+      "timeLimit": 50
+    },
+    {
+      "id": "q25",
+      "learningUnitId": "core-concepts",
+      "question": "Explain 'Māyīya Mala'.",
+      "correctAnswer": "The impurity of subject-object differentiation",
+      "hint": "It creates the illusion of separation.",
+      "explanation": "Māyīya Mala superimposes duality on non-dual reality, making the world appear other-than-Self. It is dissolved by intellectual discrimination and grace. This veiling enables diverse experiences.",
+      "difficulty": "advanced",
+      "tags": ["mayiya-mala", "duality"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q26",
+      "learningUnitId": "core-concepts",
+      "question": "What is 'Citi' in Shaiva metaphysics?",
+      "correctAnswer": "The supreme consciousness as free will",
+      "hint": "It is synonymous with Para Shakti.",
+      "explanation": "Citi is the self-aware, autonomous consciousness that freely manifests, embodying Shiva's dynamic essence. Abhinavagupta equates it with pure I-ness. Contemplation on Citi awakens innate sovereignty.",
+      "difficulty": "advanced",
+      "tags": ["citi", "consciousness"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q27",
+      "learningUnitId": "core-concepts",
+      "question": "Define 'Karma Mala'.",
+      "correctAnswer": "The bondage from accumulated actions and tendencies",
+      "hint": "It perpetuates cyclic existence.",
+      "explanation": "Karma Mala arises from past actions veiling freedom, but in Shaivism, it is purified through recognition, not exhaustion. It interacts with other Malas to sustain limitation. Grace accelerates its transcendence.",
+      "difficulty": "advanced",
+      "tags": ["karma-mala", "bondage"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q28",
+      "learningUnitId": "core-concepts",
+      "question": "What is the meaning of 'Aham' in self-realization?",
+      "correctAnswer": "The 'I' as universal consciousness",
+      "hint": "It expands from ego to Shiva.",
+      "explanation": "Aham, the sense of 'I,' is refined from contracted ego to the infinite 'Aham Brahmasmi' of Shaiva identity. Pratyabhijna centers on this expansion. It is the pivot of contemplative inquiry.",
+      "difficulty": "advanced",
+      "tags": ["aham", "self"],
+      "timeLimit": 50
+    },
+    {
+      "id": "q29",
+      "learningUnitId": "core-concepts",
+      "question": "Describe 'Rasa' in Abhinavagupta's aesthetics.",
+      "correctAnswer": "The aesthetic relish as transcendent bliss",
+      "hint": "It mirrors spiritual ecstasy.",
+      "explanation": "Rasa is the savoring of dramatic sentiment leading to universalized bliss, paralleling Sahaja state. Abhinavagupta links it to non-dual recognition. Art becomes a path to divine immersion.",
+      "difficulty": "advanced",
+      "tags": ["rasa", "aesthetics"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q30",
+      "learningUnitId": "core-concepts",
+      "question": "What is 'Śānta Rasa' and its spiritual import?",
+      "correctAnswer": "The sentiment of quiescence evoking liberation",
+      "hint": "It is the highest aesthetic state.",
+      "explanation": "Śānta Rasa, tranquility beyond passion, reflects Mukti, dissolving ego in peace. In Shaiva theory, it initiates ascent to Anuttara. Contemplative arts cultivate this sublime repose.",
+      "difficulty": "advanced",
+      "tags": ["santa-rasa", "quiescence"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q31",
+      "learningUnitId": "key-texts",
+      "question": "Who revealed the Shiva Sutras to Vasugupta?",
+      "correctAnswer": "Lord Shiva in a dream",
+      "hint": "It was a divine transmission in the 9th century.",
+      "explanation": "The Shiva Sutras, foundational to Trika, were divinely revealed to Vasugupta, outlining 77 aphorisms on consciousness and practice. This miracle underscores direct grace in Shaivism. Kshemaraja's commentary elucidates their profundity.",
+      "difficulty": "advanced",
+      "tags": ["shiva-sutras", "vasugupta"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q32",
+      "learningUnitId": "key-texts",
+      "question": "What is the opening sutra of Shiva Sutras in Sanskrit?",
+      "correctAnswer": "Caitanyam ātmā",
+      "hint": "It affirms consciousness as self.",
+      "explanation": "Caitanyam ātmā ('Consciousness is the Self') establishes the non-dual essence, rejecting inert matter views. This sets the tone for awakening practices. It invites immediate self-inquiry.",
+      "difficulty": "advanced",
+      "tags": ["shiva-sutras", "sanskrit"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q33",
+      "learningUnitId": "key-texts",
+      "question": "Summarize the structure of Spanda Karikas.",
+      "correctAnswer": "52 verses on the doctrine of vibration by Bhatta Kallata",
+      "hint": "It expands Shiva Sutras' Spanda section.",
+      "explanation": "The Spanda Karikas poetically expound vibration as the secret of liberation, with verses on recognition and practice. Attributed to Vasugupta but authored by Kallata, it integrates theory and sadhana. Kshemaraja's Vritti provides deeper exegesis.",
+      "difficulty": "advanced",
+      "tags": ["spanda-karikas", "vibration"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q34",
+      "learningUnitId": "key-texts",
+      "question": "What is the core theme of Ishvara Pratyabhijna Karikas?",
+      "correctAnswer": "Systematic exposition of recognition philosophy by Utpaladeva",
+      "hint": "It is the philosophical cornerstone of Pratyabhijna.",
+      "explanation": "Utpaladeva's Karikas argue for self-recognition as the basis of knowledge and reality, refuting opponents. Structured in four chapters, it blends logic and devotion. Utpaladeva's auto-commentary and Abhinavagupta's Tantrāloka vivarana amplify it.",
+      "difficulty": "advanced",
+      "tags": ["ishvara-pratyabhijna", "utpaladeva"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q35",
+      "learningUnitId": "key-texts",
+      "question": "Name the author and scope of Tantraloka.",
+      "correctAnswer": "Abhinavagupta; encyclopedic commentary on 64 tantras",
+      "hint": "It synthesizes the entire Shaiva corpus.",
+      "explanation": "Tantraloka, Abhinavagupta's magnum opus, elucidates ritual, philosophy, and yoga across 37 chapters in Sanskrit verse. It harmonizes diverse traditions under non-duality. Jayaratha's commentary makes it accessible for advanced study.",
+      "difficulty": "advanced",
+      "tags": ["tantraloka", "abhinavagupta"],
+      "timeLimit": 50
+    },
+    {
+      "id": "q36",
+      "learningUnitId": "key-texts",
+      "question": "What is Shivadrishti's contribution to Shaivism?",
+      "correctAnswer": "Somananda's foundational text on non-dual vision",
+      "hint": "It precedes Pratyabhijna as the first systematic work.",
+      "explanation": "Shivadrishti by Somananda establishes the 'vision of Shiva' as all-encompassing reality, influencing subsequent thinkers. Written in verse, it emphasizes direct perception over inference. Kshemaraja's paraphrase aids interpretation.",
+      "difficulty": "advanced",
+      "tags": ["shivadrishti", "somananda"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q37",
+      "learningUnitId": "key-texts",
+      "question": "Describe Malinivijayavarttika briefly.",
+      "correctAnswer": "Kshemaraja's commentary on Malinivijaya Tantra",
+      "hint": "It interprets the Kaula tantra in Trika terms.",
+      "explanation": "Malinivijayavarttika elucidates the goddess-oriented Malinivijaya, integrating it with Pratyabhijna non-dualism. Kshemaraja emphasizes recognition in ritual contexts. It bridges tantric practice and philosophy.",
+      "difficulty": "advanced",
+      "tags": ["malinivijayavarttika", "kshemaraja"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q38",
+      "learningUnitId": "key-texts",
+      "question": "What Sanskrit verse opens Spanda Karikas?",
+      "correctAnswer": "Yāvat spanditā yat tat savad rūpam avasthitam",
+      "hint": "It describes the vibratory nature of reality.",
+      "explanation": "This verse asserts that all stable forms are pervaded by subtle pulsation, revealing Spanda's ubiquity. It invites discernment of the hidden throb. The text builds on this to guide realization.",
+      "difficulty": "advanced",
+      "tags": ["spanda-karikas", "sanskrit-verse"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q39",
+      "learningUnitId": "key-texts",
+      "question": "In Tantraloka, what is Chapter 1 focused on?",
+      "correctAnswer": "The 36 Tattvas and their emanation",
+      "hint": "It lays the cosmological foundation.",
+      "explanation": "Chapter 1 systematically describes the Tattvas from Shiva to earth, illustrating non-dual descent. Abhinavagupta uses it to unify Shaiva metaphysics. This chapter is essential for understanding subsequent rituals.",
+      "difficulty": "advanced",
+      "tags": ["tantraloka", "tattvas"],
+      "timeLimit": 50
+    },
+    {
+      "id": "q40",
+      "learningUnitId": "key-texts",
+      "question": "What is the significance of Pratyabhijna Hridayam?",
+      "correctAnswer": "Kshemaraja's concise summary of recognition doctrine",
+      "hint": "It distills Utpaladeva's complex work.",
+      "explanation": "Pratyabhijna Hridayam ('Heart of Recognition') presents 20 aphorisms on self as Shiva, accessible yet profound. It emphasizes fourfold manifestation from consciousness. Ideal for contemplative study.",
+      "difficulty": "advanced",
+      "tags": ["pratyabhijna-hridayam", "summary"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q41",
+      "learningUnitId": "key-texts",
+      "question": "Name a key sutra from Shiva Sutras on awakening.",
+      "correctAnswer": "Jāgrat svapna suṣuptyaḥ jāgarītanāmapī",
+      "hint": "It transcends states of consciousness.",
+      "explanation": "This sutra identifies a fourth state beyond waking, dreaming, and sleep, as pure awareness. It guides transcendence of mental modifications. Central to Shaiva yoga.",
+      "difficulty": "advanced",
+      "tags": ["shiva-sutras", "states"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q42",
+      "learningUnitId": "key-texts",
+      "question": "What does Ishvara Pratyabhijna Vivriti cover?",
+      "correctAnswer": "Utpaladeva's auto-commentary on his Karikas",
+      "hint": "It provides logical defenses.",
+      "explanation": "The Vivriti expands the Karikas with arguments against Nyaya and others, solidifying Pratyabhijna epistemology. It details reflection theory. Abhinavagupta's further commentary enriches it.",
+      "difficulty": "advanced",
+      "tags": ["vivriti", "commentary"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q43",
+      "learningUnitId": "key-texts",
+      "question": "Summarize Bodhapañcadaśikā.",
+      "correctAnswer": "Abhinavagupta's 15 verses on enlightenment essence",
+      "hint": "It is a poetic distillation of Trika.",
+      "explanation": "Bodhapañcadaśikā ('Fifteen Verses on Realization') captures non-dual insight in succinct Sanskrit, emphasizing grace and recognition. It inspires immediate awakening. Often chanted in practice.",
+      "difficulty": "advanced",
+      "tags": ["bodhapancadasika", "abhinavagupta"],
+      "timeLimit": 50
+    },
+    {
+      "id": "q44",
+      "learningUnitId": "key-texts",
+      "question": "What is the focus of Spanda Sandoha?",
+      "correctAnswer": "Kshemaraja's commentary on selecting Spanda verses",
+      "hint": "It highlights core pulsation teachings.",
+      "explanation": "Spanda Sandoha extracts and explains key Karikas, focusing on practical recognition of vibration. It bridges text and sadhana. Valuable for advanced meditators.",
+      "difficulty": "advanced",
+      "tags": ["spanda-sandoha", "kshemaraja"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q45",
+      "learningUnitId": "key-texts",
+      "question": "In Tantraloka, explain the role of Chapter 13.",
+      "correctAnswer": "On the four Upayas of realization",
+      "hint": "It outlines progressive paths.",
+      "explanation": "Chapter 13 details Śāmbhava to Āṇava Upāyas, adapting methods to temperament. Abhinavagupta integrates them seamlessly. Essential for tantric curriculum.",
+      "difficulty": "advanced",
+      "tags": ["tantraloka", "upayas"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q46",
+      "learningUnitId": "key-texts",
+      "question": "What is Vijnana Bhairava Tantra's relation to Shaivism?",
+      "correctAnswer": "112 dharanas for direct realization, revealed to Bhairavi",
+      "hint": "It is a practical companion to philosophy.",
+      "explanation": "Vijnana Bhairava presents meditation techniques transcending dualities, embedded in Shiva Sutras tradition. Kshemaraja comments on it. Democratizes enlightenment through everyday awareness.",
+      "difficulty": "advanced",
+      "tags": ["vijnana-bhairava", "dharanas"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q47",
+      "learningUnitId": "key-texts",
+      "question": "Describe Paramarthasara.",
+      "correctAnswer": "Abhinavagupta's adaptation of Vasubandhu's text into Shaiva terms",
+      "hint": "It is a philosophical hymn.",
+      "explanation": "Paramarthasara reinterprets Buddhist essence into non-dual Shaivism, in 105 verses. It affirms soul's divinity. Influences later syncretic works.",
+      "difficulty": "advanced",
+      "tags": ["paramarthasara", "syncretism"],
+      "timeLimit": 50
+    },
+    {
+      "id": "q48",
+      "learningUnitId": "key-texts",
+      "question": "What Sanskrit phrase encapsulates Pratyabhijna's goal?",
+      "correctAnswer": "Mamaivāham iti pratyabhijñā",
+      "hint": "'I am That' as recognition.",
+      "explanation": "This phrase signifies the direct realization 'I myself am He,' core to Utpaladeva's system. It dissolves identity veils. Central mantra in contemplative practice.",
+      "difficulty": "advanced",
+      "tags": ["pratyabhijna", "mantra"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q49",
+      "learningUnitId": "key-texts",
+      "question": "Name the text by Kshemaraja on Shiva Sutras.",
+      "correctAnswer": "Shiva Sutra Vimarshini",
+      "hint": "It is the standard commentary.",
+      "explanation": "Vimarshini provides verse-by-verse elucidation, integrating Spanda and Pratyabhijna. Kshemaraja's work makes sutras practical. Cornerstone for study.",
+      "difficulty": "advanced",
+      "tags": ["vimarshini", "commentary"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q50",
+      "learningUnitId": "key-texts",
+      "question": "What is the theme of Tantrasāra?",
+      "correctAnswer": "Abhinavagupta's prose summary of Tantraloka",
+      "hint": "It condenses the vast encyclopedia.",
+      "explanation": "Tantrasāra distills rituals and doctrines for accessibility, retaining depth. It covers initiation and worship. Complements the poetic original.",
+      "difficulty": "advanced",
+      "tags": ["tantrasara", "summary"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q51",
+      "learningUnitId": "key-texts",
+      "question": "Explain a key idea from Paratrisika Vivarana.",
+      "correctAnswer": "Commentary on 36-letter mantra revealing non-dual sound",
+      "hint": "It esotericizes phonetics.",
+      "explanation": "Paratrisika Vivarana decodes the Tripura mantra, showing letters as consciousness vibrations. Abhinavagupta links it to Spanda. Advances mantra science.",
+      "difficulty": "advanced",
+      "tags": ["paratrisika", "mantra"],
+      "timeLimit": 50
+    },
+    {
+      "id": "q52",
+      "learningUnitId": "key-texts",
+      "question": "What is Maharthamanjari?",
+      "correctAnswer": "Mahesvarananda's summary of Trika philosophy",
+      "hint": "South Indian extension of Kashmir tradition.",
+      "explanation": "Maharthamanjari synthesizes key texts into accessible prose, emphasizing rasa and recognition. It preserves Shaivism post-Kashmir. Valuable for global study.",
+      "difficulty": "advanced",
+      "tags": ["maharthamanjari", "synthesis"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q53",
+      "learningUnitId": "key-texts",
+      "question": "Describe the content of Netra Tantra.",
+      "correctAnswer": "Tantra on eye symbolism and protective rituals",
+      "hint": "Linked to Utpaladeva's family tradition.",
+      "explanation": "Netra Tantra details dhyana and upasana for inner vision, with Amṛteśvara as deity. Kshemaraja comments on it. Integrates yogic and tantric elements.",
+      "difficulty": "advanced",
+      "tags": ["netra-tantra", "vision"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q54",
+      "learningUnitId": "key-texts",
+      "question": "What is a famous sutra on freedom from Shiva Sutras?",
+      "correctAnswer": "Muktāva sarvāṇi bhāvāḥ",
+      "hint": "All states are liberated.",
+      "explanation": "This sutra declares phenomena free in their essence, urging non-attachment through recognition. It promotes sahaja state. Profound for daily integration.",
+      "difficulty": "advanced",
+      "tags": ["shiva-sutras", "freedom"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q55",
+      "learningUnitId": "key-texts",
+      "question": "Summarize Gitartha Samgraha.",
+      "correctAnswer": "Abhinavagupta's commentary on Bhagavad Gita in Shaiva light",
+      "hint": "It non-dualizes Krishna's teachings.",
+      "explanation": "Gitartha Samgraha interprets Gita as Trika scripture, emphasizing bhakti as recognition. Concise yet insightful. Bridges Vaishnava and Shaiva.",
+      "difficulty": "advanced",
+      "tags": ["gitartha-samgraha", "gita"],
+      "timeLimit": 50
+    },
+    {
+      "id": "q56",
+      "learningUnitId": "key-texts",
+      "question": "What is the essence of Svacchanda Tantra?",
+      "correctAnswer": "Scripture on self-willed Shiva and 12 Kalis",
+      "hint": "Basis for Svacchanda cult.",
+      "explanation": "Svacchanda Tantra details cosmology and rituals for autonomous divinity, with Kshemaraja's Uddyota commentary. It affirms freedom in worship. Influences broader tantra.",
+      "difficulty": "advanced",
+      "tags": ["svacchanda-tantra", "ritual"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q57",
+      "learningUnitId": "key-texts",
+      "question": "Explain Kularnava Tantra's Shaiva connection.",
+      "correctAnswer": "Kaula text incorporating Trika non-dualism",
+      "hint": "It emphasizes guru-disciple transmission.",
+      "explanation": "Kularnava Tantra synthesizes clan practices with recognition, warning against misuse. Though later, it echoes Kashmir insights. Guides ethical tantra.",
+      "difficulty": "advanced",
+      "tags": ["kularnava", "kaula"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q58",
+      "learningUnitId": "key-texts",
+      "question": "What is a pivotal verse from Tantraloka on non-duality?",
+      "correctAnswer": "Sarvam śivamayam viśvam",
+      "hint": "All is Shiva.",
+      "explanation": "This verse proclaims the universe as Shiva's form, dissolving distinctions. Central to Abhinavagupta's vision. Inspires total affirmation.",
+      "difficulty": "advanced",
+      "tags": ["tantraloka", "non-duality"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q59",
+      "learningUnitId": "key-texts",
+      "question": "Describe the role of Bhairava Tantras in Trika.",
+      "correctAnswer": "Group of 18 texts on fierce aspects and yoga",
+      "hint": "They form the Agama foundation.",
+      "explanation": "Bhairava Tantras, like Rudrayamala, provide scriptural basis for Trika, detailing deification and powers. Abhinavagupta cites them extensively. Essential for advanced initiation.",
+      "difficulty": "advanced",
+      "tags": ["bhairava-tantras", "agama"],
+      "timeLimit": 50
+    },
+    {
+      "id": "q60",
+      "learningUnitId": "key-texts",
+      "question": "What is the final teaching of Pratyabhijna Hridayam?",
+      "correctAnswer": "Chiti expands as fourfold creation: this, knower, knowledge, object",
+      "hint": "It unifies all in consciousness.",
+      "explanation": "The text culminates in Citi's self-manifestation, revealing bondage as forgetting. This aphorism (20) encapsulates liberation. Kshemaraja's work empowers self-study.",
+      "difficulty": "advanced",
+      "tags": ["pratyabhijna-hridayam", "culmination"],
+      "timeLimit": 40
+    }
+  ]
+}

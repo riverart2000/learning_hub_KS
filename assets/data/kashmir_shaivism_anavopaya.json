@@ -1,0 +1,706 @@
+{
+  "categories": [
+    {
+      "id": "kashmir-shaivism-anavopaya",
+      "name": "Kashmir Shaivism: Āṇavopāya – the Path of the Individual",
+      "description": "Āṇavopāya, the embodied path in Kashmir Shaivism, emphasizes action, body, and subtle energies to realize unity with Shiva. It offers accessible techniques for beginners to overcome individual limitations and awaken divine consciousness through practical engagement.",
+      "icon": "yoga"
+    }
+  ],
+  "subcategories": [
+    {
+      "id": "core-principles",
+      "categoryId": "kashmir-shaivism-anavopaya",
+      "name": "Core Principles of Āṇavopāya",
+      "description": "This subtopic covers the foundational philosophical ideas, key terms, and conceptual framework of the Path of the Individual."
+    },
+    {
+      "id": "key-practices",
+      "categoryId": "kashmir-shaivism-anavopaya",
+      "name": "Key Practices of Āṇavopāya",
+      "description": "This subtopic introduces the essential techniques and methods used in Āṇavopāya for spiritual cultivation."
+    }
+  ],
+  "learningUnits": [
+    {
+      "id": "core-principles",
+      "subCategoryId": "core-principles",
+      "type": "mixed",
+      "title": "Core Principles of Āṇavopāya",
+      "content": {},
+      "difficulty": "beginner",
+      "tags": ["principles", "philosophy", "concepts"]
+    },
+    {
+      "id": "key-practices",
+      "subCategoryId": "key-practices",
+      "type": "mixed",
+      "title": "Key Practices of Āṇavopāya",
+      "content": {},
+      "difficulty": "beginner",
+      "tags": ["practices", "techniques", "methods"]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "learningUnitId": "core-principles",
+      "question": "What does Āṇavopāya literally mean in Kashmir Shaivism?",
+      "correctAnswer": "The path of the individual or embodied method",
+      "hint": "Think about the root 'āṇu' which refers to the limited self.",
+      "explanation": "Āṇavopāya derives from 'āṇu' meaning the atomic or individual self, emphasizing practices that start from the limited, embodied state. It is the lowest of the upāyas but essential for beginners to gradually transcend duality. This path uses the body and action as gateways to higher realization.",
+      "difficulty": "beginner",
+      "tags": ["definition", "etymology"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q2",
+      "learningUnitId": "core-principles",
+      "question": "Which upāya is considered the lowest path in Kashmir Shaivism?",
+      "correctAnswer": "Āṇavopāya",
+      "hint": "It focuses on physical and gross levels of experience.",
+      "explanation": "Āṇavopāya is the foundational path for those deeply identified with the body and senses. It prepares the practitioner by purifying gross impurities before advancing to subtler methods. Despite being 'lowest,' it is equally valid for achieving liberation when practiced with devotion.",
+      "difficulty": "beginner",
+      "tags": ["upayas", "hierarchy"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q3",
+      "learningUnitId": "core-principles",
+      "question": "What is the primary focus of Āṇavopāya?",
+      "correctAnswer": "Action and the embodied individual",
+      "hint": "It involves kriyā-śakti, the power of doing.",
+      "explanation": "Āṇavopāya centers on kriyā-śakti, using physical actions, breath, and body to awaken consciousness. This approach makes spirituality accessible by starting from everyday experiences. It transforms ordinary activities into sacred practices leading to Shiva-realization.",
+      "difficulty": "beginner",
+      "tags": ["focus", "kriya-shakti"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q4",
+      "learningUnitId": "core-principles",
+      "question": "How many main upāyas are there in Trika Shaivism?",
+      "correctAnswer": "Four",
+      "hint": "They range from embodied to direct recognition.",
+      "explanation": "The four upāyas are Āṇavopāya (individual), Śāktopāya (energy), Śāmbhavopāya (will), and Anupāya (no means). Each suits different levels of readiness, with Āṇavopāya being the most gradual. This structure ensures all can progress toward non-dual awareness.",
+      "difficulty": "beginner",
+      "tags": ["upayas", "count"],
+      "timeLimit": 20
+    },
+    {
+      "id": "q5",
+      "learningUnitId": "core-principles",
+      "question": "What does 'āṇu' represent in Āṇavopāya?",
+      "correctAnswer": "The limited or atomic individual self",
+      "hint": "It symbolizes contraction from universal consciousness.",
+      "explanation": "'Āṇu' refers to the contracted, limited aspect of consciousness due to āṇavamala (innate impurity). Āṇavopāya works to expand this limitation back to fullness. Understanding āṇu helps practitioners recognize their divine potential within apparent finitude.",
+      "difficulty": "beginner",
+      "tags": ["anu", "impurity"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q6",
+      "learningUnitId": "core-principles",
+      "question": "What is the goal of all upāyas, including Āṇavopāya?",
+      "correctAnswer": "Samāveśa or total immersion in Shiva",
+      "hint": "It's the recognition of one's true nature.",
+      "explanation": "Samāveśa means complete absorption into divine consciousness, dissolving the sense of separation. Āṇavopāya achieves this through embodied means, proving no path is inferior. This non-dual goal unifies all practices in Kashmir Shaivism.",
+      "difficulty": "beginner",
+      "tags": ["goal", "samavesa"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q7",
+      "learningUnitId": "core-principles",
+      "question": "Which impurity does Āṇavopāya primarily address?",
+      "correctAnswer": "Āṇavamala, the innate sense of limitation",
+      "hint": "It's the fundamental contraction of consciousness.",
+      "explanation": "Āṇavamala is the core impurity causing individuality and ignorance of one's Shiva-nature. Āṇavopāya purifies it via action-oriented practices. Removing this leads to freedom from other mal as like mayiya and karma.",
+      "difficulty": "beginner",
+      "tags": ["malas", "anavamala"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q8",
+      "learningUnitId": "core-principles",
+      "question": "In Āṇavopāya, what is kriyā-śakti?",
+      "correctAnswer": "The power of action and doing",
+      "hint": "It's the dynamic energy for spiritual practices.",
+      "explanation": "Kriyā-śakti is Shiva's creative power manifested in individual actions like rituals and yoga. In Āṇavopāya, it drives embodied techniques to reveal inner divinity. Harnessing it turns mundane efforts into paths of liberation.",
+      "difficulty": "beginner",
+      "tags": ["kriya-shakti", "energy"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q9",
+      "learningUnitId": "core-principles",
+      "question": "Why is Āṇavopāya suitable for beginners?",
+      "correctAnswer": "It uses familiar body and action-based methods",
+      "hint": "No advanced insight is required to start.",
+      "explanation": "Āṇavopāya meets practitioners where they are, employing gross physical tools accessible to all. This builds a foundation for higher upāyas without frustration. Its gradual nature fosters steady progress toward non-duality.",
+      "difficulty": "beginner",
+      "tags": ["accessibility", "beginners"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q10",
+      "learningUnitId": "core-principles",
+      "question": "What is the relationship between Āṇavopāya and pratyabhijñā?",
+      "correctAnswer": "Āṇavopāya leads to pratyabhijñā through practice",
+      "hint": "Pratyabhijñā is recognition of self as Shiva.",
+      "explanation": "Pratyabhijñā means 'recognition' of one's innate divinity, which Āṇavopāya facilitates via purifying actions. Practices remove veils, allowing spontaneous insight. Thus, embodied effort culminates in direct self-knowledge.",
+      "difficulty": "beginner",
+      "tags": ["pratyabhijna", "recognition"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q11",
+      "learningUnitId": "core-principles",
+      "question": "How does Āṇavopāya view the body?",
+      "correctAnswer": "As a microcosm and tool for realization",
+      "hint": "The body reflects universal Shiva.",
+      "explanation": "In Āṇavopāya, the body is not an obstacle but a sacred instrument mirroring cosmic structure. Practices honor it to awaken dormant energies. This shifts perception from limitation to divine expression.",
+      "difficulty": "beginner",
+      "tags": ["body", "microcosm"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q12",
+      "learningUnitId": "core-principles",
+      "question": "What are the three main impurities in Kashmir Shaivism?",
+      "correctAnswer": "Āṇavamala, māyīyamala, and kārmamala",
+      "hint": "They obscure the vision of unity.",
+      "explanation": "These mal as—innate limitation, illusion of difference, and action-bondage—contract consciousness. Āṇavopāya targets them sequentially starting with āṇavamala. Purification restores the natural state of freedom.",
+      "difficulty": "beginner",
+      "tags": ["malas", "impurities"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q13",
+      "learningUnitId": "core-principles",
+      "question": "In Trika, what does 'Trika' refer to?",
+      "correctAnswer": "The three-fold path or Shiva, Shakti, Nara",
+      "hint": "It encompasses the triad of energies.",
+      "explanation": "Trika means 'three,' symbolizing the interplay of Shiva (transcendent), Shakti (immanent), and the individual (nara). Āṇavopāya integrates the individual into this unity. This framework underpins all Shaiva practices.",
+      "difficulty": "beginner",
+      "tags": ["trika", "triad"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q14",
+      "learningUnitId": "core-principles",
+      "question": "What is the highest upāya?",
+      "correctAnswer": "Śāmbhavopāya or Anupāya",
+      "hint": "It requires direct will and no technique.",
+      "explanation": "Śāmbhavopāya uses pure Śiva's will for instant recognition, while Anupāya is effortless. Āṇavopāya contrasts by building capacity for such grace. All paths converge in the same realization.",
+      "difficulty": "beginner",
+      "tags": ["upayas", "highest"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q15",
+      "learningUnitId": "core-principles",
+      "question": "Why is duality emphasized in Āṇavopāya?",
+      "correctAnswer": "To start from the practitioner's current state of separation",
+      "hint": "It bridges the gap between individual and universal.",
+      "explanation": "Āṇavopāya acknowledges duality as the starting point for most, using it as a tool for transcendence. Practices gradually dissolve perceived divisions. This pragmatic approach ensures inclusive spiritual growth.",
+      "difficulty": "beginner",
+      "tags": ["duality", "starting-point"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q16",
+      "learningUnitId": "core-principles",
+      "question": "What role does imagination play in Āṇavopāya?",
+      "correctAnswer": "It activates subtle energies and visualizations",
+      "hint": "Imagination is a sphere of practice.",
+      "explanation": "Imagination in Āṇavopāya is a creative force akin to kriyā-śakti, used for dhyāna and chakra activation. It transforms mental images into experiential reality. This makes abstract principles tangible for beginners.",
+      "difficulty": "beginner",
+      "tags": ["imagination", "visualization"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q17",
+      "learningUnitId": "core-principles",
+      "question": "How does Āṇavopāya relate to the Tantrasāra?",
+      "correctAnswer": "It is detailed as one of the upāyas by Abhinavagupta",
+      "hint": "Abhinavagupta defines its methods.",
+      "explanation": "In Tantrasāra, Abhinavagupta equates all Āṇavopāya methods—imagination, prāṇa, body—for supreme fruit. This text systematizes Trika practices. It underscores the path's efficacy for embodied liberation.",
+      "difficulty": "beginner",
+      "tags": ["tantrasara", "abhinavagupta"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q18",
+      "learningUnitId": "core-principles",
+      "question": "What is māyīyamala?",
+      "correctAnswer": "The impurity of illusion creating difference",
+      "hint": "It veils the oneness of all.",
+      "explanation": "Māyīyamala projects multiplicity from unity, fostering ego-separation. Āṇavopāya addresses it after āṇavamala through unifying practices. Dissolving it reveals the non-dual world.",
+      "difficulty": "beginner",
+      "tags": ["malas", "mayiyamala"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q19",
+      "learningUnitId": "core-principles",
+      "question": "What is kārmamala?",
+      "correctAnswer": "The impurity from actions binding the soul",
+      "hint": "It results from good and bad deeds.",
+      "explanation": "Kārmamala accumulates from karmic residues, limiting freedom. Āṇavopāya purifies it via ritual and yoga. Transcending it allows spontaneous divine action.",
+      "difficulty": "beginner",
+      "tags": ["malas", "karmamala"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q20",
+      "learningUnitId": "core-principles",
+      "question": "In Āṇavopāya, what is the microcosm-macrocosm principle?",
+      "correctAnswer": "The individual body reflects the universe",
+      "hint": "Aṇu mirrors the whole.",
+      "explanation": "This principle posits the body as a miniature cosmos, with practices aligning personal energies to universal. It empowers embodied work for cosmic realization. Kashmir Shaivism uses this for holistic integration.",
+      "difficulty": "beginner",
+      "tags": ["microcosm", "macrocosm"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q21",
+      "learningUnitId": "core-principles",
+      "question": "What is the significance of the four spheres in Āṇavopāya?",
+      "correctAnswer": "Imagination, prāṇa, body, and external things are equal methods",
+      "hint": "Abhinavagupta says no difference among them.",
+      "explanation": "These spheres provide versatile entry points, ensuring practices fit any temperament. Their equivalence democratizes the path. This flexibility aids thorough learning and application.",
+      "difficulty": "beginner",
+      "tags": ["spheres", "methods"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q22",
+      "learningUnitId": "core-principles",
+      "question": "How does Āṇavopāya promote non-duality?",
+      "correctAnswer": "By using dual actions to reveal underlying unity",
+      "hint": "Duality is a temporary tool.",
+      "explanation": "Practices start in duality but point to oneness, gradually eroding separation. This progressive revelation builds confidence in the process. Ultimately, it affirms all is Shiva.",
+      "difficulty": "beginner",
+      "tags": ["non-duality", "progression"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q23",
+      "learningUnitId": "core-principles",
+      "question": "What is susumna in the context of Āṇavopāya?",
+      "correctAnswer": "The central channel for energy flow",
+      "hint": "It's the subtle spine.",
+      "explanation": "Susumna nāḍī runs from base to crown, channeling prāṇa upward. Practices focus here to pierce blockages. Awakening it integrates body and spirit.",
+      "difficulty": "beginner",
+      "tags": ["susumna", "nadi"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q24",
+      "learningUnitId": "core-principles",
+      "question": "Why is Āṇavopāya called the 'path of activity'?",
+      "correctAnswer": "It emphasizes doing through body and rituals",
+      "hint": "Action is key to transformation.",
+      "explanation": "Unlike contemplative paths, it prioritizes active engagement to shift consciousness. This dynamism suits kinetic learners. Activity becomes worship, leading to stillness.",
+      "difficulty": "beginner",
+      "tags": ["activity", "path"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q25",
+      "learningUnitId": "core-principles",
+      "question": "What is the role of grace in Āṇavopāya?",
+      "correctAnswer": "It descends through devoted practice",
+      "hint": "Effort invites Śiva's energy.",
+      "explanation": "While effortful, Āṇavopāya relies on Śakti's grace to fructify actions. Sincere practice magnetizes higher energies. This balance prevents burnout and ensures success.",
+      "difficulty": "beginner",
+      "tags": ["grace", "shakti"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q26",
+      "learningUnitId": "core-principles",
+      "question": "How many branches does Āṇavopāya have?",
+      "correctAnswer": "Five",
+      "hint": "They include various dualistic methods.",
+      "explanation": "The five branches encompass rituals, yoga, mantra, and more for comprehensive purification. This division allows tailored approaches. Each builds toward unified consciousness.",
+      "difficulty": "beginner",
+      "tags": ["branches", "structure"],
+      "timeLimit": 20
+    },
+    {
+      "id": "q27",
+      "learningUnitId": "core-principles",
+      "question": "What is dhyāna in Āṇavopāya?",
+      "correctAnswer": "Contemplative meditation on Śiva",
+      "hint": "It's attentive focus on the divine.",
+      "explanation": "Dhyāna involves sustained visualization of divine forms to internalize unity. In Āṇavopāya, it's embodied, using senses. It cultivates inner peace and insight.",
+      "difficulty": "beginner",
+      "tags": ["dhyana", "meditation"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q28",
+      "learningUnitId": "core-principles",
+      "question": "What distinguishes Āṇavopāya from Śāktopāya?",
+      "correctAnswer": "Āṇavopāya uses body and action; Śāktopāya uses mind and energy",
+      "hint": "One is gross, the other subtle.",
+      "explanation": "Śāktopāya employs will and subtle awareness, while Āṇavopāya grounds in physicality. Both lead to the same goal but suit different maturities. Transitioning between them deepens practice.",
+      "difficulty": "beginner",
+      "tags": ["comparison", "shaktopaya"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q29",
+      "learningUnitId": "core-principles",
+      "question": "In Āṇavopāya, what is the ultimate fruit?",
+      "correctAnswer": "Moksha or liberation as Shiva-consciousness",
+      "hint": "It's freedom from all bonds.",
+      "explanation": "The fruit is jīvanmukti, living liberated in non-dual bliss. Āṇavopāya proves embodied life can yield this. Practitioners embody divine play post-realization.",
+      "difficulty": "beginner",
+      "tags": ["fruit", "moksha"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q30",
+      "learningUnitId": "core-principles",
+      "question": "What is the philosophical basis of Āṇavopāya?",
+      "correctAnswer": "Non-dual recognition through embodied means",
+      "hint": "All is Shiva, realized via action.",
+      "explanation": "Rooted in Pratyabhijñā philosophy, it affirms inherent divinity unveiled by practice. Body is not separate from Śiva. This empowers joyful, integrated spirituality.",
+      "difficulty": "beginner",
+      "tags": ["philosophy", "basis"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q31",
+      "learningUnitId": "key-practices",
+      "question": "What is prāṇāyāma in Āṇavopāya?",
+      "correctAnswer": "Breath control to direct vital energy",
+      "hint": "It regulates prāṇa for awakening.",
+      "explanation": "Prāṇāyāma techniques like retention (kumbhaka) and udgātha propel energy up susumna. This purifies nāḍīs and steadies mind. Beginners start with simple inhalations to build focus.",
+      "difficulty": "beginner",
+      "tags": ["pranayama", "breath"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q32",
+      "learningUnitId": "key-practices",
+      "question": "What is a key visualization practice in Āṇavopāya?",
+      "correctAnswer": "Imagining lotus petals or divine forms in chakras",
+      "hint": "Use mental imagery for energy activation.",
+      "explanation": "Visualizing a multi-petaled lotus in the heart, for example, contemplates virtues like dharma. This engages imagination to embody principles. It bridges intellect and experience for deeper absorption.",
+      "difficulty": "beginner",
+      "tags": ["visualization", "chakra"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q33",
+      "learningUnitId": "key-practices",
+      "question": "What is varṇa-uccāra?",
+      "correctAnswer": "Intonation of seed syllables or phonemes",
+      "hint": "It's mantra recitation at body points.",
+      "explanation": "Varṇa-uccāra involves sounding 'a,' 'u,' etc., ascending from throat to crown. This vibrates subtle centers, dissolving limitations. It's a sonic yoga for beginners to feel divine presence.",
+      "difficulty": "beginner",
+      "tags": ["varna", "mantra"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q34",
+      "learningUnitId": "key-practices",
+      "question": "What is āsana's role in Āṇavopāya?",
+      "correctAnswer": "Stabilizing the body for energy work",
+      "hint": "Postures like lotus support meditation.",
+      "explanation": "Āsanas such as padmāsana ground physical form, preventing distraction. They align the spine for prāṇa flow. Steady posture fosters mental clarity essential for practice.",
+      "difficulty": "beginner",
+      "tags": ["asana", "posture"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q35",
+      "learningUnitId": "key-practices",
+      "question": "Describe pūjā in Āṇavopāya.",
+      "correctAnswer": "Meditative ritual using external objects",
+      "hint": "It's worship integrating senses.",
+      "explanation": "Pūjā involves offering flowers or lights with awareness of their divinity. This sanctifies environment and self. For beginners, it turns daily acts into spiritual discipline.",
+      "difficulty": "beginner",
+      "tags": ["puja", "ritual"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q36",
+      "learningUnitId": "key-practices",
+      "question": "What is udgātha technique?",
+      "correctAnswer": "Propelling retained breath upward from navel",
+      "hint": "It's a prāṇāyāma for striking the head.",
+      "explanation": "Udgātha sends kumbhaka air from navel to crown, piercing cakras. This awakens kuṇḍalinī subtly. Practice builds inner force gradually.",
+      "difficulty": "beginner",
+      "tags": ["udgatha", "pranayama"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q37",
+      "learningUnitId": "key-practices",
+      "question": "How is the haṃsá mantra used?",
+      "correctAnswer": "Recited at heart center for unity awareness",
+      "hint": "It's the breath mantra.",
+      "explanation": "Haṃsá (so'ham reversed) syncs with inhalation-exhalation at the heart. This reveals 'I am That.' Beginners use it to calm and unify mind-body.",
+      "difficulty": "beginner",
+      "tags": ["hamsa", "mantra"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q38",
+      "learningUnitId": "key-practices",
+      "question": "What are chakras in Āṇavopāya practices?",
+      "correctAnswer": "Subtle energy centers along susumna",
+      "hint": "Typically six, for energy progression.",
+      "explanation": "Chakras like mūlādhāra to ājñā house lotuses activated by focus and mantra. They represent consciousness levels. Practices ascend through them for full awakening.",
+      "difficulty": "beginner",
+      "tags": ["chakra", "subtle-body"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q39",
+      "learningUnitId": "key-practices",
+      "question": "What is bīja mantra?",
+      "correctAnswer": "Seed syllable like 'hṛṃ' for invocation",
+      "hint": "It's a potent sound seed.",
+      "explanation": "Bīja mantras condense divine energy, chanted at specific loci to vibrate reality. In Āṇavopāya, they anchor embodied meditation. Their power lies in devotional repetition.",
+      "difficulty": "beginner",
+      "tags": ["bija", "seed-mantra"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q40",
+      "learningUnitId": "key-practices",
+      "question": "How does dhyāna integrate with action in Āṇavopāya?",
+      "correctAnswer": "By contemplating while performing rituals",
+      "hint": "Action becomes meditative.",
+      "explanation": "Dhyāna turns pūjā or āsana into conscious worship, blurring doing and being. This embodies non-duality in motion. Beginners experience grace through such fusion.",
+      "difficulty": "beginner",
+      "tags": ["dhyana", "integration"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q41",
+      "learningUnitId": "key-practices",
+      "question": "What is kumbhaka?",
+      "correctAnswer": "Breath retention in prāṇāyāma",
+      "hint": "It holds prāṇa for concentration.",
+      "explanation": "Kumbhaka suspends breath to intensify inner awareness and energy. Short holds suit beginners, building to longer. It symbolizes holding the divine within.",
+      "difficulty": "beginner",
+      "tags": ["kumbhaka", "retention"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q42",
+      "learningUnitId": "key-practices",
+      "question": "Describe mantra recitation in body loci.",
+      "correctAnswer": "Chanting at heart, throat, palate, forehead",
+      "hint": "Ascends energy through regions.",
+      "explanation": "Recitation progresses from lower to higher centers, purifying each. This sonic ascent mirrors consciousness expansion. It makes mantra a living force.",
+      "difficulty": "beginner",
+      "tags": ["mantra", "loci"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q43",
+      "learningUnitId": "key-practices",
+      "question": "What is nimīlanā samādhi?",
+      "correctAnswer": "Introverted absorption with eyes closed",
+      "hint": "It's breath entry into central vein.",
+      "explanation": "Nimīlanā involves inward focus, often with breath in susumna for subtle states. It transitions from gross to refined practice. Beginners use it for calm immersion.",
+      "difficulty": "beginner",
+      "tags": ["samadhi", "absorption"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q44",
+      "learningUnitId": "key-practices",
+      "question": "How are external things used in Āṇavopāya?",
+      "correctAnswer": "In pūjā to invoke and honor divinity",
+      "hint": "Objects become symbols of Śiva.",
+      "explanation": "Items like incense represent elements offered to inner fire. This externalizes inner worship, engaging senses. It teaches all phenomena as sacred.",
+      "difficulty": "beginner",
+      "tags": ["external", "puja"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q45",
+      "learningUnitId": "key-practices",
+      "question": "What is the purpose of focusing on tattvas?",
+      "correctAnswer": "To transcend elements from gross to subtle",
+      "hint": "Tattvas are reality's building blocks.",
+      "explanation": "Contemplating earth to ether pierces veils, leading to pure consciousness. This sequential focus refines perception. It's a structured way for beginners to map the cosmos.",
+      "difficulty": "beginner",
+      "tags": ["tattvas", "elements"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q46",
+      "learningUnitId": "key-practices",
+      "question": "What is a simple beginner āsana for Āṇavopāya?",
+      "correctAnswer": "Sukhasana or easy pose",
+      "hint": "Comfortable seated posture.",
+      "explanation": "Sukhasana relaxes the body for breath and mantra work without strain. It promotes alertness and stability. Ideal for initial sessions to build habit.",
+      "difficulty": "beginner",
+      "tags": ["asana", "beginner"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q47",
+      "learningUnitId": "key-practices",
+      "question": "How does listening to inner sound fit Āṇavopāya?",
+      "correctAnswer": "As varṇa practice for subtle awareness",
+      "hint": "Tune to the mysterious hum.",
+      "explanation": "Varṇa involves hearing the constant inner sound (nāda) for concentration. This auditory focus quiets mind, revealing unity. Beginners start in quiet, noting faint vibrations.",
+      "difficulty": "beginner",
+      "tags": ["sound", "varna"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q48",
+      "learningUnitId": "key-practices",
+      "question": "What is the central channel's importance?",
+      "correctAnswer": "It directs prāṇa for chakra activation",
+      "hint": "Susumna balances ida and pingala.",
+      "explanation": "Susumna's flow integrates dual energies, enabling ascent to sahasrāra. Practices pierce its knots (granthis). Clear channel ensures balanced spiritual progress.",
+      "difficulty": "beginner",
+      "tags": ["channel", "susumna"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q49",
+      "learningUnitId": "key-practices",
+      "question": "Describe a basic ritual in Āṇavopāya.",
+      "correctAnswer": "Offering water or light with mantra",
+      "hint": "Infuse action with intention.",
+      "explanation": "Simple offerings like ācamana (sipping water) with 'oṃ namaḥ śivāya' purify and devote. This ritualizes daily life. It cultivates bhakti alongside technique.",
+      "difficulty": "beginner",
+      "tags": ["ritual", "basic"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q50",
+      "learningUnitId": "key-practices",
+      "question": "What is the benefit of bija mantra practice?",
+      "correctAnswer": "Vibrates and awakens dormant energies",
+      "hint": "Seeds grow into full manifestation.",
+      "explanation": "Bījas like 'oṃ' resonate in cakras, unlocking śakti. Repetition builds potency over time. Beginners feel subtle thrills, confirming efficacy.",
+      "difficulty": "beginner",
+      "tags": ["bija", "benefit"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q51",
+      "learningUnitId": "key-practices",
+      "question": "How to begin prāṇāyāma safely?",
+      "correctAnswer": "With gentle alternate nostril breathing",
+      "hint": "Nāḍī śodhana balances channels.",
+      "explanation": "Start with anulom vilom: inhale left, exhale right, etc., without force. This clears pathways gently. It prepares for advanced retentions.",
+      "difficulty": "beginner",
+      "tags": ["pranayama", "safety"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q52",
+      "learningUnitId": "key-practices",
+      "question": "What is the heart chakra's focus in visualization?",
+      "correctAnswer": "Anāhata, seat of love and unity",
+      "hint": "Visualize twelve-petaled lotus.",
+      "explanation": "Anāhata contemplation fosters compassion and dissolves ego. Imagine green light or haṃsá there. This heart-centered practice opens to divine love.",
+      "difficulty": "beginner",
+      "tags": ["heart", "anahata"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q53",
+      "learningUnitId": "key-practices",
+      "question": "Why combine āsana and prāṇāyāma?",
+      "correctAnswer": "To stabilize body for breath mastery",
+      "hint": "Posture supports energy control.",
+      "explanation": "Steady āsana prevents physical interference in prāṇāyāma, enhancing focus. Together, they harmonize gross and subtle. This duo builds foundational strength.",
+      "difficulty": "beginner",
+      "tags": ["combination", "asana-pranayama"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q54",
+      "learningUnitId": "key-practices",
+      "question": "What is a seed practice for mantra?",
+      "correctAnswer": "Daily japa of a personal mantra",
+      "hint": "Repeat 108 times with mala.",
+      "explanation": "Japa using beads counts repetitions, deepening concentration. Choose 'oṃ namaḥ śivāya' for accessibility. Consistency transforms rote into revelation.",
+      "difficulty": "beginner",
+      "tags": ["japa", "mantra"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q55",
+      "learningUnitId": "key-practices",
+      "question": "How does pūjā aid beginners?",
+      "correctAnswer": "By providing structured devotion",
+      "hint": "Ritual channels scattered energy.",
+      "explanation": "Structured steps focus wandering minds, building discipline. Sensory engagement makes abstract devotion concrete. It fosters surrender and joy.",
+      "difficulty": "beginner",
+      "tags": ["puja", "beginners"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q56",
+      "learningUnitId": "key-practices",
+      "question": "What is the throat chakra practice?",
+      "correctAnswer": "Viśuddha, sounding mantras for expression",
+      "hint": "Blue lotus for purification.",
+      "explanation": "Focus on viśuddha clears communication blocks, voicing truth. Chant 'aṃ' there. It enhances clarity in spiritual expression.",
+      "difficulty": "beginner",
+      "tags": ["throat", "vishuddha"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q57",
+      "learningUnitId": "key-practices",
+      "question": "Describe a simple dhyāna exercise.",
+      "correctAnswer": "Gaze at a yantra or flame steadily",
+      "hint": "Trataka for one-pointedness.",
+      "explanation": "Trāṭaka on a candle builds concentration, internalizing light as Śiva. Close eyes to retain image. This visual anchor quiets thoughts.",
+      "difficulty": "beginner",
+      "tags": ["dhyana", "exercise"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q58",
+      "learningUnitId": "key-practices",
+      "question": "What is the role of intention in practices?",
+      "correctAnswer": "It infuses action with śakti",
+      "hint": "Saṅkalpa directs energy.",
+      "explanation": "Clear intention (saṅkalpa) aligns efforts with goal, amplifying effects. State it before practice. This mental focus magnetizes results.",
+      "difficulty": "beginner",
+      "tags": ["intention", "sankalpa"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q59",
+      "learningUnitId": "key-practices",
+      "question": "How to end a practice session?",
+      "correctAnswer": "With gratitude and dedication to all",
+      "hint": "Seal with oṃ śāntiḥ.",
+      "explanation": "Conclude by offering fruits to guru or world, integrating benefits. This humility prevents ego inflation. Peace chant grounds the experience.",
+      "difficulty": "beginner",
+      "tags": ["closing", "gratitude"],
+      "timeLimit": 20
+    },
+    {
+      "id": "q60",
+      "learningUnitId": "key-practices",
+      "question": "Why daily practice in Āṇavopāya?",
+      "correctAnswer": "To build momentum and purify gradually",
+      "hint": "Consistency compounds effects.",
+      "explanation": "Regularity accumulates subtle shifts, transforming habits. Short daily sessions suit beginners over sporadic intensity. It weaves spirituality into life seamlessly.",
+      "difficulty": "beginner",
+      "tags": ["daily", "consistency"],
+      "timeLimit": 35
+    }
+  ]
+}

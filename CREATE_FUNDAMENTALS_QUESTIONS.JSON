@@ -1,0 +1,83 @@
+I need you to generate a JSON file for a learning app with questions and answers for the category: <Category>
+Please follow this exact structure:
+1. Create 1 category with:
+   - Unique id (e.g., "mathematics")
+   - Name (e.g., "Mathematics")
+   - Description (brief, 1-3 sentences)
+   - Icon (use an icon that is closest for this category) 
+2. Create 2 subcategories under this category with:
+   - Unique ids (e.g., "algebra", "geometry")
+   - Names that are specific topics within the main category
+   - Descriptions (one sentence each)
+3. Create 2 learning units (one per subcategory) with:
+   - Unique ids matching the subcategory names (e.g., "algebra")
+   - type: ALWAYS "mixed"
+   - difficulty: use "beginner"
+   - Relevant tags
+4. Create 30 questions PER subcategory with:
+   - Sequential ids (q1, q2, q3, ... q100)
+   - Each question linked to the appropriate learning unit
+   - Clear, concise questions
+   - Accurate correct answers
+   - Helpful hints 
+   - Detailed explanations of the correct answer(2-3 sentences)
+   - Appropriate difficulty level ("beginner")
+   - Relevant tags
+   - Time limit in seconds (20-60 seconds recommended)
+Please use this exact JSON structure:
+{
+  "categories": [
+    {
+      "id": "TOPIC",
+      "name": "Topic Name",
+      "description": "Description here",
+      "icon": "school"
+    }
+  ],
+  "subcategories": [
+    {
+      "id": "NAME1",
+      "categoryId": "TOPIC",
+      "name": "Subtopic 1",
+      "description": "Description"
+    }
+    // ... 4 more subcategories
+  ],
+  "learningUnits": [
+    {
+      "id": "NAME1",
+      "subCategoryId": "NAME1",
+      "type": "mixed",
+      "title": "Subtopic 1",
+      "content": {},
+      "difficulty": "beginner",
+      "tags": ["tag1", "tag2"],
+    }
+    // ... 4 more learning units
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "learningUnitId": "NAME1",
+      "question": "Question text?",
+      "correctAnswer": "The answer",
+      "hint": "A helpful hint",
+      "explanation": "Why this is correct",
+      "difficulty": "beginner",
+      "tags": ["tag1"],
+      "timeLimit": 30
+    }
+    // ... 99 more questions (30 per subcategory)
+  ]
+}
+Requirements:
+- Make questions educational and accurate
+- Vary difficulty levels appropriately
+- Include helpful explanations
+- Keep questions clear and concise
+- Ensure correctAnswer is factually accurate
+- Add relevant tags for each question
+- Distribute 30 questions per subcategory evenly
+- make it a downloadable file
+- these are designed to help the student learn quickly & thoroughly
+- no duplicates no variants

@@ -1,0 +1,706 @@
+{
+  "categories": [
+    {
+      "id": "kashmir_shaivism",
+      "name": "Kashmir Shaivism",
+      "description": "A non-dual Tantric tradition from Kashmir emphasizing the recognition of one's identity with Shiva through the 36 tattvas (principles of reality). It integrates metaphysics, epistemology, and soteriology in a dynamic framework of consciousness.",
+      "icon": "psychology"
+    }
+  ],
+  "subcategories": [
+    {
+      "id": "pure_tattvas",
+      "categoryId": "kashmir_shaivism",
+      "name": "Pure Tattvas (Shuddha Tattvas)",
+      "description": "The first five tattvas representing the unmanifest, divine, absolute reality of Shiva and Shakti — pure consciousness untouched by limitation."
+    },
+    {
+      "id": "impure_tattvas",
+      "categoryId": "kashmir_shaivism",
+      "name": "Impure Tattvas (Ashuddha Tattvas)",
+      "description": "The final 24 tattvas comprising the material universe, individual soul, and instruments of experience — the realm of contraction and duality."
+    }
+  ],
+  "learningUnits": [
+    {
+      "id": "pure_tattvas",
+      "subCategoryId": "pure_tattvas",
+      "type": "mixed",
+      "title": "Pure Tattvas (Shuddha Tattvas)",
+      "content": {},
+      "difficulty": "beginner",
+      "tags": ["shiva", "shakti", "consciousness", "non-duality", "tattva"]
+    },
+    {
+      "id": "impure_tattvas",
+      "subCategoryId": "impure_tattvas",
+      "type": "mixed",
+      "title": "Impure Tattvas (Ashuddha Tattvas)",
+      "content": {},
+      "difficulty": "beginner",
+      "tags": ["prakriti", "purusha", "ahamkara", "buddhi", "manas", "tanmatras", "mahabhutas"]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "learningUnitId": "pure_tattvas",
+      "question": "What is the highest (first) tattva in Kashmir Shaivism?",
+      "correctAnswer": "Shiva Tattva",
+      "hint": "Represents pure, undifferentiated consciousness — the absolute subject.",
+      "explanation": "Shiva Tattva is the supreme principle: pure, non-dual awareness, the ground of all being. It is the 'I'-consciousness (aham) in its fullest, uncontracted form, prior to any manifestation.",
+      "difficulty": "beginner",
+      "tags": ["shiva", "tattva1", "pure"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q2",
+      "learningUnitId": "pure_tattvas",
+      "question": "Which tattva represents Shiva's dynamic energy or creative power?",
+      "correctAnswer": "Shakti Tattva",
+      "hint": "The counterpart and inseparable power of Shiva — often depicted as feminine.",
+      "explanation": "Shakti Tattva is the spontaneous, pulsating energy (spanda) of Shiva, enabling self-expression and manifestation. Though distinct in function, Shiva and Shakti are non-dual — like fire and its heat.",
+      "difficulty": "beginner",
+      "tags": ["shakti", "tattva2", "pure"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q3",
+      "learningUnitId": "pure_tattvas",
+      "question": "What is the function of Sadashiva Tattva (3rd tattva)?",
+      "correctAnswer": "The 'I am this' consciousness where subject begins to recognize object",
+      "hint": "It is the first hint of duality — but still dominated by 'I'-ness.",
+      "explanation": "In Sadashiva Tattva, the primordial vibration of 'aham idam' ('I am this') arises. Shiva's will (icchā-shakti) predominates, and though objectivity begins, the 'I' remains dominant — like seeing the world as an extension of oneself.",
+      "difficulty": "beginner",
+      "tags": ["sadashiva", "tattva3", "iccha", "pure"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q4",
+      "learningUnitId": "pure_tattvas",
+      "question": "Which tattva emphasizes the power of knowledge (jnana-shakti) over will?",
+      "correctAnswer": "Ishvara Tattva",
+      "hint": "The fourth tattva — where the object begins to gain prominence over the subject.",
+      "explanation": "In Ishvara Tattva, the balance shifts: 'idam aham' ('this am I') — objectivity strengthens. Here, jnana-shakti (knowledge-power) enables clear distinction between self and world, though unity still underlies the duality.",
+      "difficulty": "beginner",
+      "tags": ["ishvara", "tattva4", "jnana", "pure"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q5",
+      "learningUnitId": "pure_tattvas",
+      "question": "What is Shuddhavidya Tattva known for?",
+      "correctAnswer": "Equilibrium between 'I' and 'this' and the emergence of the five kanchukas",
+      "hint": "The 5th and final pure tattva — a transitional state before limitation begins.",
+      "explanation": "Shuddhavidya Tattva balances 'aham' and 'idam' equally. It generates the five kanchukas (coverings) that will condition consciousness in lower tattvas, marking the threshold between pure and impure realities.",
+      "difficulty": "beginner",
+      "tags": ["shuddhavidya", "tattva5", "kanchuka", "pure"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q6",
+      "learningUnitId": "pure_tattvas",
+      "question": "What are the five kanchukas that originate from Shuddhavidya Tattva?",
+      "correctAnswer": "Kalā, Vidyā, Rāga, Kāla, and Niyati",
+      "hint": "They are 'coverings' that limit infinite power, knowledge, fullness, timelessness, and freedom.",
+      "explanation": "The kanchukas are: Kalā (limitation of omnipotence), Vidyā (limitation of omniscience), Rāga (limitation of completeness → desire), Kāla (limitation of timelessness), and Niyati (limitation of omnipresence → spatial constraint). These condition the soul in lower tattvas.",
+      "difficulty": "beginner",
+      "tags": ["kanchuka", "shuddhavidya", "limitation", "pure"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q7",
+      "learningUnitId": "pure_tattvas",
+      "question": "Which pure tattva is associated primarily with icchā-shakti (will-power)?",
+      "correctAnswer": "Sadashiva Tattva",
+      "hint": "The third tattva — where divine will initiates manifestation.",
+      "explanation": "Sadashiva Tattva is dominated by icchā-shakti, the spontaneous will to manifest. Here, Shiva desires to know Himself as the universe — 'I wish to become many'.",
+      "difficulty": "beginner",
+      "tags": ["iccha", "sadashiva", "shakti", "pure"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q8",
+      "learningUnitId": "pure_tattvas",
+      "question": "True or False: The pure tattvas are experienced only in deep meditation or liberation.",
+      "correctAnswer": "True",
+      "hint": "They represent uncontracted consciousness — normally inaccessible in ordinary waking life.",
+      "explanation": "The Shuddha Tattvas transcend individual experience. They are accessible in deep samādhi or upon liberation (mokṣa), where the soul recognizes its identity with Shiva beyond all limitation.",
+      "difficulty": "beginner",
+      "tags": ["liberation", "samadhi", "pure"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q9",
+      "learningUnitId": "pure_tattvas",
+      "question": "Which tattva corresponds to the cosmic function of 'concealment' (tirodhāna)?",
+      "correctAnswer": "Ishvara Tattva",
+      "hint": "The fourth tattva — where divine concealment allows for apparent separation.",
+      "explanation": "Ishvara, through māyā and its kanchukas, performs tirodhāna — the veiling of unity to allow for the experience of duality and individuality. This is necessary for līlā (divine play).",
+      "difficulty": "beginner",
+      "tags": ["ishvara", "tirodhana", "maya", "pure"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q10",
+      "learningUnitId": "pure_tattvas",
+      "question": "What Sanskrit term describes the 'vibration' or 'pulsation' of consciousness in Kashmir Shaivism?",
+      "correctAnswer": "Spanda",
+      "hint": "A key concept — the dynamic essence of Shiva-Shakti.",
+      "explanation": "Spanda is the subtle, rhythmic throb of consciousness — the creative pulse of Shiva through Shakti. It underlies all manifestation, including the emergence of the tattvas.",
+      "difficulty": "beginner",
+      "tags": ["spanda", "shakti", "consciousness", "pure"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q11",
+      "learningUnitId": "pure_tattvas",
+      "question": "In which tattva does the first trace of objectivity appear?",
+      "correctAnswer": "Sadashiva Tattva",
+      "hint": "The 'idam' in 'aham idam' — but 'aham' still dominates.",
+      "explanation": "While Shiva and Shakti are pure subjectivity, Sadashiva introduces the first suggestion of 'this' (idam) alongside 'I' (aham), though the 'I' remains overwhelmingly dominant.",
+      "difficulty": "beginner",
+      "tags": ["sadashiva", "subjectivity", "pure"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q12",
+      "learningUnitId": "pure_tattvas",
+      "question": "Which pure tattva is symbolized by the bindu (dot) in yantras?",
+      "correctAnswer": "Shiva Tattva",
+      "hint": "Represents the unmanifest point-source of all creation.",
+      "explanation": "The bindu symbolizes Shiva Tattva — the undifferentiated, dimensionless point of pure consciousness from which all manifestation radiates.",
+      "difficulty": "beginner",
+      "tags": ["bindu", "shiva", "symbolism", "pure"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q13",
+      "learningUnitId": "pure_tattvas",
+      "question": "What is the collective name for tattvas 1–5?",
+      "correctAnswer": "Shuddha Tattvas",
+      "hint": "Means 'pure principles' — free from māyā's influence.",
+      "explanation": "Shuddha Tattvas are called 'pure' because they exist above māyā and its limiting effects. They constitute the absolute, divine reality of Shiva.",
+      "difficulty": "beginner",
+      "tags": ["shuddha", "tattva", "pure"],
+      "timeLimit": 20
+    },
+    {
+      "id": "q14",
+      "learningUnitId": "pure_tattvas",
+      "question": "Which tattva is presided over by Sadāshiva (the five-faced form of Shiva)?",
+      "correctAnswer": "Sadashiva Tattva",
+      "hint": "The name matches — 3rd tattva, five faces representing the five shaktis.",
+      "explanation": "Sadāshiva, with five faces (Īśāna, Tatpuruṣa, Aghora, Vāmadeva, Sadyojāta), embodies the fivefold power of consciousness and presides over the 3rd tattva where manifestation begins.",
+      "difficulty": "beginner",
+      "tags": ["sadashiva", "deity", "pure"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q15",
+      "learningUnitId": "pure_tattvas",
+      "question": "True or False: Shakti Tattva is a separate entity from Shiva.",
+      "correctAnswer": "False",
+      "hint": "They are non-dual — like heat and fire.",
+      "explanation": "Shiva and Shakti are inseparable: Shakti is Shiva's dynamic aspect. Denying Shakti negates manifestation; denying Shiva negates consciousness. They are one reality in two modes.",
+      "difficulty": "beginner",
+      "tags": ["shiva", "shakti", "non-duality", "pure"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q16",
+      "learningUnitId": "pure_tattvas",
+      "question": "Which shakti predominates in Ishvara Tattva?",
+      "correctAnswer": "Jñāna-shakti",
+      "hint": "The power of knowledge, enabling clear perception of objects.",
+      "explanation": "While icchā-shakti dominates Sadashiva, jñāna-shakti (knowledge-power) prevails in Ishvara Tattva, allowing precise cognition of the world as distinct from the self.",
+      "difficulty": "beginner",
+      "tags": ["jnana", "ishvara", "shakti", "pure"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q17",
+      "learningUnitId": "pure_tattvas",
+      "question": "What does 'aham' mean in the tattvic progression?",
+      "correctAnswer": "The subjective 'I'-consciousness",
+      "hint": "Central to Pratyabhijñā — recognition of the Self.",
+      "explanation": "'Aham' is the core 'I-sense' — pure subjectivity. The tattvas trace its gradual contraction from Shiva (full 'aham') to the limited 'ahamkāra' in lower tattvas.",
+      "difficulty": "beginner",
+      "tags": ["aham", "consciousness", "self", "pure"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q18",
+      "learningUnitId": "pure_tattvas",
+      "question": "Which tattva is the source of the 5 pure-impure (Shuddha-Ashuddha) tattvas?",
+      "correctAnswer": "Shuddhavidya Tattva",
+      "hint": "The 5th tattva — the 'gateway' between pure and limited reality.",
+      "explanation": "From Shuddhavidya emerge the five Shuddha-Ashuddha Tattvas (Maya and its four kanchukas: Kalā, Vidyā, Rāga, Kāla, Niyati), which mediate between absolute and relative reality.",
+      "difficulty": "beginner",
+      "tags": ["shuddhavidya", "maya", "transition", "pure"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q19",
+      "learningUnitId": "pure_tattvas",
+      "question": "What is the role of māyā in the pure tattvas?",
+      "correctAnswer": "Māyā does not affect the pure tattvas; it begins after Shuddhavidya",
+      "hint": "Pure tattvas are 'above' māyā — hence 'shuddha'.",
+      "explanation": "The Shuddha Tattvas (1–5) are untouched by māyā. Māyā arises as the 6th tattva, initiating the process of limitation and duality.",
+      "difficulty": "beginner",
+      "tags": ["maya", "limitation", "pure"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q20",
+      "learningUnitId": "pure_tattvas",
+      "question": "Which tattva is associated with the power of action (kriyā-shakti)?",
+      "correctAnswer": "Shuddhavidya Tattva",
+      "hint": "The 5th tattva — where the impulse to act in manifestation arises.",
+      "explanation": "In Shuddhavidya, kriyā-shakti (power of action) becomes prominent, preparing consciousness for engagement with the world through the lower tattvas.",
+      "difficulty": "beginner",
+      "tags": ["kriya", "shuddhavidya", "shakti", "pure"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q21",
+      "learningUnitId": "pure_tattvas",
+      "question": "True or False: Liberation in Kashmir Shaivism means merging into Shiva, losing individuality.",
+      "correctAnswer": "False",
+      "hint": "It's recognition (pratyabhijñā), not dissolution.",
+      "explanation": "Liberation is realizing one's inherent identity with Shiva *while embodied* — not annihilation. The liberated being (jīvanmukta) acts freely, knowing 'I am Shiva'.",
+      "difficulty": "beginner",
+      "tags": ["liberation", "pratyabhijna", "self", "pure"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q22",
+      "learningUnitId": "pure_tattvas",
+      "question": "What is the Sanskrit term for 'recognition' — the central practice of Kashmir Shaivism?",
+      "correctAnswer": "Pratyabhijñā",
+      "hint": "Means re-cognition — remembering who you truly are.",
+      "explanation": "Pratyabhijñā is the path of recognizing one's true nature as Shiva. It’s not acquiring something new, but remembering the ever-present Self obscured by ignorance.",
+      "difficulty": "beginner",
+      "tags": ["pratyabhijna", "practice", "self", "pure"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q23",
+      "learningUnitId": "pure_tattvas",
+      "question": "Which tattva is described as 'cit' or pure consciousness?",
+      "correctAnswer": "Shiva Tattva",
+      "hint": "The first tattva — unmodified awareness.",
+      "explanation": "Shiva Tattva is cit — self-luminous, unchanging consciousness, the witness of all, yet never an object. It is the essence of 'I am'.",
+      "difficulty": "beginner",
+      "tags": ["cit", "shiva", "consciousness", "pure"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q24",
+      "learningUnitId": "pure_tattvas",
+      "question": "What does 'idam' refer to in the tattvic schema?",
+      "correctAnswer": "The objective 'this' — the world or object of experience",
+      "hint": "Contrasts with 'aham' — together they form experience.",
+      "explanation": "'Idam' is the objective pole — the 'this' that appears in consciousness. The tattvas map the progressive distancing of 'idam' from 'aham', culminating in full duality.",
+      "difficulty": "beginner",
+      "tags": ["idam", "objectivity", "experience", "pure"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q25",
+      "learningUnitId": "pure_tattvas",
+      "question": "Which pure tattva is associated with the mantra 'Aham'?",
+      "correctAnswer": "Shiva Tattva",
+      "hint": "The primordial mantra of identity.",
+      "explanation": "'Aham' ('I') is the bija mantra of Shiva Tattva — the direct expression of pure subjectivity. Meditating on 'Aham' leads to recognition of one's Shiva-nature.",
+      "difficulty": "beginner",
+      "tags": ["aham", "mantra", "shiva", "pure"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q26",
+      "learningUnitId": "pure_tattvas",
+      "question": "What is the number of pure tattvas (Shuddha Tattvas)?",
+      "correctAnswer": "5",
+      "hint": "Tattvas 1 through 5.",
+      "explanation": "There are exactly five Shuddha Tattvas: Shiva, Shakti, Sadashiva, Ishvara, and Shuddhavidya — all representing uncontracted divine reality.",
+      "difficulty": "beginner",
+      "tags": ["tattva", "count", "pure"],
+      "timeLimit": 20
+    },
+    {
+      "id": "q27",
+      "learningUnitId": "pure_tattvas",
+      "question": "True or False: The pure tattvas are created by Shiva.",
+      "correctAnswer": "False",
+      "hint": "They are Shiva's self-expression — not separate creations.",
+      "explanation": "The tattvas are not external products but Shiva's own self-unfolding (ābhāsa). They are real but not independent — like waves are ocean.",
+      "difficulty": "beginner",
+      "tags": ["ontology", "shiva", "manifestation", "pure"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q28",
+      "learningUnitId": "pure_tattvas",
+      "question": "Which tattva is the abode of the fivefold shaktis (cit, ānanda, icchā, jñāna, kriyā)?",
+      "correctAnswer": "Shiva Tattva",
+      "hint": "The source — where all powers rest in potential.",
+      "explanation": "All five shaktis reside in Shiva Tattva in undifferentiated unity. They manifest sequentially in lower tattvas: ānanda in Shakti, icchā in Sadashiva, etc.",
+      "difficulty": "beginner",
+      "tags": ["shakti", "shiva", "five", "pure"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q29",
+      "learningUnitId": "pure_tattvas",
+      "question": "What is the experiential quality of Shiva Tattva?",
+      "correctAnswer": "Blissful, non-dual awareness (cit-ānanda)",
+      "hint": "Consciousness and bliss are inseparable here.",
+      "explanation": "Shiva Tattva is cit-ānanda — consciousness-bliss. There is no separation, no lack, only the fullness of being-awareness-bliss (sat-cit-ānanda).",
+      "difficulty": "beginner",
+      "tags": ["ananda", "bliss", "shiva", "pure"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q30",
+      "learningUnitId": "pure_tattvas",
+      "question": "In Kashmir Shaivism, what term describes the descent of consciousness into manifestation?",
+      "correctAnswer": "Ādhāroha",
+      "hint": "The 'descent' — opposite of spiritual ascent (āroha).",
+      "explanation": "Ādhāroha is the cosmic process of Shiva's self-limitation through the 36 tattvas, from pure unity to apparent multiplicity — a voluntary līlā (play), not a fall.",
+      "difficulty": "beginner",
+      "tags": ["adhavoha", "descent", "cosmology", "pure"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q31",
+      "learningUnitId": "impure_tattvas",
+      "question": "What is the first impure (ashuddha) tattva?",
+      "correctAnswer": "Prakṛti Tattva",
+      "hint": "The 13th tattva — the primal material nature.",
+      "explanation": "After the 12 tattvas of limited individual (Purusha and Shuddha-Ashuddha), Prakṛti is the first of the 24 Ashuddha Tattvas — undifferentiated material nature, composed of the three guṇas.",
+      "difficulty": "beginner",
+      "tags": ["prakriti", "tattva13", "ashuddha"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q32",
+      "learningUnitId": "impure_tattvas",
+      "question": "Which tattva represents the individual soul limited by māyā?",
+      "correctAnswer": "Purusha Tattva",
+      "hint": "The 12th tattva — the 'enjoyer', bound by ignorance.",
+      "explanation": "Purusha is the atomic self (aṇu), contracted by the kanchukas. It is pure consciousness (chit) but mistakenly identified with the body-mind due to māyā.",
+      "difficulty": "beginner",
+      "tags": ["purusha", "soul", "tattva12", "ashuddha"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q33",
+      "learningUnitId": "impure_tattvas",
+      "question": "What are the three guṇas that constitute Prakṛti?",
+      "correctAnswer": "Sattva, Rajas, and Tamas",
+      "hint": "Modes of nature — harmony, activity, inertia.",
+      "explanation": "Prakṛti is in equilibrium of sattva (clarity), rajas (energy), and tamas (inertia). Their disturbance generates all 23 subsequent tattvas — mind, senses, elements.",
+      "difficulty": "beginner",
+      "tags": ["guna", "prakriti", "sattva", "rajas", "tamas", "ashuddha"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q34",
+      "learningUnitId": "impure_tattvas",
+      "question": "Which tattva is the intellect or determinative faculty?",
+      "correctAnswer": "Buddhi Tattva",
+      "hint": "The first evolute from Prakṛti — tattva 14.",
+      "explanation": "Buddhi (Mahat) is the cosmic and individual intellect — the power of discrimination, decision, and self-identification. It’s sattva-dominant.",
+      "difficulty": "beginner",
+      "tags": ["buddhi", "intellect", "tattva14", "ashuddha"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q35",
+      "learningUnitId": "impure_tattvas",
+      "question": "What is Ahaṃkāra Tattva responsible for?",
+      "correctAnswer": "The sense of 'I'-ness and ownership ('mine')",
+      "hint": "The 'I-maker' — tattva 15.",
+      "explanation": "Ahaṃkāra is the ego-principle that appropriates experiences: 'I am the doer', 'This is mine'. It divides reality into subject and object, enabling individual agency.",
+      "difficulty": "beginner",
+      "tags": ["ahamkara", "ego", "tattva15", "ashuddha"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q36",
+      "learningUnitId": "impure_tattvas",
+      "question": "Which tattvas arise directly from Ahaṃkāra?",
+      "correctAnswer": "Manas, the five Jñānendriyas, five Karmendriyas, and five Tanmātras",
+      "hint": "Ahaṃkāra differentiates into mental, sensory, motor, and subtle elements.",
+      "explanation": "From Ahaṃkāra emerge: Manas (mind), 5 Jñānendriyas (sense capacities), 5 Karmendriyas (action capacities), and 5 Tanmātras (subtle elements) — totaling 16 tattvas.",
+      "difficulty": "beginner",
+      "tags": ["ahamkara", "evolution", "tattvas", "ashuddha"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q37",
+      "learningUnitId": "impure_tattvas",
+      "question": "What is Manas Tattva?",
+      "correctAnswer": "The discursive mind — coordinator of senses and thoughts",
+      "hint": "Tattva 16 — the 'central processor' of experience.",
+      "explanation": "Manas processes sensory input, deliberates, doubts, and connects Buddhi (intellect) with the senses. It’s rajasic and central to mental activity.",
+      "difficulty": "beginner",
+      "tags": ["manas", "mind", "tattva16", "ashuddha"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q38",
+      "learningUnitId": "impure_tattvas",
+      "question": "How many Jñānendriyas (sense capacities) are there?",
+      "correctAnswer": "5",
+      "hint": "Correspond to the five senses: hearing, touch, sight, taste, smell.",
+      "explanation": "The five Jñānendriyas are: Śrotra (hearing), Tvak (touch), Cakṣus (sight), Jihvā (taste), Ghrāṇa (smell) — capacities, not physical organs.",
+      "difficulty": "beginner",
+      "tags": ["jnana", "indriya", "senses", "ashuddha"],
+      "timeLimit": 20
+    },
+    {
+      "id": "q39",
+      "learningUnitId": "impure_tattvas",
+      "question": "Which tattva represents the capacity for speech?",
+      "correctAnswer": "Vāk Karmendriya",
+      "hint": "One of the five action capacities — used for expression.",
+      "explanation": "Vāk is the Karmendriya (organ of action) for speech. The five Karmendriyas are: Vāk (speech), Pāṇi (hands), Pāda (feet), Pāyu (excretion), Upastha (procreation).",
+      "difficulty": "beginner",
+      "tags": ["vak", "karmendriya", "speech", "ashuddha"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q40",
+      "learningUnitId": "impure_tattvas",
+      "question": "What are Tanmātras?",
+      "correctAnswer": "Subtle essences or potentials of the five gross elements",
+      "hint": "The 'that-only' — e.g., sound-as-such, before manifesting as ether.",
+      "explanation": "Tanmātras are the subtle, undifferentiated potentials: Śabda (sound), Sparśa (touch), Rūpa (form), Rasa (taste), Gandha (smell). They precede and generate the Mahābhūtas.",
+      "difficulty": "beginner",
+      "tags": ["tanmatra", "subtle", "elements", "ashuddha"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q41",
+      "learningUnitId": "impure_tattvas",
+      "question": "Which Mahābhūta (gross element) arises from the Śabda Tanmātra?",
+      "correctAnswer": "Ākāśa (Ether/Space)",
+      "hint": "The first element — characterized by sound and spaciousness.",
+      "explanation": "Ākāśa is generated from Śabda Tanmātra. Its primary quality is sound (śabda), and it provides the space for other elements to exist.",
+      "difficulty": "beginner",
+      "tags": ["akasha", "ether", "mahabhuta", "ashuddha"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q42",
+      "learningUnitId": "impure_tattvas",
+      "question": "What is the order of emergence of the Mahābhūtas?",
+      "correctAnswer": "Ākāśa → Vāyu → Agni → Āpas → Pṛthvī",
+      "hint": "From most subtle to most gross: space, air, fire, water, earth.",
+      "explanation": "Each element inherits qualities of prior ones: Ākāśa (sound) → Vāyu (sound + touch) → Agni (sound + touch + form) → Āpas (sound + touch + form + taste) → Pṛthvī (all five + smell).",
+      "difficulty": "beginner",
+      "tags": ["mahabhuta", "elements", "order", "ashuddha"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q43",
+      "learningUnitId": "impure_tattvas",
+      "question": "Which tattva is associated with the sense of touch?",
+      "correctAnswer": "Sparśa Tanmātra and Vāyu Mahābhūta",
+      "hint": "Touch requires air — both subtle and gross levels.",
+      "explanation": "Sparśa (touch) is the Tanmātra; Vāyu (air/wind) is the Mahābhūta whose primary quality is touch. The skin (Tvak) is the Jñānendriya perceiving it.",
+      "difficulty": "beginner",
+      "tags": ["sparsha", "vayu", "touch", "ashuddha"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q44",
+      "learningUnitId": "impure_tattvas",
+      "question": "How many total Ashuddha (impure) tattvas are there?",
+      "correctAnswer": "24",
+      "hint": "Tattvas 13 through 36.",
+      "explanation": "The Ashuddha Tattvas are 24: Prakṛti (1), Buddhi (1), Ahaṃkāra (1), Manas (1), Jñānendriyas (5), Karmendriyas (5), Tanmātras (5), Mahābhūtas (5).",
+      "difficulty": "beginner",
+      "tags": ["ashuddha", "count", "tattva", "impure"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q45",
+      "learningUnitId": "impure_tattvas",
+      "question": "True or False: In Kashmir Shaivism, the physical body is made of the five Mahābhūtas.",
+      "correctAnswer": "True",
+      "hint": "All material forms — gross and subtle — derive from the elements.",
+      "explanation": "The gross body (sthūla śarīra) is composed of Pṛthvī, Āpas, Agni, Vāyu, and Ākāśa in varying proportions. Even subtle bodies are elemental combinations.",
+      "difficulty": "beginner",
+      "tags": ["body", "elements", "mahabhuta", "ashuddha"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q46",
+      "learningUnitId": "impure_tattvas",
+      "question": "Which tattva allows for the experience 'I see'?",
+      "correctAnswer": "The combination of Purusha, Buddhi, Ahaṃkāra, Manas, and Cakṣus",
+      "hint": "No single tattva — it's a collaborative process.",
+      "explanation": "Purusha (consciousness) illumines Buddhi (determines 'this is sight'), Ahaṃkāra (claims 'I see'), Manas (coordinates), and Cakṣus (visual capacity) — all required for 'I see'.",
+      "difficulty": "beginner",
+      "tags": ["experience", "self", "perception", "ashuddha"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q47",
+      "learningUnitId": "impure_tattvas",
+      "question": "What is the primary quality of Pṛthvī (Earth) Mahābhūta?",
+      "correctAnswer": "Gandha (smell)",
+      "hint": "Earth is dense, stable — and has a distinct odor.",
+      "explanation": "Pṛthvī possesses all five qualities, but gandha (smell) is its unique, defining characteristic — the quality not found in prior elements.",
+      "difficulty": "beginner",
+      "tags": ["prithvi", "earth", "gandha", "mahabhuta", "ashuddha"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q48",
+      "learningUnitId": "impure_tattvas",
+      "question": "Which tattva is responsible for memory and habitual tendencies (saṃskāras)?",
+      "correctAnswer": "Ahaṃkāra and Manas (primarily)",
+      "hint": "Ego and mind store impressions.",
+      "explanation": "While Buddhi stores deep impressions, Ahaṃkāra and Manas are primary for daily memory and saṃskāras — conditioning future thoughts and actions.",
+      "difficulty": "beginner",
+      "tags": ["memory", "samskara", "ahamkara", "manas", "ashuddha"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q49",
+      "learningUnitId": "impure_tattvas",
+      "question": "True or False: The Karmendriyas are physical organs.",
+      "correctAnswer": "False",
+      "hint": "They are capacities — subtle powers behind action.",
+      "explanation": "Karmendriyas are the *capacities* for action (e.g., vāk = power of speech), not the physical mouth. The physical organs are their gross manifestations (sthūla bhāva).",
+      "difficulty": "beginner",
+      "tags": ["karmendriya", "subtle", "capacity", "ashuddha"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q50",
+      "learningUnitId": "impure_tattvas",
+      "question": "What does 'Ashuddha' literally mean?",
+      "correctAnswer": "Impure",
+      "hint": "Due to association with māyā and limitation.",
+      "explanation": "'Ashuddha' means 'not pure' — these tattvas are conditioned by māyā, kanchukas, and the guṇas, leading to duality, ignorance, and suffering.",
+      "difficulty": "beginner",
+      "tags": ["ashuddha", "meaning", "impure", "tattva"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q51",
+      "learningUnitId": "impure_tattvas",
+      "question": "Which tattva corresponds to the capacity for locomotion?",
+      "correctAnswer": "Pāda Karmendriya",
+      "hint": "The feet — but as a subtle power, not the physical limb.",
+      "explanation": "Pāda is the Karmendriya for movement — the innate capacity to go from place to place, whether using legs, wheels, or wings.",
+      "difficulty": "beginner",
+      "tags": ["pada", "locomotion", "karmendriya", "ashuddha"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q52",
+      "learningUnitId": "impure_tattvas",
+      "question": "What is the role of Niyati in the impure realm?",
+      "correctAnswer": "It imposes spatial limitation and causality",
+      "hint": "One of the kanchukas — restricts omnipresence.",
+      "explanation": "Niyati (from Shuddha-Ashuddha group) binds the soul to space, time, and cause-effect. It makes actions produce specific results and locates the body in space.",
+      "difficulty": "beginner",
+      "tags": ["niyati", "kanchuka", "limitation", "causality", "ashuddha"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q53",
+      "learningUnitId": "impure_tattvas",
+      "question": "Which Mahābhūta has the quality of liquidity?",
+      "correctAnswer": "Āpas (Water)",
+      "hint": "Corresponds to the taste tanmātra.",
+      "explanation": "Āpas (water) is characterized by liquidity and taste (rasa). It flows, binds, and cools — essential for bodily fluids and cohesion.",
+      "difficulty": "beginner",
+      "tags": ["apas", "water", "liquid", "mahabhuta", "ashuddha"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q54",
+      "learningUnitId": "impure_tattvas",
+      "question": "How many total tattvas are there in Kashmir Shaivism?",
+      "correctAnswer": "36",
+      "hint": "5 pure + 7 pure-impure + 24 impure.",
+      "explanation": "The full schema: 5 Shuddha (1–5), 7 Shuddha-Ashuddha (6–12: Māyā + 5 Kanchukas + Purusha), and 24 Ashuddha (13–36). Total = 36.",
+      "difficulty": "beginner",
+      "tags": ["tattva", "count", "36", "overview", "ashuddha"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q55",
+      "learningUnitId": "impure_tattvas",
+      "question": "Which tattva is the basis for the feeling 'I am limited'?",
+      "correctAnswer": "Purusha Tattva (contracted by kanchukas)",
+      "hint": "The individual soul — Shiva under self-imposed limitation.",
+      "explanation": "Purusha is Shiva identified with the body-mind due to the kanchukas. The sense of finitude ('I am small, mortal, incomplete') arises here.",
+      "difficulty": "beginner",
+      "tags": ["purusha", "limitation", "self", "ashuddha"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q56",
+      "learningUnitId": "impure_tattvas",
+      "question": "What is the subtle element for sight?",
+      "correctAnswer": "Rūpa Tanmātra",
+      "hint": "Form or color-as-such — before manifesting in fire.",
+      "explanation": "Rūpa (form/color) is the Tanmātra for vision. Agni Mahābhūta (fire/light) manifests it grossly, and Cakṣus (sight capacity) perceives it.",
+      "difficulty": "beginner",
+      "tags": ["rupa", "tanmatra", "sight", "ashuddha"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q57",
+      "learningUnitId": "impure_tattvas",
+      "question": "True or False: The impure tattvas are illusions with no reality.",
+      "correctAnswer": "False",
+      "hint": "They are real, but not ultimate — like waves are real, but ocean is ultimate.",
+      "explanation": "Kashmir Shaivism affirms the reality of the world (satkāryavāda). The tattvas are real manifestations of Shiva — not illusions (unlike Advaita). Ignorance is misidentification, not falsity.",
+      "difficulty": "beginner",
+      "tags": ["reality", "ontology", "world", "ashuddha"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q58",
+      "learningUnitId": "impure_tattvas",
+      "question": "Which tattva enables the sense of 'I know'?",
+      "correctAnswer": "Buddhi Tattva",
+      "hint": "The intellect — where cognition becomes certainty.",
+      "explanation": "Buddhi is the determinative faculty: it transforms perception into knowledge ('This is a pot'). Ahaṃkāra then appropriates it ('I know this').",
+      "difficulty": "beginner",
+      "tags": ["buddhi", "knowledge", "intellect", "ashuddha"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q59",
+      "learningUnitId": "impure_tattvas",
+      "question": "What is the gross element associated with metabolism and transformation?",
+      "correctAnswer": "Agni (Fire)",
+      "hint": "Digestion, heat, light — all transformative processes.",
+      "explanation": "Agni Mahābhūta governs all transformation: digestion (jāṭharāgni), cellular metabolism, mental clarity, and physical warmth. Its subtle essence is Rūpa (form).",
+      "difficulty": "beginner",
+      "tags": ["agni", "fire", "transformation", "mahabhuta", "ashuddha"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q60",
+      "learningUnitId": "impure_tattvas",
+      "question": "In liberation, what happens to the impure tattvas?",
+      "correctAnswer": "They are recognized as expressions of Shiva — not abandoned",
+      "hint": "Transfiguration, not rejection.",
+      "explanation": "The jīvanmukta sees the world and body as Shiva's playful self-expression (ābhāsa). The tattvas remain, but ignorance (misidentification) ends — 'The world is real, but I am Shiva'.",
+      "difficulty": "beginner",
+      "tags": ["liberation", "recognition", "world", "ashuddha"],
+      "timeLimit": 40
+    }
+  ]
+}

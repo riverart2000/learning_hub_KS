@@ -1,0 +1,277 @@
+{
+    "categories": [
+      {
+        "id": "cat_physics",
+        "name": "Physics",
+        "description": "Fundamental concepts and problems in physics covering mechanics, thermodynamics, electromagnetism, modern physics, and quantum mechanics.",
+        "icon": "science"
+      }
+    ],
+    "subcategories": [
+      {
+        "id": "subcat_classical_mechanics",
+        "categoryId": "cat_physics",
+        "name": "Classical Mechanics",
+        "description": "Motion, forces, energy, momentum and Newtonian mechanics."
+      },
+      {
+        "id": "subcat_thermodynamics",
+        "categoryId": "cat_physics",
+        "name": "Thermodynamics",
+        "description": "Heat, temperature, laws of thermodynamics, and heat engines."
+      },
+      {
+        "id": "subcat_electromagnetism",
+        "categoryId": "cat_physics",
+        "name": "Electromagnetism",
+        "description": "Electric fields, magnetic fields, circuits, and electromagnetic waves."
+      },
+      {
+        "id": "subcat_modern_physics",
+        "categoryId": "cat_physics",
+        "name": "Modern Physics",
+        "description": "Special relativity, atomic physics and nuclear basics."
+      },
+      {
+        "id": "subcat_quantum_mechanics",
+        "categoryId": "cat_physics",
+        "name": "Quantum Mechanics",
+        "description": "Wave-particle duality, quantum states, and basic quantum phenomena."
+      }
+    ],
+    "learningUnits": [
+      {
+        "id": "unit_classical_mechanics",
+        "subCategoryId": "subcat_classical_mechanics",
+        "type": "mixed",
+        "title": "Classical Mechanics",
+        "content": {},
+        "difficulty": "beginner",
+        "tags": ["classical_mechanics", "physics"],
+        "createdAt": "2024-01-01T00:00:00Z",
+        "updatedAt": "2024-01-01T00:00:00Z"
+      },
+      {
+        "id": "unit_thermodynamics",
+        "subCategoryId": "subcat_thermodynamics",
+        "type": "mixed",
+        "title": "Thermodynamics",
+        "content": {},
+        "difficulty": "beginner",
+        "tags": ["thermodynamics", "physics"],
+        "createdAt": "2024-01-01T00:00:00Z",
+        "updatedAt": "2024-01-01T00:00:00Z"
+      },
+      {
+        "id": "unit_electromagnetism",
+        "subCategoryId": "subcat_electromagnetism",
+        "type": "mixed",
+        "title": "Electromagnetism",
+        "content": {},
+        "difficulty": "intermediate",
+        "tags": ["electromagnetism", "physics"],
+        "createdAt": "2024-01-01T00:00:00Z",
+        "updatedAt": "2024-01-01T00:00:00Z"
+      },
+      {
+        "id": "unit_modern_physics",
+        "subCategoryId": "subcat_modern_physics",
+        "type": "mixed",
+        "title": "Modern Physics",
+        "content": {},
+        "difficulty": "intermediate",
+        "tags": ["modern_physics", "physics"],
+        "createdAt": "2024-01-01T00:00:00Z",
+        "updatedAt": "2024-01-01T00:00:00Z"
+      },
+      {
+        "id": "unit_quantum_mechanics",
+        "subCategoryId": "subcat_quantum_mechanics",
+        "type": "mixed",
+        "title": "Quantum Mechanics",
+        "content": {},
+        "difficulty": "advanced",
+        "tags": ["quantum_mechanics", "physics"],
+        "createdAt": "2024-01-01T00:00:00Z",
+        "updatedAt": "2024-01-01T00:00:00Z"
+      }
+    ],
+    "questions": [
+      {
+        "id": "q_classical_mechanics_1",
+        "learningUnitId": "unit_classical_mechanics",
+        "question": "State Newton's First Law (law of inertia).",
+        "correctAnswer": "An object remains at rest or in uniform motion unless acted on by a net external force.",
+        "hint": "Think 'no net force -> no change in motion'.",
+        "explanation": "This is also known as the law of inertia. It describes the tendency of objects to maintain their state of motion.",
+        "difficulty": "beginner",
+        "tags": ["newton", "inertia", "motion"],
+        "timeLimit": 45
+      },
+      {
+        "id": "q_classical_mechanics_2",
+        "learningUnitId": "unit_classical_mechanics",
+        "question": "What is the formula for acceleration?",
+        "correctAnswer": "Acceleration a = Δv / Δt (change in velocity over time).",
+        "hint": "Change in velocity over time.",
+        "explanation": "Acceleration is the rate of change of velocity with respect to time.",
+        "difficulty": "beginner",
+        "tags": ["acceleration", "velocity", "formula"],
+        "timeLimit": 30
+      },
+      {
+        "id": "q_classical_mechanics_3",
+        "learningUnitId": "unit_classical_mechanics",
+        "question": "Define momentum and its SI units.",
+        "correctAnswer": "Momentum p = m·v, SI unit kg·m/s.",
+        "hint": "Mass times velocity.",
+        "explanation": "Momentum is the product of mass and velocity, measured in kg·m/s.",
+        "difficulty": "beginner",
+        "tags": ["momentum", "mass", "velocity"],
+        "timeLimit": 30
+      },
+      {
+        "id": "q_classical_mechanics_4",
+        "learningUnitId": "unit_classical_mechanics",
+        "question": "What is kinetic energy formula for a mass m moving at speed v?",
+        "correctAnswer": "K = 1/2·m·v².",
+        "hint": "Proportional to mass and square of speed.",
+        "explanation": "Kinetic energy is the energy of motion, proportional to mass and the square of velocity.",
+        "difficulty": "beginner",
+        "tags": ["kinetic_energy", "energy", "motion"],
+        "timeLimit": 30
+      },
+      {
+        "id": "q_classical_mechanics_5",
+        "learningUnitId": "unit_classical_mechanics",
+        "question": "If a net force of 10 N acts on a 2 kg object, what is its acceleration?",
+        "correctAnswer": "5 m/s²",
+        "hint": "Use F = ma",
+        "explanation": "Using F = ma: a = F/m = 10N/2kg = 5 m/s²",
+        "difficulty": "beginner",
+        "tags": ["force", "acceleration", "newton"],
+        "timeLimit": 60
+      },
+      {
+        "id": "q_classical_mechanics_6",
+        "learningUnitId": "unit_classical_mechanics",
+        "question": "A ball thrown vertically up will at its highest point have:",
+        "correctAnswer": "Zero velocity, maximum potential energy",
+        "hint": "Think about energy conversion",
+        "explanation": "At the highest point, all kinetic energy has been converted to potential energy, so velocity is zero.",
+        "difficulty": "intermediate",
+        "tags": ["projectile", "energy", "motion"],
+        "timeLimit": 45
+      },
+      {
+        "id": "q_thermodynamics_1",
+        "learningUnitId": "unit_thermodynamics",
+        "question": "What is the first law of thermodynamics?",
+        "correctAnswer": "Energy cannot be created or destroyed, only transformed from one form to another.",
+        "hint": "Conservation principle",
+        "explanation": "The first law states that energy is conserved - the total energy of an isolated system remains constant.",
+        "difficulty": "beginner",
+        "tags": ["thermodynamics", "energy", "conservation"],
+        "timeLimit": 45
+      },
+      {
+        "id": "q_thermodynamics_2",
+        "learningUnitId": "unit_thermodynamics",
+        "question": "What is the most abundant gas in Earth's atmosphere?",
+        "correctAnswer": "Nitrogen",
+        "hint": "About 78% of the atmosphere",
+        "explanation": "Nitrogen makes up about 78% of Earth's atmosphere.",
+        "difficulty": "beginner",
+        "tags": ["atmosphere", "nitrogen", "earth"],
+        "timeLimit": 30
+      },
+      {
+        "id": "q_thermodynamics_3",
+        "learningUnitId": "unit_thermodynamics",
+        "question": "What is the pH of pure water?",
+        "correctAnswer": "7",
+        "hint": "Neutral point",
+        "explanation": "Pure water has a pH of 7, which is neutral on the pH scale.",
+        "difficulty": "beginner",
+        "tags": ["chemistry", "ph", "water"],
+        "timeLimit": 25
+      },
+      {
+        "id": "q_thermodynamics_4",
+        "learningUnitId": "unit_thermodynamics",
+        "question": "Heat engine efficiency is always less than 1 because:",
+        "correctAnswer": "Some heat is expelled to cold reservoir",
+        "hint": "Second law requirement",
+        "explanation": "Second law of thermodynamics requires some heat be rejected to the cold reservoir.",
+        "difficulty": "intermediate",
+        "tags": ["heat_engine", "efficiency", "thermodynamics"],
+        "timeLimit": 60
+      },
+      {
+        "id": "q_electromagnetism_1",
+        "learningUnitId": "unit_electromagnetism",
+        "question": "What is Coulomb's law?",
+        "correctAnswer": "F = k(q₁q₂)/r² - force between two point charges",
+        "hint": "Inverse square law for electric force",
+        "explanation": "Coulomb's law describes the electrostatic force between two point charges.",
+        "difficulty": "intermediate",
+        "tags": ["coulomb", "electric_force", "charges"],
+        "timeLimit": 45
+      },
+      {
+        "id": "q_electromagnetism_2",
+        "learningUnitId": "unit_electromagnetism",
+        "question": "What is the unit of electric current?",
+        "correctAnswer": "Ampere (A)",
+        "hint": "Named after a French physicist",
+        "explanation": "The ampere is the SI unit of electric current, defined as one coulomb per second.",
+        "difficulty": "beginner",
+        "tags": ["current", "ampere", "units"],
+        "timeLimit": 30
+      },
+      {
+        "id": "q_modern_physics_1",
+        "learningUnitId": "unit_modern_physics",
+        "question": "What is the speed of light in vacuum?",
+        "correctAnswer": "299,792,458 m/s (approximately 3×10⁸ m/s)",
+        "hint": "Universal constant, about 300,000 km/s",
+        "explanation": "The speed of light in vacuum is a fundamental constant of nature.",
+        "difficulty": "beginner",
+        "tags": ["light", "speed", "constant"],
+        "timeLimit": 30
+      },
+      {
+        "id": "q_modern_physics_2",
+        "learningUnitId": "unit_modern_physics",
+        "question": "What is Einstein's mass-energy equivalence formula?",
+        "correctAnswer": "E = mc²",
+        "hint": "Most famous equation in physics",
+        "explanation": "This equation shows that mass and energy are interchangeable.",
+        "difficulty": "beginner",
+        "tags": ["einstein", "energy", "mass"],
+        "timeLimit": 30
+      },
+      {
+        "id": "q_quantum_mechanics_1",
+        "learningUnitId": "unit_quantum_mechanics",
+        "question": "What is the Heisenberg Uncertainty Principle?",
+        "correctAnswer": "Cannot simultaneously know exact position and momentum of a particle",
+        "hint": "Fundamental limit of measurement",
+        "explanation": "The uncertainty principle states that there's a fundamental limit to how precisely we can know certain pairs of properties.",
+        "difficulty": "advanced",
+        "tags": ["heisenberg", "uncertainty", "quantum"],
+        "timeLimit": 60
+      },
+      {
+        "id": "q_quantum_mechanics_2",
+        "learningUnitId": "unit_quantum_mechanics",
+        "question": "What is wave-particle duality?",
+        "correctAnswer": "Matter and light exhibit both wave and particle properties",
+        "hint": "Fundamental quantum concept",
+        "explanation": "Wave-particle duality is a central concept in quantum mechanics describing the dual nature of matter and energy.",
+        "difficulty": "advanced",
+        "tags": ["duality", "wave", "particle"],
+        "timeLimit": 45
+      }
+    ]
+  }

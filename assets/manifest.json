@@ -1,0 +1,27 @@
+{
+  "dataFiles": [
+	"advanced_linux.json",
+	"ansible_advanced_questions.json",
+	"ansible_fundamentals.json",
+	"bash_scripting_learning.json",
+	"ci_cd_pipelines_advanced.json",
+	"ci_cd_pipelines_fundamentals.json",
+	"devops_advanced_questions.json",
+	"devops_interview_questions.json",
+	"devops_learning_dataset.json",
+	"docker_fundamentals_learning.json",
+	"kubernetes_orchestration_full.json",
+	"linux_fundamentals_questions.json",
+	"monitoring_logging_questions.json",
+	"python_advanced_learning.json",
+	"python_fundamentals_learning.json",
+	"python_oop_advanced.json",
+	"python_oop_fundamentals.json",
+	"redhat_advanced.json",
+	"redhat_fundamentals.json",
+	"sql_advanced_questions.json",
+	"sql_fundamentals_questions.json",
+	"version_control_collab_fundamentals.json",
+	"version_control_collaboration_advanced.json"
+  ]
+}

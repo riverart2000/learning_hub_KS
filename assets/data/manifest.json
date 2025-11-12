@@ -1,0 +1,19 @@
+{
+  "dataFiles": [
+	"kashmir_shaivism_36_tattvas_advanced.json",
+	"kashmir_shaivism_36_tattvas_fundamentals.json",
+	"kashmir_shaivism_anavopaya.json",
+	"kashmir_shaivism_anupaya.json",
+	"kashmir_shaivism_saktopaya.json",
+	"kashmir_shaivism_sambhavopaya.json",
+	"kashmir_shaivism_sanskrit_advanced.json",
+	"kashmir_shaivism_sanskrit_fundamentals.json",
+	"tantra_yoga_asanas.json",
+	"tantra_yoga_chakras.json",
+	"tantra_yoga_fundamentals.json",
+	"tantra_yoga_philosophy.json",
+	"tantra_yoga_sanskrit_asana_names.json",
+	"kashmir_shaivism_sanskrit_terms.json",
+	"kashmir_shaivism_sanskrit_terms_advanced.json"
+  ]
+}

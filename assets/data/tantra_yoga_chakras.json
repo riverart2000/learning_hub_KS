@@ -1,0 +1,323 @@
+{
+  "categories": [
+    {
+      "id": "tantra_chakra_system",
+      "name": "Tantra Yoga Chakra System",
+      "description": "Explore the seven chakras of Tantra Yoga—centers of energy that influence physical, emotional, and spiritual well-being.",
+      "icon": "meditation"
+    }
+  ],
+  "subcategories": [
+    {
+      "id": "lower_chakras",
+      "categoryId": "tantra_chakra_system",
+      "name": "Lower Chakras (Root, Sacral, Solar Plexus)",
+      "description": "Focuses on the three foundational chakras associated with grounding, creativity, and personal power."
+    },
+    {
+      "id": "upper_chakras",
+      "categoryId": "tantra_chakra_system",
+      "name": "Upper Chakras (Heart, Throat, Third Eye, Crown)",
+      "description": "Explores the four higher chakras linked to love, communication, intuition, and spiritual awakening."
+    }
+  ],
+  "learningUnits": [
+    {
+      "id": "lower_chakras",
+      "subCategoryId": "lower_chakras",
+      "type": "mixed",
+      "title": "Lower Chakras (Root, Sacral, Solar Plexus)",
+      "content": {},
+      "difficulty": "beginner",
+      "tags": ["muladhara", "svadhisthana", "manipura", "grounding", "energy"]
+    },
+    {
+      "id": "upper_chakras",
+      "subCategoryId": "upper_chakras",
+      "type": "mixed",
+      "title": "Upper Chakras (Heart, Throat, Third Eye, Crown)",
+      "content": {},
+      "difficulty": "beginner",
+      "tags": ["anahata", "vishuddha", "ajna", "sahasrara", "consciousness"]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "learningUnitId": "lower_chakras",
+      "question": "Which chakra is located at the base of the spine?",
+      "correctAnswer": "Root Chakra (Muladhara)",
+      "hint": "It’s connected to grounding and survival instincts.",
+      "explanation": "The Root Chakra, or Muladhara, is found at the base of the spine and governs stability, security, and grounding.",
+      "difficulty": "beginner",
+      "tags": ["root", "muladhara"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q2",
+      "learningUnitId": "lower_chakras",
+      "question": "What element is associated with the Root Chakra?",
+      "correctAnswer": "Earth",
+      "hint": "Think about stability and foundation.",
+      "explanation": "The Root Chakra corresponds to the Earth element, representing groundedness, safety, and physical existence.",
+      "difficulty": "beginner",
+      "tags": ["root", "element"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q3",
+      "learningUnitId": "lower_chakras",
+      "question": "Which color symbolizes the Root Chakra?",
+      "correctAnswer": "Red",
+      "hint": "It represents vitality and survival energy.",
+      "explanation": "Red symbolizes the Root Chakra’s vitality, strength, and connection to the physical world.",
+      "difficulty": "beginner",
+      "tags": ["root", "color"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q4",
+      "learningUnitId": "lower_chakras",
+      "question": "What is the Sanskrit name for the Sacral Chakra?",
+      "correctAnswer": "Svadhisthana",
+      "hint": "It translates roughly as 'one’s own abode'.",
+      "explanation": "The Sacral Chakra is called Svadhisthana, representing creativity, pleasure, and emotional flow.",
+      "difficulty": "beginner",
+      "tags": ["sacral", "svadhisthana"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q5",
+      "learningUnitId": "lower_chakras",
+      "question": "Where is the Sacral Chakra located?",
+      "correctAnswer": "Below the navel in the lower abdomen",
+      "hint": "It governs the reproductive and creative organs.",
+      "explanation": "Svadhisthana is located just below the navel and is associated with creativity, sexuality, and emotional flow.",
+      "difficulty": "beginner",
+      "tags": ["sacral", "location"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q6",
+      "learningUnitId": "lower_chakras",
+      "question": "Which element is linked to the Sacral Chakra?",
+      "correctAnswer": "Water",
+      "hint": "It symbolizes flow and flexibility.",
+      "explanation": "The Sacral Chakra’s element is water, representing emotional fluidity, pleasure, and creativity.",
+      "difficulty": "beginner",
+      "tags": ["sacral", "element"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q7",
+      "learningUnitId": "lower_chakras",
+      "question": "The Solar Plexus Chakra governs which aspect of life?",
+      "correctAnswer": "Personal power and confidence",
+      "hint": "It’s your inner fire of willpower.",
+      "explanation": "The Solar Plexus Chakra (Manipura) is responsible for willpower, confidence, and self-esteem.",
+      "difficulty": "beginner",
+      "tags": ["solar_plexus", "manipura"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q8",
+      "learningUnitId": "lower_chakras",
+      "question": "Which color represents the Solar Plexus Chakra?",
+      "correctAnswer": "Yellow",
+      "hint": "It’s bright like the sun.",
+      "explanation": "The color yellow signifies the Solar Plexus Chakra’s radiant energy of confidence and transformation.",
+      "difficulty": "beginner",
+      "tags": ["solar_plexus", "color"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q9",
+      "learningUnitId": "lower_chakras",
+      "question": "What element corresponds to the Solar Plexus Chakra?",
+      "correctAnswer": "Fire",
+      "hint": "It represents transformation and will.",
+      "explanation": "The Solar Plexus Chakra’s element is fire, symbolizing power, transformation, and inner strength.",
+      "difficulty": "beginner",
+      "tags": ["fire", "solar_plexus"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q10",
+      "learningUnitId": "lower_chakras",
+      "question": "What physical organ is most associated with the Solar Plexus Chakra?",
+      "correctAnswer": "Digestive system",
+      "hint": "It’s linked to how we 'digest' life experiences.",
+      "explanation": "The Solar Plexus Chakra corresponds to the digestive system, symbolizing our ability to process life and emotions.",
+      "difficulty": "beginner",
+      "tags": ["solar_plexus", "organs"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q11",
+      "learningUnitId": "lower_chakras",
+      "question": "Which mantra is used to activate the Root Chakra?",
+      "correctAnswer": "LAM",
+      "hint": "It’s a single-syllable sound beginning with 'L'.",
+      "explanation": "The bija mantra LAM resonates with the Root Chakra, promoting grounding and stability.",
+      "difficulty": "beginner",
+      "tags": ["root", "mantra"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q12",
+      "learningUnitId": "lower_chakras",
+      "question": "Which chakra is associated with fear and insecurity when imbalanced?",
+      "correctAnswer": "Root Chakra",
+      "hint": "It governs survival and safety.",
+      "explanation": "An imbalanced Root Chakra often leads to fear, insecurity, and instability in life.",
+      "difficulty": "beginner",
+      "tags": ["root", "imbalance"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q13",
+      "learningUnitId": "lower_chakras",
+      "question": "What sense is connected to the Root Chakra?",
+      "correctAnswer": "Smell",
+      "hint": "It’s the most primal and instinctual sense.",
+      "explanation": "The Root Chakra relates to the sense of smell, reflecting our connection to the earth and instincts.",
+      "difficulty": "beginner",
+      "tags": ["root", "sense"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q14",
+      "learningUnitId": "lower_chakras",
+      "question": "Which body part is primarily governed by the Sacral Chakra?",
+      "correctAnswer": "Reproductive organs",
+      "hint": "It’s tied to creativity and fertility.",
+      "explanation": "The Sacral Chakra governs the reproductive organs, symbolizing creative and sexual energy.",
+      "difficulty": "beginner",
+      "tags": ["sacral", "body"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q15",
+      "learningUnitId": "lower_chakras",
+      "question": "Which mantra resonates with the Sacral Chakra?",
+      "correctAnswer": "VAM",
+      "hint": "It’s a bija mantra that begins with 'V'.",
+      "explanation": "The sound 'VAM' activates the Sacral Chakra, enhancing creativity and emotional flow.",
+      "difficulty": "beginner",
+      "tags": ["sacral", "mantra"],
+      "timeLimit": 30
+    },
+
+    {
+      "id": "q31",
+      "learningUnitId": "upper_chakras",
+      "question": "Which chakra is located at the center of the chest?",
+      "correctAnswer": "Heart Chakra (Anahata)",
+      "hint": "It’s associated with love and compassion.",
+      "explanation": "The Heart Chakra, or Anahata, governs love, compassion, and emotional balance.",
+      "difficulty": "beginner",
+      "tags": ["heart", "anahata"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q32",
+      "learningUnitId": "upper_chakras",
+      "question": "Which color symbolizes the Heart Chakra?",
+      "correctAnswer": "Green",
+      "hint": "It represents healing and harmony.",
+      "explanation": "Green symbolizes the Heart Chakra’s energy of balance, healing, and unconditional love.",
+      "difficulty": "beginner",
+      "tags": ["heart", "color"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q33",
+      "learningUnitId": "upper_chakras",
+      "question": "Which chakra is associated with communication?",
+      "correctAnswer": "Throat Chakra (Vishuddha)",
+      "hint": "It’s located at the base of the throat.",
+      "explanation": "Vishuddha governs communication, self-expression, and speaking one’s truth.",
+      "difficulty": "beginner",
+      "tags": ["throat", "vishuddha"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q34",
+      "learningUnitId": "upper_chakras",
+      "question": "What is the Sanskrit name for the Third Eye Chakra?",
+      "correctAnswer": "Ajna",
+      "hint": "It’s the seat of intuition.",
+      "explanation": "Ajna, the Third Eye Chakra, governs intuition, perception, and inner vision.",
+      "difficulty": "beginner",
+      "tags": ["ajna", "third_eye"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q35",
+      "learningUnitId": "upper_chakras",
+      "question": "Which color represents the Third Eye Chakra?",
+      "correctAnswer": "Indigo",
+      "hint": "It’s a deep blue tone symbolizing insight.",
+      "explanation": "The indigo color represents Ajna’s association with wisdom, clarity, and perception.",
+      "difficulty": "beginner",
+      "tags": ["third_eye", "color"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q36",
+      "learningUnitId": "upper_chakras",
+      "question": "Where is the Crown Chakra located?",
+      "correctAnswer": "At the top of the head",
+      "hint": "It connects you to universal consciousness.",
+      "explanation": "Sahasrara, the Crown Chakra, is positioned at the top of the head and connects to higher states of awareness.",
+      "difficulty": "beginner",
+      "tags": ["crown", "sahasrara"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q37",
+      "learningUnitId": "upper_chakras",
+      "question": "What element is associated with the Throat Chakra?",
+      "correctAnswer": "Ether (Space)",
+      "hint": "It represents openness and vibration.",
+      "explanation": "Vishuddha corresponds to the ether element, symbolizing sound, space, and communication.",
+      "difficulty": "beginner",
+      "tags": ["throat", "element"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q38",
+      "learningUnitId": "upper_chakras",
+      "question": "Which mantra activates the Heart Chakra?",
+      "correctAnswer": "YAM",
+      "hint": "It’s often chanted for love and healing.",
+      "explanation": "The bija mantra 'YAM' stimulates the Heart Chakra’s energy of love and compassion.",
+      "difficulty": "beginner",
+      "tags": ["heart", "mantra"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q39",
+      "learningUnitId": "upper_chakras",
+      "question": "Which sense is connected to the Throat Chakra?",
+      "correctAnswer": "Hearing",
+      "hint": "It’s tied to vibration and sound.",
+      "explanation": "Vishuddha Chakra relates to the sense of hearing, reinforcing communication and expression.",
+      "difficulty": "beginner",
+      "tags": ["throat", "sense"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q40",
+      "learningUnitId": "upper_chakras",
+      "question": "The Third Eye Chakra governs which faculty?",
+      "correctAnswer": "Intuition and insight",
+      "hint": "It’s your inner vision.",
+      "explanation": "Ajna controls intuition, psychic awareness, and perception beyond ordinary sight.",
+      "difficulty": "beginner",
+      "tags": ["third_eye", "intuition"],
+      "timeLimit": 30
+    }
+  ]
+}
+

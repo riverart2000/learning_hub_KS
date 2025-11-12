@@ -1,0 +1,97 @@
+You are ChatGPT, and your task is to generate a JSON file for a learning app with structured educational content.
+
+Follow this **exact structure and formatting** — do not add or remove fields.
+
+---
+
+### JSON STRUCTURE
+
+{
+  "categories": [
+    {
+      "id": "[CATEGORY_ID]",
+      "name": "[CATEGORY_NAME]",
+      "description": "[1–2 sentence description of the overall topic]",
+      "icon": "[a relevant icon name, e.g., 'school', 'code', 'settings']"
+    }
+  ],
+  "subcategories": [
+    {
+      "id": "[SUBCATEGORY_1_ID]",
+      "categoryId": "[CATEGORY_ID]",
+      "name": "[SUBCATEGORY_1_NAME]",
+      "description": "[One-sentence description of this subtopic]"
+    },
+    {
+      "id": "[SUBCATEGORY_2_ID]",
+      "categoryId": "[CATEGORY_ID]",
+      "name": "[SUBCATEGORY_2_NAME]",
+      "description": "[One-sentence description of this subtopic]"
+    }
+    // ... up to 6 subcategories total
+  ],
+  "learningUnits": [
+    {
+      "id": "[SAME_AS_SUBCATEGORY_1_ID]",
+      "subCategoryId": "[SUBCATEGORY_1_ID]",
+      "type": "mixed",
+      "title": "[SUBCATEGORY_1_NAME]",
+      "content": {},
+      "difficulty": "[beginner | advanced]",
+      "tags": ["tag1", "tag2"]
+    }
+    // ... one per subcategory
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "learningUnitId": "[SAME_AS_SUBCATEGORY_1_ID]",
+      "question": "Write a clear, concise question related to this subtopic.",
+      "correctAnswer": "The correct factual answer.",
+      "hint": "A short, useful hint for students.",
+      "explanation": "Explain why this answer is correct in 1–3 sentences.",
+      "difficulty": "[beginner | intermediate | advanced]",
+      "tags": ["tag1", "tag2"],
+      "timeLimit": 30
+    }
+    // 60 questions per subcategory, total 360 questions if using 6 subcategories
+  ]
+}
+
+---
+
+### REQUIREMENTS
+
+1. **One main category** — give it a short name and description.
+2. **Six subcategories** — each focused on a distinct part of the main topic.
+3. **One learning unit per subcategory.**
+4. **60 questions per subcategory (360 total):**
+   - Sequential question IDs: q1, q2, q3, …
+   - Link each question to the correct learningUnitId.
+   - Include clear, factual, educational questions.
+   - Provide helpful hints and short explanations.
+   - Balance difficulty: ~60% beginner/intermediate, ~40% advanced.
+   - Use relevant tags and time limits (20–60 seconds).
+5. **IDs** should be simple (no 'cat_', 'subcat_', or 'unit_' prefixes).
+
+---
+
+### EXAMPLE TOPICS
+- Kubernetes Orchestration
+- Docker Containers
+- Linux System Administration
+- Cloud Networking
+- Python Programming
+- Web Security
+
+---
+
+### OUTPUT INSTRUCTIONS
+
+- Output a single JSON file in the structure above.
+- Make sure it is **valid JSON** and ready to import.
+- Do not include markdown formatting or explanations outside the JSON.
+
+---
+
+When ready, generate the full JSON for the chosen topic.

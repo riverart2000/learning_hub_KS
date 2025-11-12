@@ -1,0 +1,882 @@
+{
+  "categories": [
+    {
+      "id": "kashmir_shaivism_tattvas_adv",
+      "name": "Kashmir Shaivism 36 Tattvas Advanced",
+      "description": "Advanced mastery of the 36 Tattvas: structure, function, and sādhanā implications across pure (śuddha) and manifest layers.",
+      "icon": "psychology"
+    }
+  ],
+  "subcategories": [
+    {
+      "id": "shuddha_tattvas",
+      "categoryId": "kashmir_shaivism_tattvas_adv",
+      "name": "Śuddha Tattvas (1–5)",
+      "description": "The five pure principles: Śiva, Śakti, Sadāśiva, Īśvara, and Śuddhavidyā."
+    },
+    {
+      "id": "maya_to_prthvi",
+      "categoryId": "kashmir_shaivism_tattvas_adv",
+      "name": "From Māyā to Pṛthvī (6–36)",
+      "description": "Māyā, the five kañcukas, puruṣa–prakṛti, antaḥkaraṇa, indriyas, tanmātras, and mahābhūtas."
+    }
+  ],
+  "learningUnits": [
+    {
+      "id": "shuddha_tattvas",
+      "subCategoryId": "shuddha_tattvas",
+      "type": "mixed",
+      "title": "Śuddha Tattvas (1–5)",
+      "content": {},
+      "difficulty": "advanced",
+      "tags": [
+        "Shaivism",
+        "Śuddha",
+        "Metaphysics",
+        "Trika"
+      ]
+    },
+    {
+      "id": "maya_to_prthvi",
+      "subCategoryId": "maya_to_prthvi",
+      "type": "mixed",
+      "title": "From Māyā to Pṛthvī (6–36)",
+      "content": {},
+      "difficulty": "advanced",
+      "tags": [
+        "Shaivism",
+        "Māyā",
+        "Cosmology",
+        "Kañcukas"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "learningUnitId": "shuddha_tattvas",
+      "question": "Which tattva denotes unmoving, attribute-free awareness?",
+      "correctAnswer": "Śiva",
+      "hint": "It is the first principle.",
+      "explanation": "Śiva tattva is pure consciousness (cit) beyond subject–object; all other tattvas unfold from this base.",
+      "difficulty": "advanced",
+      "tags": [
+        "Śiva",
+        "ontology"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q2",
+      "learningUnitId": "shuddha_tattvas",
+      "question": "Which tattva is the dynamic power inseparable from Śiva?",
+      "correctAnswer": "Śakti",
+      "hint": "Think vibration (spanda).",
+      "explanation": "Śakti is the vibratory creative potency of consciousness, the capacity whereby the One appears as many.",
+      "difficulty": "advanced",
+      "tags": [
+        "Śakti",
+        "spanda"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q3",
+      "learningUnitId": "shuddha_tattvas",
+      "question": "In Sadāśiva tattva, which pole dominates—'I' (aham) or 'this' (idam)?",
+      "correctAnswer": "Aham predominates with a faint idam",
+      "hint": "It's the first emergence of 'this'.",
+      "explanation": "Sadāśiva is aham-idam where the I-sense eclipses objectivity; revelation is 'I am this'.",
+      "difficulty": "advanced",
+      "tags": [
+        "Sadāśiva",
+        "aham-idam"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q4",
+      "learningUnitId": "shuddha_tattvas",
+      "question": "Which tattva utters 'idam aham'—emphasising revelation of the object?",
+      "correctAnswer": "Īśvara",
+      "hint": "Object-pole becomes prominent.",
+      "explanation": "Īśvara tattva highlights the object as a manifestation of the Self, with idam more vivid than aham.",
+      "difficulty": "advanced",
+      "tags": [
+        "Īśvara",
+        "revelation"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q5",
+      "learningUnitId": "shuddha_tattvas",
+      "question": "Which tattva reconciles I-ness and this-ness in balanced knowing?",
+      "correctAnswer": "Śuddhavidyā",
+      "hint": "Think pure knowledge/measure.",
+      "explanation": "Śuddhavidyā (pure knowledge) harmonises subject and object in a balanced cognition free from limitation.",
+      "difficulty": "advanced",
+      "tags": [
+        "Śuddhavidyā",
+        "knowledge"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q6",
+      "learningUnitId": "shuddha_tattvas",
+      "question": "Name the five śuddha tattvas in order from highest.",
+      "correctAnswer": "Śiva, Śakti, Sadāśiva, Īśvara, Śuddhavidyā",
+      "hint": "Start with consciousness then power.",
+      "explanation": "The pure pentad unfolds from still awareness to dynamic knowing, forming the transcendental tier.",
+      "difficulty": "advanced",
+      "tags": [
+        "sequence",
+        "śuddha"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q7",
+      "learningUnitId": "shuddha_tattvas",
+      "question": "Which śuddha tattva is most associated with free will (svātantrya) as creative display?",
+      "correctAnswer": "Śakti",
+      "hint": "Power implies freedom to manifest.",
+      "explanation": "Śakti embodies svātantrya—the absolute freedom of consciousness to vibrate, conceal, reveal, and manifest.",
+      "difficulty": "advanced",
+      "tags": [
+        "svātantrya",
+        "Śakti"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q8",
+      "learningUnitId": "shuddha_tattvas",
+      "question": "Which śuddha tattva is linked to the mantra-state of 'aham'?",
+      "correctAnswer": "Sadāśiva",
+      "hint": "Dominant I-sense.",
+      "explanation": "Sadāśiva’s mantra is aham; the I shines forth while the this (idam) is latent.",
+      "difficulty": "advanced",
+      "tags": [
+        "mantra",
+        "aham"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q9",
+      "learningUnitId": "shuddha_tattvas",
+      "question": "Which tattva is connected with the perfect grace of revelation (anugraha)?",
+      "correctAnswer": "Īśvara",
+      "hint": "Think revealing the universe as 'this'.",
+      "explanation": "Īśvara emphasises the revelatory grace whereby the Self presents the world as its own display.",
+      "difficulty": "advanced",
+      "tags": [
+        "anugraha",
+        "Īśvara"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q10",
+      "learningUnitId": "shuddha_tattvas",
+      "question": "Which tattva is the locus of pure measuring (māna) without limitation?",
+      "correctAnswer": "Śuddhavidyā",
+      "hint": "Pure knowledge free of contraction.",
+      "explanation": "Śuddhavidyā is pure discernment, measurement untainted by the limiting veils introduced later.",
+      "difficulty": "advanced",
+      "tags": [
+        "māna",
+        "Śuddhavidyā"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q11",
+      "learningUnitId": "shuddha_tattvas",
+      "question": "What do the śuddha tattvas lack that appears from Māyā onward?",
+      "correctAnswer": "Limitation (saṅkoca)",
+      "hint": "Consider veils and constraints.",
+      "explanation": "The pure pentad is free of contraction; Māyā brings veiling and the five limiting cloaks (kañcukas).",
+      "difficulty": "advanced",
+      "tags": [
+        "limitation",
+        "Māyā"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q12",
+      "learningUnitId": "shuddha_tattvas",
+      "question": "Which two tattvas are an inseparable unity called Paramaśiva?",
+      "correctAnswer": "Śiva and Śakti",
+      "hint": "Static and dynamic as one.",
+      "explanation": "Paramaśiva denotes Śiva-Śakti nonduality—awareness and its power never truly separate.",
+      "difficulty": "advanced",
+      "tags": [
+        "nonduality",
+        "Paramaśiva"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q13",
+      "learningUnitId": "shuddha_tattvas",
+      "question": "Which śuddha tattva corresponds to the seed of language as divine articulation?",
+      "correctAnswer": "Īśvara",
+      "hint": "Think articulation of 'this'.",
+      "explanation": "Īśvara correlates with the articulated revelation of objects as the Self’s speech (vāg-vimarśa).",
+      "difficulty": "advanced",
+      "tags": [
+        "language",
+        "vāg"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q14",
+      "learningUnitId": "shuddha_tattvas",
+      "question": "Which śuddha tattva best maps to the experience of nonconceptual, luminous silence?",
+      "correctAnswer": "Śiva",
+      "hint": "Prior to vibration.",
+      "explanation": "Śiva tattva is sheer luminosity absent mental movement; silence that contains all potentials.",
+      "difficulty": "advanced",
+      "tags": [
+        "luminosity",
+        "silence"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q15",
+      "learningUnitId": "shuddha_tattvas",
+      "question": "Which śuddha tattva marks the first shimmer of differentiation without real division?",
+      "correctAnswer": "Sadāśiva",
+      "hint": "Aham predominates, idam glimmers.",
+      "explanation": "Sadāśiva is the primordial hint of manifestation where unity gently tilts toward relation.",
+      "difficulty": "advanced",
+      "tags": [
+        "emergence",
+        "relation"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q16",
+      "learningUnitId": "shuddha_tattvas",
+      "question": "Which tattva provides the metaphysical ground for pure knowledge (jñāna) unbound by ignorance?",
+      "correctAnswer": "Śuddhavidyā",
+      "hint": "Balanced knowing.",
+      "explanation": "Śuddhavidyā is pure knowledge itself, not yet narrowed by Māyā’s limiting measures.",
+      "difficulty": "advanced",
+      "tags": [
+        "jñāna",
+        "purity"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q17",
+      "learningUnitId": "shuddha_tattvas",
+      "question": "Which śuddha tattva is most explicitly associated with spanda doctrine?",
+      "correctAnswer": "Śakti",
+      "hint": "Vibration = power.",
+      "explanation": "Spanda (subtle vibration) names Śakti’s creative throb through which appearance arises.",
+      "difficulty": "advanced",
+      "tags": [
+        "spanda",
+        "Śakti"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q18",
+      "learningUnitId": "shuddha_tattvas",
+      "question": "Arrange Sadāśiva, Śuddhavidyā, Īśvara by increasing object emphasis.",
+      "correctAnswer": "Sadāśiva, Śuddhavidyā, Īśvara",
+      "hint": "Which ends with object prominence?",
+      "explanation": "From I-dominant to balanced to object-dominant reflects increasing clarity of the 'this'.",
+      "difficulty": "advanced",
+      "tags": [
+        "ordering",
+        "object-pole"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q19",
+      "learningUnitId": "shuddha_tattvas",
+      "question": "Which śuddha tattva is linked to pure I-consciousness witnessing its own radiance?",
+      "correctAnswer": "Sadāśiva",
+      "hint": "I eclipses this.",
+      "explanation": "Sadāśiva is the contemplative I that intuits the world as itself without solidifying it.",
+      "difficulty": "advanced",
+      "tags": [
+        "awareness",
+        "I-consciousness"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q20",
+      "learningUnitId": "shuddha_tattvas",
+      "question": "Which śuddha tattva most closely grounds the possibility of mantra and śabda?",
+      "correctAnswer": "Īśvara",
+      "hint": "Revelation articulated.",
+      "explanation": "As revelation of 'this', Īśvara grounds expressive articulation that later becomes language.",
+      "difficulty": "advanced",
+      "tags": [
+        "śabda",
+        "expression"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q21",
+      "learningUnitId": "shuddha_tattvas",
+      "question": "Which śuddha tattva corresponds to pure capacity-to-do before limitation of agency appears?",
+      "correctAnswer": "Śakti",
+      "hint": "Doership before contraction.",
+      "explanation": "Śakti is unrestricted capacity (kriyā-śakti) antecedent to the later cloak of kalā limiting agency.",
+      "difficulty": "advanced",
+      "tags": [
+        "kriyā-śakti",
+        "capacity"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q22",
+      "learningUnitId": "shuddha_tattvas",
+      "question": "What term captures the undivided unity of knowledge and action in the pure tier?",
+      "correctAnswer": "Vimarśa",
+      "hint": "Reflexive awareness.",
+      "explanation": "Vimarśa is consciousness’s reflexive self-apprehension uniting knowing and doing as one.",
+      "difficulty": "advanced",
+      "tags": [
+        "vimarśa",
+        "unity"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q23",
+      "learningUnitId": "shuddha_tattvas",
+      "question": "Which śuddha tattva is beyond even the notions of freedom and bondage?",
+      "correctAnswer": "Śiva",
+      "hint": "Prior to attributes.",
+      "explanation": "Śiva is prior to all predicates; freedom and bondage arise only with manifest polarity.",
+      "difficulty": "advanced",
+      "tags": [
+        "nirguṇa",
+        "transcendent"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q24",
+      "learningUnitId": "shuddha_tattvas",
+      "question": "Which śuddha tattva ensures that the world, when seen rightly, is nothing but the Self?",
+      "correctAnswer": "Śuddhavidyā",
+      "hint": "Pure measure sees unity.",
+      "explanation": "In Śuddhavidyā, measurement itself reveals unity, not division—seeing the world as the Self.",
+      "difficulty": "advanced",
+      "tags": [
+        "nonduality",
+        "vision"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q25",
+      "learningUnitId": "shuddha_tattvas",
+      "question": "Which śuddha tattva correlates with unimpeded icchā (will) as divine longing-to-manifest?",
+      "correctAnswer": "Śakti",
+      "hint": "Will, knowledge, action are united.",
+      "explanation": "Śakti embodies icchā, jñāna, and kriyā in perfect freedom before Māyā differentiates them.",
+      "difficulty": "advanced",
+      "tags": [
+        "icchā",
+        "tri-śakti"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q26",
+      "learningUnitId": "shuddha_tattvas",
+      "question": "Which tattva marks the threshold before Māyā introduces constriction?",
+      "correctAnswer": "Śuddhavidyā",
+      "hint": "The fifth pure principle.",
+      "explanation": "Śuddhavidyā is the final pure rung; beyond it, Māyā inaugurates limitation.",
+      "difficulty": "advanced",
+      "tags": [
+        "threshold",
+        "Māyā"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q27",
+      "learningUnitId": "shuddha_tattvas",
+      "question": "In practice, contemplating which tattva dissolves subject–object fixation most directly?",
+      "correctAnswer": "Śiva",
+      "hint": "Return to pure I-awareness.",
+      "explanation": "Resting as Śiva dismantles dual fixation by recognising awareness as the sole reality.",
+      "difficulty": "advanced",
+      "tags": [
+        "practice",
+        "upāya"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q28",
+      "learningUnitId": "shuddha_tattvas",
+      "question": "Which śuddha tattva is most aligned with the bhāva 'I am all this'?",
+      "correctAnswer": "Īśvara",
+      "hint": "Object revealed as Self.",
+      "explanation": "The Īśvara stance affirms the cosmos as the Lord’s own body—'this' shines as Self.",
+      "difficulty": "advanced",
+      "tags": [
+        "bhāva",
+        "cosmic body"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q29",
+      "learningUnitId": "shuddha_tattvas",
+      "question": "Which śuddha tattva fits the statement 'balanced recognition of I and this'?",
+      "correctAnswer": "Śuddhavidyā",
+      "hint": "Neither pole dominates.",
+      "explanation": "Śuddhavidyā establishes equipoise—knowledge that neither eclipses I nor object.",
+      "difficulty": "advanced",
+      "tags": [
+        "equipoise",
+        "recognition"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q30",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "What does Māyā introduce into limitless consciousness?",
+      "correctAnswer": "Limitation and differentiation",
+      "hint": "Veiling/measurement begins here.",
+      "explanation": "Māyā veils the infinite, imposing measures that enable the experience of finite multiplicity.",
+      "difficulty": "advanced",
+      "tags": [
+        "Māyā",
+        "limitation"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q31",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "List the five kañcukas (limiting cloaks).",
+      "correctAnswer": "Kalā, Vidyā, Rāga, Kāla, Niyati",
+      "hint": "Agency, knowledge, desire, time, order.",
+      "explanation": "The kañcukas contract doership, knowing, longing, temporality, and situational order.",
+      "difficulty": "advanced",
+      "tags": [
+        "kañcukas",
+        "list"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q32",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "Which kañcuka limits authorship/doership?",
+      "correctAnswer": "Kalā",
+      "hint": "Doership becomes partial.",
+      "explanation": "Kalā truncates unlimited kriyā-śakti into finite capacity, producing a sense of 'I can only do so much'.",
+      "difficulty": "advanced",
+      "tags": [
+        "Kalā",
+        "agency"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q33",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "Which kañcuka imposes partial knowledge?",
+      "correctAnswer": "Vidyā",
+      "hint": "From omniscience to pieces.",
+      "explanation": "Vidyā limits omniscience into fragmentary knowing, creating subject–object epistemic gaps.",
+      "difficulty": "advanced",
+      "tags": [
+        "Vidyā",
+        "knowledge"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q34",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "Which kañcuka is experienced as attachment or lack prompting seeking?",
+      "correctAnswer": "Rāga",
+      "hint": "Sense of 'not enough'.",
+      "explanation": "Rāga contracts fullness into craving; one seeks completion in objects and states.",
+      "difficulty": "advanced",
+      "tags": [
+        "Rāga",
+        "desire"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q35",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "Which kañcuka creates temporality—before/after?",
+      "correctAnswer": "Kāla",
+      "hint": "Think time.",
+      "explanation": "Kāla slices eternity into sequences, enabling karma and memory to operate.",
+      "difficulty": "advanced",
+      "tags": [
+        "Kāla",
+        "time"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q36",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "Which kañcuka binds one to specific circumstances and laws?",
+      "correctAnswer": "Niyati",
+      "hint": "Order, place, causality.",
+      "explanation": "Niyati binds the jīva to a determinate order—place, pattern, and causal constraints.",
+      "difficulty": "advanced",
+      "tags": [
+        "Niyati",
+        "order"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q37",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "Which tattva follows the kañcukas in the standard 36-tattva list?",
+      "correctAnswer": "Puruṣa",
+      "hint": "The finite experiencer.",
+      "explanation": "Puruṣa is the limited subject who undergoes experience within the field structured by Māyā and the kañcukas.",
+      "difficulty": "advanced",
+      "tags": [
+        "Puruṣa",
+        "subject"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q38",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "Which tattva pairs with Puruṣa as the material ground of manifestation?",
+      "correctAnswer": "Prakṛti",
+      "hint": "Think guṇas.",
+      "explanation": "Prakṛti is primordial nature composed of sattva, rajas, tamas, serving as the field of evolutes.",
+      "difficulty": "advanced",
+      "tags": [
+        "Prakṛti",
+        "guṇas"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q39",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "Order the antaḥkaraṇa from subtle to gross function: buddhi, ahaṃkāra, manas.",
+      "correctAnswer": "Buddhi, Ahaṃkāra, Manas",
+      "hint": "Intellect → I-maker → mind.",
+      "explanation": "Buddhi discerns, ahaṃkāra appropriates as 'I', and manas coordinates sensory data.",
+      "difficulty": "advanced",
+      "tags": [
+        "antaḥkaraṇa",
+        "ordering"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q40",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "Which inner instrument performs decisive knowledge (adhyavasāya)?",
+      "correctAnswer": "Buddhi",
+      "hint": "Decision faculty.",
+      "explanation": "Buddhi yields determinate judgments; it is the seat of clarity and discrimination.",
+      "difficulty": "advanced",
+      "tags": [
+        "buddhi",
+        "cognition"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q41",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "Which inner instrument fashions the sense of personal identity?",
+      "correctAnswer": "Ahaṃkāra",
+      "hint": "I-maker.",
+      "explanation": "Ahaṃkāra appropriates experiences to 'I', enabling egoic agency and ownership.",
+      "difficulty": "advanced",
+      "tags": [
+        "ahaṃkāra",
+        "ego"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q42",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "Which inner instrument processes options and doubt (saṃśaya)?",
+      "correctAnswer": "Manas",
+      "hint": "Mind as coordinator.",
+      "explanation": "Manas attends, compares, and hesitates—manages inputs before buddhi decides.",
+      "difficulty": "advanced",
+      "tags": [
+        "manas",
+        "processing"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q43",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "Name the five jñānendriyas (knowledge senses).",
+      "correctAnswer": "Hearing, touch, sight, taste, smell",
+      "hint": "Reception, not action.",
+      "explanation": "These receive inputs from the world enabling cognition of qualities.",
+      "difficulty": "advanced",
+      "tags": [
+        "jñānendriya",
+        "senses"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q44",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "Name the five karmendriyas (action organs).",
+      "correctAnswer": "Speech, hands, feet, excretion, reproduction",
+      "hint": "Expression and action.",
+      "explanation": "They carry out expression and activity: speaking, grasping, moving, eliminating, generating.",
+      "difficulty": "advanced",
+      "tags": [
+        "karmendriya",
+        "action"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q45",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "Match tanmātra to quality: śabda, sparśa, rūpa, rasa, gandha.",
+      "correctAnswer": "Sound, touch, form, taste, smell",
+      "hint": "Subtle precursors.",
+      "explanation": "Tanmātras are subtle essences that seed the gross elements and their qualities.",
+      "difficulty": "advanced",
+      "tags": [
+        "tanmātra",
+        "qualities"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q46",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "Which mahābhūta corresponds to space and supports sound?",
+      "correctAnswer": "Ākāśa",
+      "hint": "The subtlest element.",
+      "explanation": "Ākāśa provides room for vibration; sound propagates there most directly.",
+      "difficulty": "advanced",
+      "tags": [
+        "ākāśa",
+        "sound"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q47",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "Which mahābhūta corresponds to movement and supports touch?",
+      "correctAnswer": "Vāyu",
+      "hint": "Air/wind.",
+      "explanation": "Vāyu articulates motion and tactile sensation emerging from sparśa tanmātra.",
+      "difficulty": "advanced",
+      "tags": [
+        "vāyu",
+        "touch"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q48",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "Which mahābhūta corresponds to heat/visibility and supports form?",
+      "correctAnswer": "Tejas (Agni)",
+      "hint": "Fire/light.",
+      "explanation": "Tejas enables visibility and transformation; it correlates with rūpa tanmātra.",
+      "difficulty": "advanced",
+      "tags": [
+        "tejas",
+        "form"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q49",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "Which mahābhūta corresponds to liquidity and supports taste?",
+      "correctAnswer": "Ap (Jala)",
+      "hint": "Water element.",
+      "explanation": "Ap conveys cohesion and taste; rasa is apprehended through liquid medium.",
+      "difficulty": "advanced",
+      "tags": [
+        "ap",
+        "taste"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q50",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "Which mahābhūta corresponds to solidity and supports smell?",
+      "correctAnswer": "Pṛthvī",
+      "hint": "Earth element.",
+      "explanation": "Pṛthvī provides resistance and fragrance-bearing capacity; gandha is its quality.",
+      "difficulty": "advanced",
+      "tags": [
+        "pṛthvī",
+        "smell"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q51",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "Which tattva marks the first truly 'impure' (aśuddha) layer in some enumerations?",
+      "correctAnswer": "Puruṣa (or Prakṛti depending on lineage)",
+      "hint": "Lineages differ here.",
+      "explanation": "Some Trika lists count Māyā+kañcukas as pure-impure and start aśuddha with Puruṣa; others include Prakṛti onward.",
+      "difficulty": "advanced",
+      "tags": [
+        "taxonomy",
+        "lineage"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q52",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "How do guṇas relate to experience under contraction?",
+      "correctAnswer": "They bias cognition and action via sattva, rajas, tamas",
+      "hint": "Think clarity, activity, inertia.",
+      "explanation": "Prakṛti’s guṇas flavour perception and behaviour, shaping karma within Māyā’s constraints.",
+      "difficulty": "advanced",
+      "tags": [
+        "guṇas",
+        "karma"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q53",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "Which indriya pair links speech and hearing in expression–reception polarity?",
+      "correctAnswer": "Vāk (speech) and Śrotra (hearing)",
+      "hint": "Action vs knowledge sense.",
+      "explanation": "Vāk externalises thought while śrotra receives vibration; both are modulations of consciousness.",
+      "difficulty": "advanced",
+      "tags": [
+        "vāk",
+        "śrotra"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q54",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "Why are tanmātras called 'subtle'?",
+      "correctAnswer": "They are pre-gross essences not yet spatially extended",
+      "hint": "Between mind and matter.",
+      "explanation": "They seed qualities without full extension; gross elements crystallise them into tangible forms.",
+      "difficulty": "advanced",
+      "tags": [
+        "subtle",
+        "ontology"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q55",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "Which tattva serves as the pivot from transcendence to empirical mind?",
+      "correctAnswer": "Buddhi (through ahaṃkāra to manas)",
+      "hint": "Decision → I → coordination.",
+      "explanation": "The antaḥkaraṇa translates cosmic contraction into a functional psyche for the jīva.",
+      "difficulty": "advanced",
+      "tags": [
+        "psyche",
+        "pivot"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q56",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "Place these in correct order within the 36: tanmātras, karmendriyas, mahābhūtas.",
+      "correctAnswer": "Karmendriyas → Tanmātras → Mahābhūtas",
+      "hint": "Action before subtle qualities.",
+      "explanation": "Standard evolute order moves from faculties to subtle essences to gross elements.",
+      "difficulty": "advanced",
+      "tags": [
+        "ordering",
+        "evolutes"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q57",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "What is the soteriological key to transcending kañcukas according to Trika?",
+      "correctAnswer": "Recognition (pratyabhijñā) of one’s Śiva-nature",
+      "hint": "Shift identity, not objects.",
+      "explanation": "By recognising the Self as Śiva, the limiting cloaks fall away as appearances within awareness.",
+      "difficulty": "advanced",
+      "tags": [
+        "pratyabhijñā",
+        "soteriology"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q58",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "Which practice aligns doership (kalā) back with unrestricted kriyā-śakti?",
+      "correctAnswer": "Acting with non-separative awareness (karma-yoga/ānupāya framing)",
+      "hint": "Do without egoic appropriation.",
+      "explanation": "When action is recognised as Śakti’s play, agency is no longer felt as limited 'mine'.",
+      "difficulty": "advanced",
+      "tags": [
+        "practice",
+        "agency"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q59",
+      "learningUnitId": "maya_to_prthvi",
+      "question": "Which tattva completes the cascade as tangible solidity in space?",
+      "correctAnswer": "Pṛthvī",
+      "hint": "The 36th in many lists.",
+      "explanation": "Pṛthvī concludes manifestation as gross earth—maximal contraction of the prior subtleties.",
+      "difficulty": "advanced",
+      "tags": [
+        "completion",
+        "gross element"
+      ],
+      "timeLimit": 45
+    }
+  ]
+}

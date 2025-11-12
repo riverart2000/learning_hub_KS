@@ -1,0 +1,936 @@
+{
+  "categories": [
+    {
+      "id": "tantra_sanskrit_asana_meanings",
+      "name": "Tantra Yoga Sanskrit: Asana Names, Meanings & Translations",
+      "description": "Learn accurate Sanskrit names for common asanas with their literal meanings and standard English translations, to build clear, confident cueing.",
+      "icon": "translate"
+    }
+  ],
+  "subcategories": [
+    {
+      "id": "standing_asanas_sanskrit_meanings",
+      "categoryId": "tantra_sanskrit_asana_meanings",
+      "name": "Standing & Transitional Asanas",
+      "description": "Key standing postures and common transitions with Sanskrit names and reliable translations."
+    },
+    {
+      "id": "seated_prone_asanas_sanskrit_meanings",
+      "categoryId": "tantra_sanskrit_asana_meanings",
+      "name": "Seated, Prone & Supine Asanas",
+      "description": "Foundational floor postures with literal meanings and conventional English pose names."
+    }
+  ],
+  "learningUnits": [
+    {
+      "id": "standing_asanas_sanskrit_meanings",
+      "subCategoryId": "standing_asanas_sanskrit_meanings",
+      "type": "mixed",
+      "title": "Standing & Transitional Asanas",
+      "content": {},
+      "difficulty": "beginner",
+      "tags": [
+        "sanskrit",
+        "asanas",
+        "standing",
+        "translations"
+      ]
+    },
+    {
+      "id": "seated_prone_asanas_sanskrit_meanings",
+      "subCategoryId": "seated_prone_asanas_sanskrit_meanings",
+      "type": "mixed",
+      "title": "Seated, Prone & Supine Asanas",
+      "content": {},
+      "difficulty": "beginner",
+      "tags": [
+        "sanskrit",
+        "asanas",
+        "seated",
+        "prone",
+        "supine",
+        "translations"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "learningUnitId": "standing_asanas_sanskrit_meanings",
+      "question": "What is the standard English for “Tāḍāsana”?",
+      "correctAnswer": "Mountain Pose",
+      "hint": "Think tall, steady, grounded.",
+      "explanation": "Tāḍa means 'mountain.' Tāḍāsana is the neutral standing shape with steady, rooted legs and an upright spine. It's commonly the starting point for standing sequences.",
+      "difficulty": "beginner",
+      "tags": [
+        "standing",
+        "neutral",
+        "translation"
+      ],
+      "timeLimit": 30
+    },
+    {
+      "id": "q2",
+      "learningUnitId": "standing_asanas_sanskrit_meanings",
+      "question": "Translate “Vṛkṣāsana.”",
+      "correctAnswer": "Tree Pose",
+      "hint": "Branches, balance, one foot rooted.",
+      "explanation": "Vṛkṣa means 'tree.' The posture cultivates balance with one foot rooted like a trunk and the other placed on the inner leg. Hands often come together overhead like branches.",
+      "difficulty": "beginner",
+      "tags": [
+        "standing",
+        "balance",
+        "translation"
+      ],
+      "timeLimit": 30
+    },
+    {
+      "id": "q3",
+      "learningUnitId": "standing_asanas_sanskrit_meanings",
+      "question": "What does “Trikoṇāsana” translate to?",
+      "correctAnswer": "Triangle Pose",
+      "hint": "Three sides, long lines.",
+      "explanation": "Trikoṇa means 'triangle.' The pose creates triangular shapes through the legs and torso. It's a staple lateral extension posture.",
+      "difficulty": "beginner",
+      "tags": [
+        "standing",
+        "lateral",
+        "translation"
+      ],
+      "timeLimit": 30
+    },
+    {
+      "id": "q4",
+      "learningUnitId": "standing_asanas_sanskrit_meanings",
+      "question": "English name for “Vīrabhadrāsana I”?",
+      "correctAnswer": "Warrior I",
+      "hint": "Named after a fierce warrior aspect.",
+      "explanation": "Vīrabhadra is a mythic warrior. Vīrabhadrāsana I features a lunge with squared hips and arms overhead. It's a foundational strength posture.",
+      "difficulty": "beginner",
+      "tags": [
+        "standing",
+        "lunge",
+        "mythology",
+        "translation"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q5",
+      "learningUnitId": "standing_asanas_sanskrit_meanings",
+      "question": "English name for “Vīrabhadrāsana II”?",
+      "correctAnswer": "Warrior II",
+      "hint": "Arms wide, hips open to the side.",
+      "explanation": "Warrior II opens the hips to the long edge of the mat, arms extended. It develops stamina and focus with a steady gaze over the front hand.",
+      "difficulty": "beginner",
+      "tags": [
+        "standing",
+        "hip-opening",
+        "translation"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q6",
+      "learningUnitId": "standing_asanas_sanskrit_meanings",
+      "question": "English name for “Vīrabhadrāsana III”?",
+      "correctAnswer": "Warrior III",
+      "hint": "Balance on one leg, torso parallel.",
+      "explanation": "Warrior III is a balancing pose on one leg with the torso and back leg in one long line. It trains stability and focus.",
+      "difficulty": "beginner",
+      "tags": [
+        "standing",
+        "balance",
+        "translation"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q7",
+      "learningUnitId": "standing_asanas_sanskrit_meanings",
+      "question": "Translate “Utkatāsana.”",
+      "correctAnswer": "Chair Pose",
+      "hint": "Imagine sitting back toward an invisible seat.",
+      "explanation": "Utkata means 'fierce' or 'intense.' The posture is popularly called Chair Pose due to the hips sitting back and arms reaching forward or up.",
+      "difficulty": "beginner",
+      "tags": [
+        "standing",
+        "strength",
+        "translation"
+      ],
+      "timeLimit": 30
+    },
+    {
+      "id": "q8",
+      "learningUnitId": "standing_asanas_sanskrit_meanings",
+      "question": "English for “Uttānāsana”?",
+      "correctAnswer": "Standing Forward Bend",
+      "hint": "Fold from the hips, long spine.",
+      "explanation": "Uttāna means 'intense stretch' or 'extended.' In Uttānāsana you hinge forward from the hips, lengthening the posterior chain.",
+      "difficulty": "beginner",
+      "tags": [
+        "standing",
+        "forward-bend",
+        "translation"
+      ],
+      "timeLimit": 30
+    },
+    {
+      "id": "q9",
+      "learningUnitId": "standing_asanas_sanskrit_meanings",
+      "question": "Translate “Ardha Uttānāsana.”",
+      "correctAnswer": "Half Lift",
+      "hint": "Halfway lift lengthens the spine parallel to the floor.",
+      "explanation": "Ardha means 'half.' Ardha Uttānāsana is the halfway lift: spine long, hands often on shins or blocks. It prepares the back for deeper folds.",
+      "difficulty": "beginner",
+      "tags": [
+        "standing",
+        "transition",
+        "translation"
+      ],
+      "timeLimit": 25
+    },
+    {
+      "id": "q10",
+      "learningUnitId": "standing_asanas_sanskrit_meanings",
+      "question": "What is “Parivṛtta Trikoṇāsana” in English?",
+      "correctAnswer": "Revolved Triangle Pose",
+      "hint": "Twist in the triangle shape.",
+      "explanation": "Parivṛtta means 'revolved.' This is the twisting counterpart to Triangle, emphasizing spinal rotation and hamstring length.",
+      "difficulty": "beginner",
+      "tags": [
+        "standing",
+        "twist",
+        "translation"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q11",
+      "learningUnitId": "standing_asanas_sanskrit_meanings",
+      "question": "English for “Pārśvakoṇāsana.”",
+      "correctAnswer": "Extended Side Angle Pose",
+      "hint": "Long side waist from back heel to fingertips.",
+      "explanation": "Pārśva means 'side' and koṇa means 'angle.' The pose creates a long diagonal line through the side body.",
+      "difficulty": "beginner",
+      "tags": [
+        "standing",
+        "lateral",
+        "translation"
+      ],
+      "timeLimit": 30
+    },
+    {
+      "id": "q12",
+      "learningUnitId": "standing_asanas_sanskrit_meanings",
+      "question": "Translate “Ardha Chandrāsana.”",
+      "correctAnswer": "Half Moon Pose",
+      "hint": "Balance with torso open to the side.",
+      "explanation": "Chandra means 'moon.' Ardha Chandrāsana balances on one leg with the torso opening laterally, often with the top arm reaching upward.",
+      "difficulty": "beginner",
+      "tags": [
+        "standing",
+        "balance",
+        "translation"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q13",
+      "learningUnitId": "standing_asanas_sanskrit_meanings",
+      "question": "English for “Utthita Hasta Pādāṅguṣṭhāsana”?",
+      "correctAnswer": "Extended Hand-to-Big-Toe Pose",
+      "hint": "Think: hand catches big toe while standing.",
+      "explanation": "Utthita means 'extended,' hasta 'hand,' pādāṅguṣṭha 'big toe.' It's a challenging standing balance with a leg extended.",
+      "difficulty": "beginner",
+      "tags": [
+        "standing",
+        "balance",
+        "translation"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q14",
+      "learningUnitId": "standing_asanas_sanskrit_meanings",
+      "question": "Translate “Prasārita Pādottānāsana.”",
+      "correctAnswer": "Wide-Legged Forward Bend",
+      "hint": "Wide stance, fold from hips.",
+      "explanation": "Prasārita means 'spread' or 'wide.' With feet wide, you hinge forward to lengthen hamstrings and spine.",
+      "difficulty": "beginner",
+      "tags": [
+        "standing",
+        "forward-bend",
+        "translation"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q15",
+      "learningUnitId": "standing_asanas_sanskrit_meanings",
+      "question": "English for “Garuḍāsana.”",
+      "correctAnswer": "Eagle Pose",
+      "hint": "Arms and legs wrap like wings.",
+      "explanation": "Garuḍa is 'eagle.' The pose crosses legs and wraps arms to build focus and open the upper back.",
+      "difficulty": "beginner",
+      "tags": [
+        "standing",
+        "balance",
+        "bind",
+        "translation"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q16",
+      "learningUnitId": "standing_asanas_sanskrit_meanings",
+      "question": "Translate “Naṭarājāsana.”",
+      "correctAnswer": "Dancer Pose",
+      "hint": "Lord of Dance—grace and backbend.",
+      "explanation": "Naṭarāja is Shiva as Lord of Dance. The pose is a standing balance with a backbend and a lifted, held foot.",
+      "difficulty": "beginner",
+      "tags": [
+        "standing",
+        "backbend",
+        "balance",
+        "mythology",
+        "translation"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q17",
+      "learningUnitId": "standing_asanas_sanskrit_meanings",
+      "question": "English for “Ūrdhva Hastāsana.”",
+      "correctAnswer": "Upward Salute",
+      "hint": "Arms sweep up, ribs soft.",
+      "explanation": "Ūrdhva means 'upward.' This straightforward reach organizes shoulder flexion and length through the side body.",
+      "difficulty": "beginner",
+      "tags": [
+        "standing",
+        "transition",
+        "translation"
+      ],
+      "timeLimit": 25
+    },
+    {
+      "id": "q18",
+      "learningUnitId": "standing_asanas_sanskrit_meanings",
+      "question": "Translate “Añjaneyāsana.”",
+      "correctAnswer": "Low Lunge (Crescent Lunge)",
+      "hint": "Back knee down, chest lifted.",
+      "explanation": "Añjaneya is a name for Hanuman. The posture is a low lunge emphasizing hip flexor opening and heart lift; often called Crescent Lunge.",
+      "difficulty": "beginner",
+      "tags": [
+        "standing",
+        "lunge",
+        "hip-opening",
+        "translation"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q19",
+      "learningUnitId": "standing_asanas_sanskrit_meanings",
+      "question": "English for “Parivṛtta Pārśvakoṇāsana.”",
+      "correctAnswer": "Revolved Side Angle Pose",
+      "hint": "Twist toward the front leg.",
+      "explanation": "Parivṛtta means 'revolved.' This twisting lunge integrates rotation with leg strength and balance.",
+      "difficulty": "beginner",
+      "tags": [
+        "standing",
+        "twist",
+        "translation"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q20",
+      "learningUnitId": "standing_asanas_sanskrit_meanings",
+      "question": "Translate “Pādāṅguṣṭhāsana.”",
+      "correctAnswer": "Big Toe Pose",
+      "hint": "Two fingers hook the big toes.",
+      "explanation": "Pādāṅguṣṭha means 'big toe.' From standing, you fold and hold the big toes to deepen hamstring length.",
+      "difficulty": "beginner",
+      "tags": [
+        "standing",
+        "forward-bend",
+        "translation"
+      ],
+      "timeLimit": 30
+    },
+    {
+      "id": "q21",
+      "learningUnitId": "standing_asanas_sanskrit_meanings",
+      "question": "English for “Pādahastāsana.”",
+      "correctAnswer": "Hand-to-Foot Pose",
+      "hint": "Hands slide under the feet.",
+      "explanation": "Pādahasta means 'hand-to-foot.' It's a standing forward fold variation with palms under the soles to intensify the stretch.",
+      "difficulty": "beginner",
+      "tags": [
+        "standing",
+        "forward-bend",
+        "translation"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q22",
+      "learningUnitId": "standing_asanas_sanskrit_meanings",
+      "question": "Translate “Utkaṭa Koṇāsana.”",
+      "correctAnswer": "Goddess Pose",
+      "hint": "Wide stance, knees bent, hips open.",
+      "explanation": "Often called Goddess, this fierce-angle squat opens the hips with external rotation and a strong spine.",
+      "difficulty": "beginner",
+      "tags": [
+        "standing",
+        "squat",
+        "hip-opening",
+        "translation"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q23",
+      "learningUnitId": "standing_asanas_sanskrit_meanings",
+      "question": "English for “Parighāsana.”",
+      "correctAnswer": "Gate Pose",
+      "hint": "Kneeling side bend with extended leg.",
+      "explanation": "Parigha means 'bar/gate-latch.' The pose creates a lateral opening of the torso over an extended leg from a kneeling base.",
+      "difficulty": "beginner",
+      "tags": [
+        "kneeling",
+        "lateral",
+        "translation"
+      ],
+      "timeLimit": 30
+    },
+    {
+      "id": "q24",
+      "learningUnitId": "standing_asanas_sanskrit_meanings",
+      "question": "Translate “Adho Mukha Śvānāsana.”",
+      "correctAnswer": "Downward-Facing Dog",
+      "hint": "Inverted V-shape, hands and feet press.",
+      "explanation": "Adho means 'down,' mukha 'face,' śvāna 'dog.' This is a mild inversion and key transition in vinyāsa sequences.",
+      "difficulty": "beginner",
+      "tags": [
+        "inversion",
+        "transition",
+        "translation"
+      ],
+      "timeLimit": 30
+    },
+    {
+      "id": "q25",
+      "learningUnitId": "standing_asanas_sanskrit_meanings",
+      "question": "English for “Ūrdhva Mukha Śvānāsana.”",
+      "correctAnswer": "Upward-Facing Dog",
+      "hint": "Chest forward, thighs lifted.",
+      "explanation": "Ūrdhva means 'upward.' This backbend opens the chest and engages arms while legs are active and lifted from the mat.",
+      "difficulty": "beginner",
+      "tags": [
+        "backbend",
+        "transition",
+        "translation"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q26",
+      "learningUnitId": "standing_asanas_sanskrit_meanings",
+      "question": "Translate “Caturaṅga Daṇḍāsana.”",
+      "correctAnswer": "Four-Limbed Staff Pose",
+      "hint": "Low plank with elbows at 90°.",
+      "explanation": "Caturaṅga means 'four-limbed,' daṇḍa 'staff.' It's the controlled low push-up position linking vinyāsa flows.",
+      "difficulty": "beginner",
+      "tags": [
+        "arm-balance",
+        "transition",
+        "translation"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q27",
+      "learningUnitId": "standing_asanas_sanskrit_meanings",
+      "question": "English for “Hasta Uttānāsana.”",
+      "correctAnswer": "Raised Hands Pose",
+      "hint": "Similar to Upward Salute; arms reach high.",
+      "explanation": "Hasta means 'hands,' uttāna 'intense stretch.' It lengthens the side body and prepares for backbends.",
+      "difficulty": "beginner",
+      "tags": [
+        "standing",
+        "transition",
+        "translation"
+      ],
+      "timeLimit": 25
+    },
+    {
+      "id": "q28",
+      "learningUnitId": "standing_asanas_sanskrit_meanings",
+      "question": "Translate “Ardha Uttkaṭa āsana” (common variant name).",
+      "correctAnswer": "Half Chair Pose",
+      "hint": "Hips back, smaller knee bend than full Chair.",
+      "explanation": "In practice, 'Half Chair' cues a lighter squat while maintaining spinal length. It is used as a step toward Utkatāsana.",
+      "difficulty": "beginner",
+      "tags": [
+        "standing",
+        "strength",
+        "translation"
+      ],
+      "timeLimit": 25
+    },
+    {
+      "id": "q29",
+      "learningUnitId": "standing_asanas_sanskrit_meanings",
+      "question": "English for “Parśvottānāsana.”",
+      "correctAnswer": "Pyramid Pose (Intense Side Stretch)",
+      "hint": "Square the hips toward the front leg.",
+      "explanation": "Parśva means 'side,' uttāna 'intense stretch.' The pose targets hamstrings with a long spine over the front leg.",
+      "difficulty": "beginner",
+      "tags": [
+        "standing",
+        "forward-bend",
+        "translation"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q30",
+      "learningUnitId": "seated_prone_asanas_sanskrit_meanings",
+      "question": "Translate “Sukhasana.”",
+      "correctAnswer": "Easy Pose",
+      "hint": "Comfortable cross‑legged seat.",
+      "explanation": "Sukha means 'ease' or 'comfort.' It's a simple cross‑legged meditation seat that encourages a tall, relaxed spine.",
+      "difficulty": "beginner",
+      "tags": [
+        "seated",
+        "meditation",
+        "translation"
+      ],
+      "timeLimit": 25
+    },
+    {
+      "id": "q31",
+      "learningUnitId": "seated_prone_asanas_sanskrit_meanings",
+      "question": "English name for “Padmāsana.”",
+      "correctAnswer": "Lotus Pose",
+      "hint": "Classic meditative seat with crossed feet on thighs.",
+      "explanation": "Padma means 'lotus.' The posture symbolizes stability and openness, traditionally used for meditation.",
+      "difficulty": "beginner",
+      "tags": [
+        "seated",
+        "meditation",
+        "translation"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q32",
+      "learningUnitId": "seated_prone_asanas_sanskrit_meanings",
+      "question": "What is “Siddhāsana” in English?",
+      "correctAnswer": "Adept's Pose",
+      "hint": "A classic meditation seat alternative to Lotus.",
+      "explanation": "Siddha means 'accomplished' or 'adept.' The heel placement supports an upright, steady spine for breathwork and meditation.",
+      "difficulty": "beginner",
+      "tags": [
+        "seated",
+        "meditation",
+        "translation"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q33",
+      "learningUnitId": "seated_prone_asanas_sanskrit_meanings",
+      "question": "Translate “Vajrāsana.”",
+      "correctAnswer": "Thunderbolt Pose (Diamond Pose)",
+      "hint": "Kneeling on shins; sit back on heels.",
+      "explanation": "Vajra means 'thunderbolt/diamond.' Sitting on the heels aids digestion and steady breath after meals in some traditions.",
+      "difficulty": "beginner",
+      "tags": [
+        "kneeling",
+        "seated",
+        "translation"
+      ],
+      "timeLimit": 30
+    },
+    {
+      "id": "q34",
+      "learningUnitId": "seated_prone_asanas_sanskrit_meanings",
+      "question": "English for “Vīrāsana.”",
+      "correctAnswer": "Hero Pose",
+      "hint": "Kneel and sit between the heels.",
+      "explanation": "Vīra means 'hero.' The pose opens quadriceps and lengthens the spine from a kneeling base.",
+      "difficulty": "beginner",
+      "tags": [
+        "kneeling",
+        "quad-opening",
+        "translation"
+      ],
+      "timeLimit": 30
+    },
+    {
+      "id": "q35",
+      "learningUnitId": "seated_prone_asanas_sanskrit_meanings",
+      "question": "Translate “Daṇḍāsana.”",
+      "correctAnswer": "Staff Pose",
+      "hint": "Legs extended, spine upright.",
+      "explanation": "Daṇḍa means 'staff.' The extended legs and active feet provide a base for seated forward bends and twists.",
+      "difficulty": "beginner",
+      "tags": [
+        "seated",
+        "foundation",
+        "translation"
+      ],
+      "timeLimit": 25
+    },
+    {
+      "id": "q36",
+      "learningUnitId": "seated_prone_asanas_sanskrit_meanings",
+      "question": "English for “Paścimottānāsana.”",
+      "correctAnswer": "Seated Forward Bend",
+      "hint": "Fold over the long back body (west side).",
+      "explanation": "Paścima means 'west/back of the body.' The pose stretches hamstrings and lengthens the spine forward over the legs.",
+      "difficulty": "beginner",
+      "tags": [
+        "seated",
+        "forward-bend",
+        "translation"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q37",
+      "learningUnitId": "seated_prone_asanas_sanskrit_meanings",
+      "question": "Translate “Pūrvottānāsana.”",
+      "correctAnswer": "Upward Plank Pose",
+      "hint": "Reverse table to straight‑leg plank.",
+      "explanation": "Pūrva means 'east/front of body.' This backbend strengthens posterior shoulders while opening the chest and front body.",
+      "difficulty": "beginner",
+      "tags": [
+        "backbend",
+        "seated",
+        "translation"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q38",
+      "learningUnitId": "seated_prone_asanas_sanskrit_meanings",
+      "question": "English for “Baddha Koṇāsana.”",
+      "correctAnswer": "Bound Angle Pose (Cobbler’s Pose)",
+      "hint": "Soles of the feet together, knees wide.",
+      "explanation": "Baddha means 'bound' and koṇa 'angle.' The posture externally rotates the hips and lengthens the inner thighs.",
+      "difficulty": "beginner",
+      "tags": [
+        "seated",
+        "hip-opening",
+        "translation"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q39",
+      "learningUnitId": "seated_prone_asanas_sanskrit_meanings",
+      "question": "Translate “Upaviṣṭha Koṇāsana.”",
+      "correctAnswer": "Wide-Angle Seated Forward Bend",
+      "hint": "Legs wide, fold forward from hips.",
+      "explanation": "Upaviṣṭha means 'seated.' This pose stretches inner legs and hamstrings while keeping the spine long.",
+      "difficulty": "beginner",
+      "tags": [
+        "seated",
+        "forward-bend",
+        "translation"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q40",
+      "learningUnitId": "seated_prone_asanas_sanskrit_meanings",
+      "question": "English for “Jānu Śīrṣāsana.”",
+      "correctAnswer": "Head-to-Knee Pose",
+      "hint": "One knee bends; fold over the extended leg.",
+      "explanation": "Jānu means 'knee' and śīrṣa 'head.' It combines hamstring length with a gentle twist toward the extended leg.",
+      "difficulty": "beginner",
+      "tags": [
+        "seated",
+        "forward-bend",
+        "translation"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q41",
+      "learningUnitId": "seated_prone_asanas_sanskrit_meanings",
+      "question": "Translate “Mārīchyāsana.”",
+      "correctAnswer": "Marichi’s Pose",
+      "hint": "Sage Marichi’s twist/bind variations.",
+      "explanation": "Named for the sage Marichi. The pose family involves twists and possible binds from a seated base to mobilize the spine.",
+      "difficulty": "beginner",
+      "tags": [
+        "seated",
+        "twist",
+        "translation"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q42",
+      "learningUnitId": "seated_prone_asanas_sanskrit_meanings",
+      "question": "English for “Gomukhāsana.”",
+      "correctAnswer": "Cow Face Pose",
+      "hint": "Knees stack; hands bind behind back.",
+      "explanation": "Gomukha means 'cow face.' The legs and arms position create symmetrical opening in hips and shoulders.",
+      "difficulty": "beginner",
+      "tags": [
+        "seated",
+        "shoulder-opening",
+        "hip-opening",
+        "translation"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q43",
+      "learningUnitId": "seated_prone_asanas_sanskrit_meanings",
+      "question": "Translate “Bharadvājāsana.”",
+      "correctAnswer": "Bharadvaja’s Twist",
+      "hint": "Gentle seated twist variation.",
+      "explanation": "Named after the sage Bharadvaja. This twist encourages lift through the spine before rotation.",
+      "difficulty": "beginner",
+      "tags": [
+        "seated",
+        "twist",
+        "translation"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q44",
+      "learningUnitId": "seated_prone_asanas_sanskrit_meanings",
+      "question": "English for “Ardha Matsyendrāsana.”",
+      "correctAnswer": "Half Lord of the Fishes Pose",
+      "hint": "Seated spinal twist; lift then rotate.",
+      "explanation": "Named for Matsyendra, a legendary yogi. The pose lengthens the spine and rotates to massage the abdominal organs.",
+      "difficulty": "beginner",
+      "tags": [
+        "seated",
+        "twist",
+        "translation"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q45",
+      "learningUnitId": "seated_prone_asanas_sanskrit_meanings",
+      "question": "Translate “Balāsana.”",
+      "correctAnswer": "Child’s Pose",
+      "hint": "Resting fold with shins down.",
+      "explanation": "Bala means 'child.' It's a restorative posture that lengthens the back and encourages diaphragmatic breathing.",
+      "difficulty": "beginner",
+      "tags": [
+        "restorative",
+        "prone",
+        "translation"
+      ],
+      "timeLimit": 25
+    },
+    {
+      "id": "q46",
+      "learningUnitId": "seated_prone_asanas_sanskrit_meanings",
+      "question": "English for “Bhujāṅgāsana.”",
+      "correctAnswer": "Cobra Pose",
+      "hint": "Prone backbend with elbows close.",
+      "explanation": "Bhujanga means 'cobra.' The pose strengthens the back while opening the chest, with pubic bone heavy on the mat.",
+      "difficulty": "beginner",
+      "tags": [
+        "prone",
+        "backbend",
+        "translation"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q47",
+      "learningUnitId": "seated_prone_asanas_sanskrit_meanings",
+      "question": "Translate “Śalabhāsana.”",
+      "correctAnswer": "Locust Pose",
+      "hint": "Prone lift of chest and legs.",
+      "explanation": "Śalabha means 'locust.' It builds posterior chain strength and supports healthier backbends.",
+      "difficulty": "beginner",
+      "tags": [
+        "prone",
+        "backstrength",
+        "translation"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q48",
+      "learningUnitId": "seated_prone_asanas_sanskrit_meanings",
+      "question": "English for “Dhanurāsana.”",
+      "correctAnswer": "Bow Pose",
+      "hint": "Catch ankles; lift chest and thighs.",
+      "explanation": "Dhanura means 'bow.' The body forms a bow shape, stretching the entire front body while strengthening the back.",
+      "difficulty": "beginner",
+      "tags": [
+        "prone",
+        "backbend",
+        "translation"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q49",
+      "learningUnitId": "seated_prone_asanas_sanskrit_meanings",
+      "question": "Translate “Uṣṭrāsana.”",
+      "correctAnswer": "Camel Pose",
+      "hint": "Tall kneeling backbend; hands to heels.",
+      "explanation": "Uṣṭra means 'camel.' It’s a deep front‑body opener that also strengthens the posterior chain and demands spinal integrity.",
+      "difficulty": "beginner",
+      "tags": [
+        "kneeling",
+        "backbend",
+        "translation"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q50",
+      "learningUnitId": "seated_prone_asanas_sanskrit_meanings",
+      "question": "English for “Setu Bandha Sarvāṅgāsana.”",
+      "correctAnswer": "Bridge Pose",
+      "hint": "Lift hips with shoulders grounded.",
+      "explanation": "Setu bandha means 'constructing a bridge.' This backbend strengthens glutes and hamstrings while opening the chest.",
+      "difficulty": "beginner",
+      "tags": [
+        "supine",
+        "backbend",
+        "translation"
+      ],
+      "timeLimit": 30
+    },
+    {
+      "id": "q51",
+      "learningUnitId": "seated_prone_asanas_sanskrit_meanings",
+      "question": "Translate “Matsyāsana.”",
+      "correctAnswer": "Fish Pose",
+      "hint": "Backbend with chest lifted, often legs in Lotus or straight.",
+      "explanation": "Matsya means 'fish.' The posture opens the throat and chest, countering long periods of forward bending.",
+      "difficulty": "beginner",
+      "tags": [
+        "supine",
+        "backbend",
+        "translation"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q52",
+      "learningUnitId": "seated_prone_asanas_sanskrit_meanings",
+      "question": "English for “Supta Baddha Koṇāsana.”",
+      "correctAnswer": "Reclined Bound Angle Pose",
+      "hint": "Lie back, soles together, knees wide.",
+      "explanation": "Supta means 'reclined.' This restorative posture gently opens the hips and encourages relaxed breathing.",
+      "difficulty": "beginner",
+      "tags": [
+        "supine",
+        "restorative",
+        "translation"
+      ],
+      "timeLimit": 30
+    },
+    {
+      "id": "q53",
+      "learningUnitId": "seated_prone_asanas_sanskrit_meanings",
+      "question": "Translate “Pavanamuktāsana.”",
+      "correctAnswer": "Wind-Relieving Pose",
+      "hint": "Hug one or both knees to chest.",
+      "explanation": "Pavana means 'wind' and mukta 'release.' The pose massages the abdomen and can ease lower back tension.",
+      "difficulty": "beginner",
+      "tags": [
+        "supine",
+        "core",
+        "translation"
+      ],
+      "timeLimit": 30
+    },
+    {
+      "id": "q54",
+      "learningUnitId": "seated_prone_asanas_sanskrit_meanings",
+      "question": "English for “Viparīta Karaṇī.”",
+      "correctAnswer": "Legs-Up-the-Wall Pose",
+      "hint": "Passive inversion with legs vertical.",
+      "explanation": "Viparīta means 'inverted' and karaṇī 'action.' It's a gentle inversion for drainage and relaxation.",
+      "difficulty": "beginner",
+      "tags": [
+        "inversion",
+        "restorative",
+        "translation"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q55",
+      "learningUnitId": "seated_prone_asanas_sanskrit_meanings",
+      "question": "Translate “Śavāsana.”",
+      "correctAnswer": "Corpse Pose",
+      "hint": "Final rest lying flat and still.",
+      "explanation": "Śava means 'corpse.' The practice integrates the effects of the session and trains deep, wakeful relaxation.",
+      "difficulty": "beginner",
+      "tags": [
+        "supine",
+        "restorative",
+        "translation"
+      ],
+      "timeLimit": 25
+    },
+    {
+      "id": "q56",
+      "learningUnitId": "seated_prone_asanas_sanskrit_meanings",
+      "question": "English for “Paripūrṇa Nāvāsana.”",
+      "correctAnswer": "Full Boat Pose",
+      "hint": "Balance on sit bones; legs and torso form a V.",
+      "explanation": "Paripūrṇa means 'full/complete.' Boat Pose strengthens hip flexors and core while challenging breath control.",
+      "difficulty": "beginner",
+      "tags": [
+        "seated",
+        "balance",
+        "core",
+        "translation"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q57",
+      "learningUnitId": "seated_prone_asanas_sanskrit_meanings",
+      "question": "Translate “Ardha Nāvāsana.”",
+      "correctAnswer": "Half Boat Pose",
+      "hint": "Lower the legs/torso to intensify core work.",
+      "explanation": "Ardha means 'half.' Half Boat increases abdominal demand and teaches controlled spinal flexion.",
+      "difficulty": "beginner",
+      "tags": [
+        "seated",
+        "core",
+        "translation"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q58",
+      "learningUnitId": "seated_prone_asanas_sanskrit_meanings",
+      "question": "English for “Supta Vīrāsana.”",
+      "correctAnswer": "Reclined Hero Pose",
+      "hint": "From Hero, recline back to the floor (or props).",
+      "explanation": "Supta means 'reclined.' It deeply lengthens the front thighs and challenges spinal extension; props are common for safety.",
+      "difficulty": "beginner",
+      "tags": [
+        "supine",
+        "quad-opening",
+        "translation"
+      ],
+      "timeLimit": 45
+    }
+  ]
+}

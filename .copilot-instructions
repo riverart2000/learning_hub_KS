@@ -1,0 +1,13 @@
+# Copilot Coding Directives
+
+- Write clean, modular, and efficient code (follow SOLID principles).
+- Optimize for performance and low memory use; avoid redundancy.
+- Enforce input validation, error handling, and security by default.
+- Add minimal, clear docstrings and meaningful names.
+- Keep functions small and reusable; separate logic layers.
+- Prefer async, streaming, and caching when possible.
+- Include unit tests and mocks for all public methods.
+- Use structured logging with safe, configurable debug levels.
+- Avoid hard-coded secrets or magic numbers.
+- Design for cross-platform and easy future refactoring.
+

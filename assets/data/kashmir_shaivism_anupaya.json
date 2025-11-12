@@ -1,0 +1,706 @@
+{
+  "categories": [
+    {
+      "id": "kashmir-shaivism-anupaya",
+      "name": "Kashmir Shaivism: Anupāya – the Path Beyond Means",
+      "description": "Anupāya represents the highest realization in Kashmir Shaivism, where liberation occurs without any deliberate practices or efforts, through direct recognition of one's innate Shiva nature. This path transcends all methods, emphasizing effortless being and the unity of consciousness. It invites learners to explore the profound simplicity of non-dual awareness.",
+      "icon": "spa"
+    }
+  ],
+  "subcategories": [
+    {
+      "id": "upayas-context",
+      "categoryId": "kashmir-shaivism-anupaya",
+      "name": "The Upayas in Context",
+      "description": "An overview of the four means (Upayas) in Kashmir Shaivism, illustrating their hierarchical progression toward the ultimate pathless realization."
+    },
+    {
+      "id": "anupaya-essence",
+      "categoryId": "kashmir-shaivism-anupaya",
+      "name": "The Essence of Anupāya",
+      "description": "A deep dive into the core principles, teachings, and direct recognition practices of Anupāya for achieving transcendental bliss."
+    }
+  ],
+  "learningUnits": [
+    {
+      "id": "upayas-context",
+      "subCategoryId": "upayas-context",
+      "type": "mixed",
+      "title": "The Upayas in Context",
+      "content": {},
+      "difficulty": "beginner",
+      "tags": ["kashmir-shaivism", "upayas", "hierarchy", "non-dual"]
+    },
+    {
+      "id": "anupaya-essence",
+      "subCategoryId": "anupaya-essence",
+      "type": "mixed",
+      "title": "The Essence of Anupāya",
+      "content": {},
+      "difficulty": "beginner",
+      "tags": ["kashmir-shaivism", "anupaya", "realization", "bliss"]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "learningUnitId": "upayas-context",
+      "question": "What does the Sanskrit term 'Upaya' literally mean in the context of Kashmir Shaivism?",
+      "correctAnswer": "Means or method",
+      "hint": "Think about tools or paths used to achieve a goal.",
+      "explanation": "In Kashmir Shaivism, 'Upaya' refers to the various means or methods employed to reveal one's inherent Shiva consciousness and attain liberation. These means are hierarchical and designed to suit different levels of spiritual readiness. Understanding Upaya helps contextualize the progression toward effortless realization.",
+      "difficulty": "beginner",
+      "tags": ["definition", "upaya"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q2",
+      "learningUnitId": "upayas-context",
+      "question": "How many primary Upayas are recognized in Kashmir Shaivism?",
+      "correctAnswer": "Four",
+      "hint": "They form a hierarchy from inferior to supreme.",
+      "explanation": "Kashmir Shaivism outlines four Upayas: Anavopaya, Saktopaya, Sambhavopaya, and Anupaya, each representing a progressive stage toward non-dual realization. This structure accommodates practitioners at different levels of awareness. The fourfold system reflects the dynamic aspects of Shiva's energies.",
+      "difficulty": "beginner",
+      "tags": ["hierarchy", "count"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q3",
+      "learningUnitId": "upayas-context",
+      "question": "Which Upaya is considered the 'inferior means' and involves effortful practices like mantras and pranayama?",
+      "correctAnswer": "Anavopaya",
+      "hint": "It's the lowest in the hierarchy, using body and mind.",
+      "explanation": "Anavopaya, or Kriyopaya, relies on tangible practices such as asanas, rituals, and concentration to build awareness, suitable for beginners. It maintains subject-object duality and is the longest path. This Upaya corresponds to Shiva's Kriya Shakti, the power of action.",
+      "difficulty": "beginner",
+      "tags": ["anavopaya", "practices"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q4",
+      "learningUnitId": "upayas-context",
+      "question": "What is the primary focus of Saktopaya, the medium means?",
+      "correctAnswer": "Knowledge and one-pointed awareness",
+      "hint": "It involves returning thoughts to their source.",
+      "explanation": "Saktopaya, or Jnanopaya, centers on the energy of knowledge (Jnana Shakti), where thoughts naturally dissolve into the 'I' consciousness, reducing duality. Practitioners insert unobstructed awareness between daily activities. It bridges effortful practices and higher realization.",
+      "difficulty": "beginner",
+      "tags": ["saktopaya", "jnana"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q5",
+      "learningUnitId": "upayas-context",
+      "question": "Sambhavopaya is also known by what alternative name related to divine will?",
+      "correctAnswer": "Icchopaya",
+      "hint": "It originates from pure, divine willpower.",
+      "explanation": "Sambhavopaya, or Icchopaya, is the supreme means powered by Iccha Shakti, Shiva's will, leading to thoughtless abiding in the divine. No external supports are needed; one resides in the 'meant' without journey. It allows seeing all as Shiva's play.",
+      "difficulty": "beginner",
+      "tags": ["sambhavopaya", "iccha"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q6",
+      "learningUnitId": "upayas-context",
+      "question": "True or False: The Upayas in Kashmir Shaivism are separate paths that do not interconnect.",
+      "correctAnswer": "False",
+      "hint": "They form a progressive hierarchy leading to the same goal.",
+      "explanation": "All Upayas converge on the revelation of Shiva consciousness, with higher ones encompassing and transcending the lower. They suit different temperaments but ultimately unify. This interconnectedness emphasizes the non-dual nature of the philosophy.",
+      "difficulty": "beginner",
+      "tags": ["true-false", "hierarchy"],
+      "timeLimit": 20
+    },
+    {
+      "id": "q7",
+      "learningUnitId": "upayas-context",
+      "question": "Which Shakti corresponds to Anavopaya?",
+      "correctAnswer": "Kriya Shakti",
+      "hint": "It's the power associated with action and effort.",
+      "explanation": "Kriya Shakti, the energy of action, powers Anavopaya's practices involving body, senses, and mind to cultivate discipline. This alignment reflects Shiva's dynamic manifestation. It prepares the ground for subtler realizations.",
+      "difficulty": "beginner",
+      "tags": ["shakti", "anavopaya"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q8",
+      "learningUnitId": "upayas-context",
+      "question": "In what text is the concept of Upayas elaborated by Abhinavagupta?",
+      "correctAnswer": "Tantraloka",
+      "hint": "A key tantric scripture by the philosopher.",
+      "explanation": "Abhinavagupta's Tantraloka provides a comprehensive exposition of the Upayas within Kashmir Shaivism's trika system. It integrates philosophy and practice seamlessly. This text is foundational for understanding the hierarchical means.",
+      "difficulty": "beginner",
+      "tags": ["text", "abhinavagupta"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q9",
+      "learningUnitId": "upayas-context",
+      "question": "Which Upaya is metaphorically compared to a jet in terms of speed to realization?",
+      "correctAnswer": "Shambhavopaya",
+      "hint": "It's one of the faster paths, like modern transport.",
+      "explanation": "Shambhavopaya is likened to a jet for its swift, effortless ascent to Shiva consciousness via divine will. In contrast, Anavopaya is like a cart. These metaphors illustrate varying intensities of practice.",
+      "difficulty": "beginner",
+      "tags": ["metaphor", "sambhavopaya"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q10",
+      "learningUnitId": "upayas-context",
+      "question": "What is the ultimate goal shared by all Upayas?",
+      "correctAnswer": "Revelation of Shiva consciousness",
+      "hint": "It's the non-dual unity with the divine.",
+      "explanation": "Each Upaya aims to eliminate ignorance and recognize one's identity as Shiva, leading to liberation in this life. They differ in method but unite in purpose. This goal underscores the philosophy's emphasis on innate divinity.",
+      "difficulty": "beginner",
+      "tags": ["goal", "upaya"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q11",
+      "learningUnitId": "upayas-context",
+      "question": "Which Upaya relies on the master's grace for transmission, like a glance or touch?",
+      "correctAnswer": "Sambhavopaya",
+      "hint": "It's the supreme means involving direct energetic transfer.",
+      "explanation": "In Sambhavopaya, the yogi's radiance, akin to the sun, transmits realization through shaktipat, bypassing effort. This grace awakens the seeker's inner potential instantly. It highlights the relational aspect of spiritual awakening.",
+      "difficulty": "beginner",
+      "tags": ["grace", "shaktipat"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q12",
+      "learningUnitId": "upayas-context",
+      "question": "True or False: Anavopaya eliminates subject-object duality completely.",
+      "correctAnswer": "False",
+      "hint": "It's the path where duality persists due to effort.",
+      "explanation": "Anavopaya maintains duality as it uses external supports like mantras, making it preparatory. Higher Upayas dissolve this separation progressively. Understanding this aids in appreciating the philosophy's subtlety.",
+      "difficulty": "beginner",
+      "tags": ["duality", "anavopaya"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q13",
+      "learningUnitId": "upayas-context",
+      "question": "What practice is central to Saktopaya, involving awareness between two thoughts?",
+      "correctAnswer": "Inserting unobstructed awareness",
+      "hint": "It's about continuity in daily life without focal points.",
+      "explanation": "Saktopaya employs 'beakless' awareness to bridge moments, fostering one-pointedness without mantras. This method integrates spirituality into action seamlessly. It corresponds to Jnana Shakti for insightful dissolution.",
+      "difficulty": "beginner",
+      "tags": ["practice", "saktopaya"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q14",
+      "learningUnitId": "upayas-context",
+      "question": "Which Upaya is described as 'supportless yoga'?",
+      "correctAnswer": "Shambhavopaya",
+      "hint": "No object or mind fixation is needed.",
+      "explanation": "Shambhavopaya, or Niralamba Yoga, frees the mind from supports, revealing omnipresent Shiva. Practitioners see divinity in all forms. This state shines universally, like the sun.",
+      "difficulty": "beginner",
+      "tags": ["niralamba", "shambhavopaya"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q15",
+      "learningUnitId": "upayas-context",
+      "question": "In Kashmir Shaivism, how does the concept of Moksha differ from Advaita Vedanta regarding Shiva's state?",
+      "correctAnswer": "It includes Iccha, Jnana, and Kriya along with Sat, Chit, Ananda",
+      "hint": "Kashmir Shaivism adds dynamic powers to the static triad.",
+      "explanation": "Unlike Advaita's focus on Sat-Chit-Ananda, Kashmir Shaivism views Shiva as encompassing will (Iccha), knowledge (Jnana), and action (Kriya) dynamically. This enriches the realization process. The Upayas align with these shaktis.",
+      "difficulty": "beginner",
+      "tags": ["moksha", "comparison"],
+      "timeLimit": 50
+    },
+    {
+      "id": "q16",
+      "learningUnitId": "upayas-context",
+      "question": "What is Pratibimbavada in the context of Sambhavopaya?",
+      "correctAnswer": "Theory of reflection of the universe in consciousness",
+      "hint": "It explains how all tattvas reflect internally.",
+      "explanation": "Pratibimbavada posits the 36 tattvas from Shiva to earth as reflections within consciousness, perceived inwardly by the yogi. This internalizes the cosmos. It supports thoughtless abiding in Sambhavopaya.",
+      "difficulty": "beginner",
+      "tags": ["pratibimbavada", "tattvas"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q17",
+      "learningUnitId": "upayas-context",
+      "question": "Which text suggests meditating on Shiva's omnipresence for Shambhavopaya?",
+      "correctAnswer": "Vijnana Bhairava Tantra",
+      "hint": "A tantric scripture with 112 meditation techniques.",
+      "explanation": "The Vijnana Bhairava Tantra (verse 116) teaches: 'Wherever the mind is oriented, there is Shiva,' fostering omnipresent awareness. This dharana dissolves separation. It's a key resource for higher Upayas.",
+      "difficulty": "beginner",
+      "tags": ["vijnana-bhairava", "meditation"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q18",
+      "learningUnitId": "upayas-context",
+      "question": "True or False: Higher Upayas require more effort than lower ones.",
+      "correctAnswer": "False",
+      "hint": "They are more effortless and direct.",
+      "explanation": "Higher Upayas like Sambhavopaya involve less doing and more abiding, contrasting Anavopaya's efforts. Effortlessness marks spiritual maturity. This progression mirrors readiness.",
+      "difficulty": "beginner",
+      "tags": ["effort", "hierarchy"],
+      "timeLimit": 20
+    },
+    {
+      "id": "q19",
+      "learningUnitId": "upayas-context",
+      "question": "What is the role of Matrikachakra in Sambhavopaya?",
+      "correctAnswer": "Internal reflection through alphabets, words, and sentences",
+      "hint": "It's a subtle tool for cosmic internalization.",
+      "explanation": "Matrikachakra uses linguistic elements to reflect the universe within, aiding pratyahara and grace reception. This yogic tool enhances inner radiance. It exemplifies Kashmir Shaivism's tantric depth.",
+      "difficulty": "beginner",
+      "tags": ["matrikachakra", "sambhavopaya"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q20",
+      "learningUnitId": "upayas-context",
+      "question": "Which Upaya is powered by Anandopaya or the path of bliss?",
+      "correctAnswer": "Anupaya",
+      "hint": "It's the transcendence of all means.",
+      "explanation": "Anupaya, also Anandopaya, aligns with Ananda Shakti, where bliss is inherent without pursuit. It culminates the hierarchy. This introduces the path beyond means.",
+      "difficulty": "beginner",
+      "tags": ["anupaya", "ananda"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q21",
+      "learningUnitId": "upayas-context",
+      "question": "In Anavopaya, what are the four main practices: Uccara, Karana, Dhyana, and?",
+      "correctAnswer": "Sthana Prakalpana",
+      "hint": "It involves location or point concentration.",
+      "explanation": "Sthana Prakalpana focuses awareness on body points or cosmic mappings during breath. These four build foundational strength. They form the kriya-based approach.",
+      "difficulty": "beginner",
+      "tags": ["practices", "anavopaya"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q22",
+      "learningUnitId": "upayas-context",
+      "question": "Who is a key commentator on the Upayas in Kashmir Shaivism?",
+      "correctAnswer": "Swami Lakshmanjoo",
+      "hint": "A 20th-century master who transmitted oral teachings.",
+      "explanation": "Swami Lakshmanjoo elucidated the Upayas in works like 'Kashmir Shaivism: The Secret Supreme,' emphasizing their unity. His insights preserve the tradition. He links them to practical realization.",
+      "difficulty": "beginner",
+      "tags": ["scholar", "lakshmanjoo"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q23",
+      "learningUnitId": "upayas-context",
+      "question": "True or False: Saktopaya uses mantras as primary aids.",
+      "correctAnswer": "False",
+      "hint": "It avoids focal points, relying on natural awareness.",
+      "explanation": "Saktopaya transcends mantras, focusing on velocity of awareness between phenomena. Mantras belong to Anavopaya. This distinction clarifies levels of subtlety.",
+      "difficulty": "beginner",
+      "tags": ["mantra", "saktopaya"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q24",
+      "learningUnitId": "upayas-context",
+      "question": "What does 'Trika' refer to in the context of Kashmir Shaivism's Upayas?",
+      "correctAnswer": "The threefold science of man and his world",
+      "hint": "It underlies the philosophical system.",
+      "explanation": "Trika, meaning three, encompasses Shiva, Shakti, and Nara (individual), integrating the Upayas. It's the pure system of Kashmir Shaivism. This framework unifies theory and practice.",
+      "difficulty": "beginner",
+      "tags": ["trika", "philosophy"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q25",
+      "learningUnitId": "upayas-context",
+      "question": "Which Upaya is suitable for practitioners who need to 'do' spiritual work?",
+      "correctAnswer": "Anavopaya",
+      "hint": "It's the path of action and discipline.",
+      "explanation": "Anavopaya engages the senses and body actively, building habits for higher paths. It's essential for initial purification. This 'doing' fosters readiness.",
+      "difficulty": "beginner",
+      "tags": ["suitability", "anavopaya"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q26",
+      "learningUnitId": "upayas-context",
+      "question": "In Shambhavopaya, how is the yogi's state compared to celestial bodies?",
+      "correctAnswer": "Like the midday sun shining for the universe",
+      "hint": "It radiates universally without limitation.",
+      "explanation": "Swami Lakshmanjoo compares the Shambhavopaya yogi to the sun, illuminating all through inner light. Lower lights like fireflies shine limitedly. This illustrates expansive grace.",
+      "difficulty": "beginner",
+      "tags": ["analogy", "shambhavopaya"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q27",
+      "learningUnitId": "upayas-context",
+      "question": "What is the key difference in Moksha between Kashmir Shaivism and other schools?",
+      "correctAnswer": "Liberation in this lifetime through recognition",
+      "hint": "It's not post-mortem but immediate.",
+      "explanation": "Kashmir Shaivism's Moksha is jivanmukti, realizing Shiva now via Upayas, unlike delayed liberation elsewhere. This empowers present transformation. It aligns with tantric vitality.",
+      "difficulty": "beginner",
+      "tags": ["moksha", "jivanmukti"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q28",
+      "learningUnitId": "upayas-context",
+      "question": "True or False: All Upayas require a guru's initiation.",
+      "correctAnswer": "False",
+      "hint": "Higher ones emphasize self-recognition, though grace aids.",
+      "explanation": "While shaktipat enhances higher Upayas, Anupaya relies on innate awareness without external dependency. Guru's role varies by level. This flexibility suits diverse seekers.",
+      "difficulty": "beginner",
+      "tags": ["guru", "initiation"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q29",
+      "learningUnitId": "upayas-context",
+      "question": "Which practice in Anavopaya involves contemplating the heart or mantras?",
+      "correctAnswer": "Dhyana",
+      "hint": "It's meditative concentration on objects or meanings.",
+      "explanation": "Dhyana in Anavopaya builds focus through formless or formed contemplation, like 'Soham.' Higher forms avoid objects. It strengthens mental steadiness.",
+      "difficulty": "beginner",
+      "tags": ["dhyana", "anavopaya"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q30",
+      "learningUnitId": "upayas-context",
+      "question": "What unifies the Upayas despite their differences?",
+      "correctAnswer": "Convergence on transcendental consciousness",
+      "hint": "They are modes to the same divine point.",
+      "explanation": "All Upayas, like transports to one destination, lead to Shiva despite varying speeds and methods. This unity reflects non-duality. It encourages starting at one's level.",
+      "difficulty": "beginner",
+      "tags": ["unity", "upaya"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q31",
+      "learningUnitId": "anupaya-essence",
+      "question": "What does 'Anupaya' literally translate to in Sanskrit?",
+      "correctAnswer": "No means or without means",
+      "hint": "The 'a-' prefix negates the concept of method.",
+      "explanation": "Anupaya signifies the transcendence of all deliberate paths, where realization is immediate and inherent. It's not nothingness but supreme subtlety. This term captures the essence of effortless liberation.",
+      "difficulty": "beginner",
+      "tags": ["definition", "anupaya"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q32",
+      "learningUnitId": "anupaya-essence",
+      "question": "Anupaya is also referred to as what path of bliss?",
+      "correctAnswer": "Anandopaya",
+      "hint": "It aligns with Shiva's bliss energy.",
+      "explanation": "As Anandopaya, Anupaya embodies Ananda Shakti, where joy arises naturally from unity. No pursuit is needed; bliss is the state itself. This naming highlights its culminative nature.",
+      "difficulty": "beginner",
+      "tags": ["anandopaya", "bliss"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q33",
+      "learningUnitId": "anupaya-essence",
+      "question": "In Anupaya, what is the primary instruction to the aspirant?",
+      "correctAnswer": "Be as you are; nothing needs to be done",
+      "hint": "Observe without action or addition.",
+      "explanation": "Anupaya teaches residing in the Self effortlessly, negating all techniques. This 'methodless method' reveals innate completeness. It dissolves the illusion of separation instantly.",
+      "difficulty": "beginner",
+      "tags": ["instruction", "effortless"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q34",
+      "learningUnitId": "anupaya-essence",
+      "question": "True or False: Anupaya requires advanced practices like meditation.",
+      "correctAnswer": "False",
+      "hint": "It's beyond all practices.",
+      "explanation": "Anupaya transcends meditation, mantras, or efforts, as the Self is already realized. Any doing reinforces illusion. This radical simplicity is its power.",
+      "difficulty": "beginner",
+      "tags": ["true-false", "no-practice"],
+      "timeLimit": 20
+    },
+    {
+      "id": "q35",
+      "learningUnitId": "anupaya-essence",
+      "question": "According to Abhinavagupta, in Anupaya, what dissolves completely?",
+      "correctAnswer": "Distinctions between worshipper, worshipped, and worship",
+      "hint": "All differences are false in unity.",
+      "explanation": "In the transcendent realm, Anuttara, no separation exists; everything is pure consciousness. This non-dual vision ends all transitions. Abhinavagupta's Anuttarastika articulates this profoundly.",
+      "difficulty": "beginner",
+      "tags": ["abhinavagupta", "non-dual"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q36",
+      "learningUnitId": "anupaya-essence",
+      "question": "What is Shaktipat in the context of Anupaya?",
+      "correctAnswer": "Transmission of transcendental bliss through a yogi's touch or glance",
+      "hint": "It's an energetic awakening from a realized master.",
+      "explanation": "Shaktipat from an Anupaya yogi instantly elevates the seeker to bliss, like venom from afar. No effort from the recipient is needed. This exemplifies grace's role in transcendence.",
+      "difficulty": "beginner",
+      "tags": ["shaktipat", "transmission"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q37",
+      "learningUnitId": "anupaya-essence",
+      "question": "In Anupaya, the Self is compared to what natural phenomenon that is always present?",
+      "correctAnswer": "The sun behind clouds",
+      "hint": "It's uncovered, not absent.",
+      "explanation": "The Self in Anupaya is eternally radiant, merely veiled by ignorance like clouds over the sun. No removal is needed; recognition suffices. This analogy conveys inherent purity.",
+      "difficulty": "beginner",
+      "tags": ["analogy", "self"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q38",
+      "learningUnitId": "anupaya-essence",
+      "question": "What does 'Anuttara' mean in relation to Anupaya?",
+      "correctAnswer": "The transcendent or incomparable reality",
+      "hint": "It's the highest, beyond all categories.",
+      "explanation": "Anuttara denotes the supreme, non-relative consciousness where Anupaya unfolds. No 'other' exists here. This term encapsulates the path's pinnacle.",
+      "difficulty": "beginner",
+      "tags": ["anuttara", "transcendent"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q39",
+      "learningUnitId": "anupaya-essence",
+      "question": "True or False: Anupaya is only for advanced practitioners who have mastered lower Upayas.",
+      "correctAnswer": "True",
+      "hint": "It culminates the hierarchy naturally.",
+      "explanation": "Anupaya emerges when readiness aligns, transcending prior means without rejection. It's for those intuitively abiding in the meant. This ensures organic progression.",
+      "difficulty": "beginner",
+      "tags": ["readiness", "hierarchy"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q40",
+      "learningUnitId": "anupaya-essence",
+      "question": "From Abhinavagupta's Anuttarastika, what is the real thing to do in Anupaya?",
+      "correctAnswer": "Do not leave anything, do not take anything, and enjoy everything as it is",
+      "hint": "It's about non-interference in the present.",
+      "explanation": "This quote emphasizes effortless enjoyment of the Self's play, without addition or subtraction. It negates all striving. Such wisdom invites immediate freedom.",
+      "difficulty": "beginner",
+      "tags": ["quote", "anuttarastika"],
+      "timeLimit": 50
+    },
+    {
+      "id": "q41",
+      "learningUnitId": "anupaya-essence",
+      "question": "Anupaya is described as what kind of effort?",
+      "correctAnswer": "Effortless effort",
+      "hint": "A paradox highlighting no-doing.",
+      "explanation": "The 'effortless effort' captures Anupaya's subtle dynamism—abiding without strain yet fully engaged. It's methodless yet profoundly effective. This term resolves the action-nonaction tension.",
+      "difficulty": "beginner",
+      "tags": ["paradox", "effort"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q42",
+      "learningUnitId": "anupaya-essence",
+      "question": "In Anupaya, why is there no need for techniques like mantra recitation?",
+      "correctAnswer": "Because the Self is already pure and complete",
+      "hint": "Nothing to attain or purify.",
+      "explanation": "All techniques presuppose lack, but in Anupaya, consciousness is inherently unified and blissful. Recognition alone liberates. This shifts focus from doing to being.",
+      "difficulty": "beginner",
+      "tags": ["no-technique", "purity"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q43",
+      "learningUnitId": "anupaya-essence",
+      "question": "What yoga form is associated with Maha Siddha in Anupaya?",
+      "correctAnswer": "The yoga of great perfected beings through shaktipat",
+      "hint": "It transmits the state directly.",
+      "explanation": "Maha Siddha Yoga uses Anupaya's radiance for instant elevation, forming siddhas effortlessly. It's grace-based perfection. This democratizes highest realization.",
+      "difficulty": "beginner",
+      "tags": ["maha-siddha", "yoga"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q44",
+      "learningUnitId": "anupaya-essence",
+      "question": "True or False: In Anupaya, vikalpa (difference-making thoughts) are encouraged.",
+      "correctAnswer": "False",
+      "hint": "They are transcended in thoughtless unity.",
+      "explanation": "Anupaya removes vikalpa, entering continuous thoughtless consciousness. Differences dissolve into oneness. This fosters unmediated awareness.",
+      "difficulty": "beginner",
+      "tags": ["vikalpa", "thoughtless"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q45",
+      "learningUnitId": "anupaya-essence",
+      "question": "According to Kashmir Shaivism, Anupaya operates in the realm of what?",
+      "correctAnswer": "Anuttara, the transcendent",
+      "hint": "Beyond all relative means.",
+      "explanation": "The Anuttara realm is complete, where efforts are irrelevant as all is Shiva. Anupaya is its natural expression. This realm is the philosophy's heart.",
+      "difficulty": "beginner",
+      "tags": ["realm", "anuttara"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q46",
+      "learningUnitId": "anupaya-essence",
+      "question": "What is the negative prefix in Anupaya signifying?",
+      "correctAnswer": "Complete minuteness, not total nothingness",
+      "hint": "It's subtle negation, like in Anudara.",
+      "explanation": "The 'a-' in Anupaya indicates refined transcendence, preserving essence while negating form. It's not void but supreme fullness. This nuance avoids misinterpretation.",
+      "difficulty": "beginner",
+      "tags": ["etymology", "negation"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q47",
+      "learningUnitId": "anupaya-essence",
+      "question": "In Anupaya, liberation occurs through what process?",
+      "correctAnswer": "Direct recognition of inherent Shiva nature",
+      "hint": "No gradual path; it's instantaneous.",
+      "explanation": "Direct sahaja (natural) recognition unveils the ever-present unity, ending bondage. No transit is needed. This immediacy empowers every moment.",
+      "difficulty": "beginner",
+      "tags": ["recognition", "sahaja"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q48",
+      "learningUnitId": "anupaya-essence",
+      "question": "Which text by Abhinavagupta explains Anupaya in detail?",
+      "correctAnswer": "Tantraloka and Anuttarastika",
+      "hint": "Major works on tantric philosophy.",
+      "explanation": "Tantraloka systematizes Anupaya within Upayas, while Anuttarastika poetically negates means. These texts are authoritative. They blend theory with poetic insight.",
+      "difficulty": "beginner",
+      "tags": ["text", "abhinavagupta"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q49",
+      "learningUnitId": "anupaya-essence",
+      "question": "True or False: Anupaya can be accessed by anyone at any time.",
+      "correctAnswer": "True",
+      "hint": "It's innate, though readiness varies.",
+      "explanation": "As the highest path, Anupaya is always available through grace or insight, beyond preparation. Everyone is potentially Shiva. This inclusivity inspires practice.",
+      "difficulty": "beginner",
+      "tags": ["accessibility", "innate"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q50",
+      "learningUnitId": "anupaya-essence",
+      "question": "What is the effect of a yogi's glance in Anupaya?",
+      "correctAnswer": "Initiates the seeker into transcendental bliss",
+      "hint": "Similar to a snake's distant venom.",
+      "explanation": "This shaktipat bridges master-disciple, awakening without words. It demonstrates energetic reality. Such transmission accelerates paths.",
+      "difficulty": "beginner",
+      "tags": ["glance", "shaktipat"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q51",
+      "learningUnitId": "anupaya-essence",
+      "question": "In Anupaya, 'everything is the experience of the self' means what?",
+      "correctAnswer": "Pure by nature, with no separation",
+      "hint": "From Anuttarastika's teaching.",
+      "explanation": "This affirms non-dual purity, where phenomena are Self's play. Worry dissolves in unity. It encourages surrendered joy.",
+      "difficulty": "beginner",
+      "tags": ["quote", "purity"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q52",
+      "learningUnitId": "anupaya-essence",
+      "question": "Anupaya negates all Upayas but in what way?",
+      "correctAnswer": "By encompassing and transcending them",
+      "hint": "Not rejection, but culmination.",
+      "explanation": "Lower Upayas prepare the ground, which Anupaya fulfills effortlessly. This holistic view integrates the system. It shows evolution, not opposition.",
+      "difficulty": "beginner",
+      "tags": ["transcendence", "upayas"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q53",
+      "learningUnitId": "anupaya-essence",
+      "question": "What is the state of consciousness in Anupaya?",
+      "correctAnswer": "Supreme conscious light, single reality",
+      "hint": "Incomparable and unified.",
+      "explanation": "This light is the negative prefix's meaning—refined oneness beyond duality. All is this radiance. It illuminates without effort.",
+      "difficulty": "beginner",
+      "tags": ["consciousness", "light"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q54",
+      "learningUnitId": "anupaya-essence",
+      "question": "True or False: Anupaya involves contemplating the omnipresence of Shiva.",
+      "correctAnswer": "False",
+      "hint": "That's Shambhavopaya; Anupaya is beyond contemplation.",
+      "explanation": "Anupaya requires no mental activity, just abiding. Contemplation suits lower means. This distinction refines understanding.",
+      "difficulty": "beginner",
+      "tags": ["contemplation", "difference"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q55",
+      "learningUnitId": "anupaya-essence",
+      "question": "In Tantrasara, Anupaya is described as what to liberation?",
+      "correctAnswer": "The highest, final, and direct means",
+      "hint": "Above even Shambhavopaya.",
+      "explanation": "Tantrasara positions Anupaya as ultimate, merging into universal consciousness freely. No conventional aids apply. This elevates its status.",
+      "difficulty": "beginner",
+      "tags": ["tantrasara", "direct"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q56",
+      "learningUnitId": "anupaya-essence",
+      "question": "What does 'reside in the meant' imply for Anupaya practitioners?",
+      "correctAnswer": "Abiding in Shiva without journey or effort",
+      "hint": "There's nowhere to go.",
+      "explanation": "The 'meant' is the goal already attained; residing there ends seeking. This is pure divine will. It fosters profound peace.",
+      "difficulty": "beginner",
+      "tags": ["abiding", "meant"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q57",
+      "learningUnitId": "anupaya-essence",
+      "question": "Anupaya's realization is like what in terms of timing?",
+      "correctAnswer": "Instant immersion in the Supreme Self",
+      "hint": "By free will, contemplating all-pervading outlook.",
+      "explanation": "This spontaneity aligns with tantric immediacy, not gradualism. The yogi merges instantly. It embodies freedom's essence.",
+      "difficulty": "beginner",
+      "tags": ["instant", "immersion"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q58",
+      "learningUnitId": "anupaya-essence",
+      "question": "Why can't Anupaya be judged by time or space?",
+      "correctAnswer": "As unique consciousness beyond limitations",
+      "hint": "It's self-effulgent and unlimited.",
+      "explanation": "Supreme consciousness defies conventional measures, being eternal and pervasive. Arguments fail here. This affirms its transcendence.",
+      "difficulty": "beginner",
+      "tags": ["limitations", "consciousness"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q59",
+      "learningUnitId": "anupaya-essence",
+      "question": "True or False: In Anupaya, the disciple and master distinction vanishes.",
+      "correctAnswer": "True",
+      "hint": "Unity prevails in transmission.",
+      "explanation": "Non-duality erases hierarchies; grace flows equally. This egalitarianism enriches teaching. It reflects Shiva's oneness.",
+      "difficulty": "beginner",
+      "tags": ["non-dual", "transmission"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q60",
+      "learningUnitId": "anupaya-essence",
+      "question": "What is the profound invitation of Anupaya?",
+      "correctAnswer": "Enjoy everything as it is, in pure Self-experience",
+      "hint": "From the heart of non-dual teaching.",
+      "explanation": "This culminates in liberated joy, free from striving. All is sacred play. It transforms ordinary life into divine celebration.",
+      "difficulty": "beginner",
+      "tags": ["invitation", "enjoyment"],
+      "timeLimit": 40
+    }
+  ]
+}

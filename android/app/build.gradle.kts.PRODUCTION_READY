@@ -1,0 +1,110 @@
+plugins {
+    id("com.android.application")
+    id("kotlin-android")
+    // The Flutter Gradle Plugin must be applied after the Android and Kotlin Gradle plugins.
+    id("dev.flutter.flutter-gradle-plugin")
+    id("com.google.gms.google-services")
+}
+
+// Load keystore properties
+val keystorePropertiesFile = rootProject.file("key.properties")
+val keystoreProperties = java.util.Properties()
+if (keystorePropertiesFile.exists()) {
+    keystoreProperties.load(java.io.FileInputStream(keystorePropertiesFile))
+}
+
+android {
+    namespace = "com.biohackerjoe.learninghub"
+    compileSdk = 34  // Latest stable Android SDK
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_11
+        targetCompatibility = JavaVersion.VERSION_11
+    }
+
+    kotlinOptions {
+        jvmTarget = JavaVersion.VERSION_11.toString()
+    }
+
+    defaultConfig {
+        applicationId = "com.biohackerjoe.learninghub"
+        
+        // Explicit SDK versions for Google Play requirements
+        minSdk = 21      // Android 5.0 (Lollipop) - Good baseline
+        targetSdk = 34   // Android 14 - Required for Play Store
+        
+        versionCode = flutter.versionCode.toInt()
+        versionName = flutter.versionName
+        
+        // Enable multidex for large apps
+        multiDexEnabled = true
+    }
+
+    // Signing configurations
+    signingConfigs {
+        create("release") {
+            if (keystorePropertiesFile.exists()) {
+                keyAlias = keystoreProperties["keyAlias"] as String
+                keyPassword = keystoreProperties["keyPassword"] as String
+                storeFile = file(keystoreProperties["storeFile"] as String)
+                storePassword = keystoreProperties["storePassword"] as String
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            // Use release signing config (NOT debug!)
+            signingConfig = if (keystorePropertiesFile.exists()) {
+                signingConfigs.getByName("release")
+            } else {
+                // Fallback to debug for testing ONLY
+                println("WARNING: Using debug signing - create key.properties for production!")
+                signingConfigs.getByName("debug")
+            }
+            
+            // Enable code obfuscation and shrinking
+            isMinifyEnabled = true
+            isShrinkResources = true
+            
+            // ProGuard configuration files
+            proguardFiles(
+                getDefaultProguardFile("proguard-android-optimize.txt"),
+                "proguard-rules.pro"
+            )
+        }
+        
+        debug {
+            signingConfig = signingConfigs.getByName("debug")
+            isMinifyEnabled = false
+        }
+    }
+    
+    // Enable splits for smaller APKs (optional but recommended)
+    splits {
+        abi {
+            isEnable = true
+            reset()
+            include("armeabi-v7a", "arm64-v8a", "x86_64")
+            isUniversalApk = true
+        }
+    }
+}
+
+flutter {
+    source = "../.."
+}
+
+dependencies {
+    // Add MultiDex support if needed
+    implementation("androidx.multidex:multidex:2.0.1")
+}
+
+
+
+
+
+
+
+
+
