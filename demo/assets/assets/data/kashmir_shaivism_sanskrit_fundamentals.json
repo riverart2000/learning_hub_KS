@@ -1,0 +1,267 @@
+{
+  "categories": [
+    {
+      "id": "kashmir_shaivism_sanskrit",
+      "name": "Kashmir Shaivism Sanskrit Fundamentals",
+      "description": "Explore the Sanskrit foundations of Kashmir Shaivism — the language of consciousness. Learn key terms, grammatical roots, and philosophical meanings that shape this non-dual system.",
+      "icon": "temple_hindu"
+    }
+  ],
+  "subcategories": [
+    {
+      "id": "sanskrit_basics",
+      "categoryId": "kashmir_shaivism_sanskrit",
+      "name": "Sanskrit Basics in Shaiva Context",
+      "description": "Learn core Sanskrit terms and roots used in Kashmir Shaiva texts."
+    },
+    {
+      "id": "key_shaiva_terms",
+      "categoryId": "kashmir_shaivism_sanskrit",
+      "name": "Key Shaiva Terms and Concepts",
+      "description": "Understand essential philosophical Sanskrit words central to Kashmir Shaivism."
+    }
+  ],
+  "learningUnits": [
+    {
+      "id": "sanskrit_basics",
+      "subCategoryId": "sanskrit_basics",
+      "type": "mixed",
+      "title": "Sanskrit Basics in Shaiva Context",
+      "content": {},
+      "difficulty": "beginner",
+      "tags": ["Sanskrit", "Shaivism", "language", "roots"]
+    },
+    {
+      "id": "key_shaiva_terms",
+      "subCategoryId": "key_shaiva_terms",
+      "type": "mixed",
+      "title": "Key Shaiva Terms and Concepts",
+      "content": {},
+      "difficulty": "beginner",
+      "tags": ["Shaivism", "philosophy", "terms", "nondualism"]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "learningUnitId": "sanskrit_basics",
+      "question": "What does the Sanskrit root 'Śiv' mean in the context of Kashmir Shaivism?",
+      "correctAnswer": "To bless, to purify, or to be auspicious.",
+      "hint": "Think of Śiva’s role as pure consciousness and auspiciousness.",
+      "explanation": "The root 'Śiv' conveys auspiciousness, purity, and beneficence, reflecting Śiva as the ever-auspicious consciousness beyond duality.",
+      "difficulty": "beginner",
+      "tags": ["Sanskrit", "roots"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q2",
+      "learningUnitId": "sanskrit_basics",
+      "question": "In Sanskrit grammar, what is the meaning of 'aham'?",
+      "correctAnswer": "It means 'I' or 'Self'.",
+      "hint": "It is the first-person singular pronoun.",
+      "explanation": "‘Aham’ means 'I' — a central term in Shaivism representing the universal 'I-consciousness' that underlies all experience.",
+      "difficulty": "beginner",
+      "tags": ["grammar", "aham"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q3",
+      "learningUnitId": "sanskrit_basics",
+      "question": "What does 'Tat' signify in Sanskrit?",
+      "correctAnswer": "That, referring to the Absolute Reality.",
+      "hint": "It’s often used in phrases like 'Tat Tvam Asi'.",
+      "explanation": "'Tat' means 'That'—the Supreme or ultimate reality. It represents the transcendental essence identical to the Self.",
+      "difficulty": "beginner",
+      "tags": ["vedanta", "shaivism"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q4",
+      "learningUnitId": "sanskrit_basics",
+      "question": "What is the literal meaning of 'Mantra'?",
+      "correctAnswer": "Instrument of thought or liberation.",
+      "hint": "Derived from 'man' (to think) and 'tra' (tool).",
+      "explanation": "‘Mantra’ comes from ‘man’ (mind) and ‘tra’ (tool). It means a tool that helps transcend the mind or liberate consciousness.",
+      "difficulty": "beginner",
+      "tags": ["language", "etymology"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q5",
+      "learningUnitId": "sanskrit_basics",
+      "question": "What does the term 'Shaiva' mean in Sanskrit?",
+      "correctAnswer": "Related to or devoted to Śiva.",
+      "hint": "It describes followers of Śiva.",
+      "explanation": "‘Shaiva’ denotes anyone or anything connected with Śiva, embodying his path, teachings, and philosophy.",
+      "difficulty": "beginner",
+      "tags": ["terminology"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q6",
+      "learningUnitId": "sanskrit_basics",
+      "question": "What does 'Vimarśa' mean in the Shaiva context?",
+      "correctAnswer": "Reflective awareness or self-reflection of consciousness.",
+      "hint": "It’s the dynamic aspect of consciousness that knows itself.",
+      "explanation": "‘Vimarśa’ is the self-awareness inherent in consciousness. It’s the reflective quality that allows Śiva to know Himself.",
+      "difficulty": "beginner",
+      "tags": ["philosophy", "awareness"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q7",
+      "learningUnitId": "sanskrit_basics",
+      "question": "Translate the Sanskrit word 'Caitanya'.",
+      "correctAnswer": "Consciousness or pure awareness.",
+      "hint": "It’s a key word in both Vedanta and Shaivism.",
+      "explanation": "‘Caitanya’ derives from ‘cit’ (consciousness) and means living consciousness or awareness, the essence of existence.",
+      "difficulty": "beginner",
+      "tags": ["consciousness"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q8",
+      "learningUnitId": "sanskrit_basics",
+      "question": "What does 'Ananda' mean in Sanskrit?",
+      "correctAnswer": "Bliss or supreme joy.",
+      "hint": "Often part of the triad Sat-Chit-Ananda.",
+      "explanation": "‘Ananda’ represents bliss — not emotional pleasure, but the inherent joy of pure being.",
+      "difficulty": "beginner",
+      "tags": ["ananda"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q9",
+      "learningUnitId": "sanskrit_basics",
+      "question": "What is the Sanskrit for 'Liberation' in Shaivism?",
+      "correctAnswer": "Moksha or Mukti.",
+      "hint": "Commonly seen at the end of spiritual goals.",
+      "explanation": "Both ‘Moksha’ and ‘Mukti’ mean liberation—freedom from bondage and realization of one’s identity with Śiva.",
+      "difficulty": "beginner",
+      "tags": ["moksha"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q10",
+      "learningUnitId": "sanskrit_basics",
+      "question": "What is the meaning of 'Shakti'?",
+      "correctAnswer": "Power or divine energy.",
+      "hint": "She is the dynamic aspect of Śiva.",
+      "explanation": "‘Shakti’ is the divine creative energy of consciousness. In Kashmir Shaivism, Śiva and Śakti are inseparable.",
+      "difficulty": "beginner",
+      "tags": ["shakti"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q11",
+      "learningUnitId": "key_shaiva_terms",
+      "question": "What is the meaning of 'Spanda' in Kashmir Shaivism?",
+      "correctAnswer": "Vibration or pulsation of consciousness.",
+      "hint": "Think of it as the subtle throb of awareness.",
+      "explanation": "‘Spanda’ refers to the eternal creative vibration inherent in consciousness, the pulse of divine awareness.",
+      "difficulty": "beginner",
+      "tags": ["spanda"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q12",
+      "learningUnitId": "key_shaiva_terms",
+      "question": "What does 'Pratyabhijñā' mean?",
+      "correctAnswer": "Recognition or realization of one’s true nature as Śiva.",
+      "hint": "It’s the act of remembering the Self.",
+      "explanation": "‘Pratyabhijñā’ is the philosophy of recognition — realizing that the individual self is none other than the Supreme Self.",
+      "difficulty": "beginner",
+      "tags": ["pratyabhijna"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q13",
+      "learningUnitId": "key_shaiva_terms",
+      "question": "What does 'Ābhāsa' signify in Kashmir Shaivism?",
+      "correctAnswer": "Manifestation or appearance within consciousness.",
+      "hint": "It describes how the universe appears within awareness.",
+      "explanation": "‘Ābhāsa’ means a luminous appearance. It describes how the universe arises as a reflection within the light of consciousness.",
+      "difficulty": "beginner",
+      "tags": ["abhasa"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q14",
+      "learningUnitId": "key_shaiva_terms",
+      "question": "In Sanskrit, what does 'Bhairava' represent?",
+      "correctAnswer": "The fierce yet liberating aspect of Śiva.",
+      "hint": "He embodies transcendence beyond fear.",
+      "explanation": "‘Bhairava’ symbolizes supreme consciousness transcending dualities of creation and destruction.",
+      "difficulty": "beginner",
+      "tags": ["bhairava"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q15",
+      "learningUnitId": "key_shaiva_terms",
+      "question": "What is the Sanskrit term for the supreme reality in Kashmir Shaivism?",
+      "correctAnswer": "Paramaśiva.",
+      "hint": "It means the ultimate Śiva beyond attributes.",
+      "explanation": "‘Paramaśiva’ is the transcendental state of pure consciousness beyond even Śiva-Śakti duality.",
+      "difficulty": "beginner",
+      "tags": ["paramashiva"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q16",
+      "learningUnitId": "key_shaiva_terms",
+      "question": "What does 'Māyā' represent in this system?",
+      "correctAnswer": "The limiting power that creates separation.",
+      "hint": "It veils the unity of consciousness.",
+      "explanation": "‘Māyā’ is the power of concealment that makes the one reality appear divided into many forms.",
+      "difficulty": "beginner",
+      "tags": ["maya"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q17",
+      "learningUnitId": "key_shaiva_terms",
+      "question": "What is 'Icchā Śakti'?",
+      "correctAnswer": "The power of will or intention.",
+      "hint": "It’s one of the three core Śaktis.",
+      "explanation": "‘Icchā Śakti’ is the will power of consciousness, the primal urge to manifest experience.",
+      "difficulty": "beginner",
+      "tags": ["shakti"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q18",
+      "learningUnitId": "key_shaiva_terms",
+      "question": "What is 'Jñāna Śakti'?",
+      "correctAnswer": "The power of knowledge or awareness.",
+      "hint": "Another of the three core Śaktis.",
+      "explanation": "‘Jñāna Śakti’ is the knowing power of consciousness that illuminates all objects of awareness.",
+      "difficulty": "beginner",
+      "tags": ["shakti"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q19",
+      "learningUnitId": "key_shaiva_terms",
+      "question": "What is 'Kriyā Śakti'?",
+      "correctAnswer": "The power of action or manifestation.",
+      "hint": "Completes the triad of Śaktis.",
+      "explanation": "‘Kriyā Śakti’ is the power through which consciousness expresses itself in the world of forms.",
+      "difficulty": "beginner",
+      "tags": ["shakti"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q20",
+      "learningUnitId": "key_shaiva_terms",
+      "question": "What does the term 'Ahamkāra' refer to?",
+      "correctAnswer": "The sense of ego or individuality.",
+      "hint": "It’s not negative but a functional layer of mind.",
+      "explanation": "‘Ahamkāra’ is the ‘I-maker,’ the aspect of mind that creates the sense of individuality necessary for experience.",
+      "difficulty": "beginner",
+      "tags": ["mind"],
+      "timeLimit": 35
+    }
+  ]
+}
+

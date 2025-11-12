@@ -1,0 +1,954 @@
+{
+  "categories": [
+    {
+      "id": "kashmir_shaivism_sanskrit_advanced",
+      "name": "Kashmir Shaivism Sanskrit Terms (Advanced)",
+      "description": "Advanced Sanskrit terminology from Kashmir Shaivism exploring metaphysical, spiritual, and yogic concepts for deep understanding.",
+      "icon": "school"
+    }
+  ],
+  "subcategories": [
+    {
+      "id": "trika_philosophy_terms",
+      "categoryId": "kashmir_shaivism_sanskrit_advanced",
+      "name": "Trika Philosophy Terms",
+      "description": "Advanced Sanskrit terms from the Trika system describing metaphysical principles and realization."
+    },
+    {
+      "id": "tantric_practice_terms",
+      "categoryId": "kashmir_shaivism_sanskrit_advanced",
+      "name": "Tantric Practice Terms",
+      "description": "Key Sanskrit words related to Tantric rituals, meditative techniques, and inner yogic processes."
+    }
+  ],
+  "learningUnits": [
+    {
+      "id": "trika_philosophy_terms",
+      "subCategoryId": "trika_philosophy_terms",
+      "type": "mixed",
+      "title": "Trika Philosophy Terms",
+      "content": {},
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "metaphysics",
+        "sanskrit"
+      ]
+    },
+    {
+      "id": "tantric_practice_terms",
+      "subCategoryId": "tantric_practice_terms",
+      "type": "mixed",
+      "title": "Tantric Practice Terms",
+      "content": {},
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "sanskrit"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Abhasavada' mean?",
+      "correctAnswer": "The doctrine that the universe is a manifestation of Shiva’s consciousness.",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Abhasavada' signifies The doctrine that the universe is a manifestation of Shiva’s consciousness. — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q2",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Pratyabhijna' mean?",
+      "correctAnswer": "Recognition of one’s true nature as Shiva.",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Pratyabhijna' signifies Recognition of one’s true nature as Shiva. — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q3",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Spanda' mean?",
+      "correctAnswer": "The subtle vibration or throb inherent in pure consciousness.",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Spanda' signifies The subtle vibration or throb inherent in pure consciousness. — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q4",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Vimarsha' mean?",
+      "correctAnswer": "Reflective awareness that allows consciousness to perceive itself.",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Vimarsha' signifies Reflective awareness that allows consciousness to perceive itself. — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q5",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Aham' mean?",
+      "correctAnswer": "The divine ‘I’ or pure self-awareness, the essence of Shiva.",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Aham' signifies The divine ‘I’ or pure self-awareness, the essence of Shiva. — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q6",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Anuttara' mean?",
+      "correctAnswer": "The ultimate principle beyond all opposites; supreme reality.",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Anuttara' signifies The ultimate principle beyond all opposites; supreme reality. — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q7",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Mala' mean?",
+      "correctAnswer": "Impurities or limitations that veil pure consciousness.",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Mala' signifies Impurities or limitations that veil pure consciousness. — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q8",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Kanchukas' mean?",
+      "correctAnswer": "The five limitations that contract infinite consciousness into the finite self.",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Kanchukas' signifies The five limitations that contract infinite consciousness into the finite self. — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q9",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Shakti-tattva' mean?",
+      "correctAnswer": "The principle of divine power that manifests creation.",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Shakti-tattva' signifies The principle of divine power that manifests creation. — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q10",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Sadashiva-tattva' mean?",
+      "correctAnswer": "The state of awareness where unity and emergence coexist (‘I am this’).",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Sadashiva-tattva' signifies The state of awareness where unity and emergence coexist (‘I am this’). — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q11",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Ishvara-tattva' mean?",
+      "correctAnswer": "The creative aspect of divine will that initiates manifestation.",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Ishvara-tattva' signifies The creative aspect of divine will that initiates manifestation. — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q12",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Shuddhavidya-tattva' mean?",
+      "correctAnswer": "Pure knowledge balancing subject and object awareness.",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Shuddhavidya-tattva' signifies Pure knowledge balancing subject and object awareness. — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q13",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Maya-tattva' mean?",
+      "correctAnswer": "The power that creates the illusion of separation and diversity.",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Maya-tattva' signifies The power that creates the illusion of separation and diversity. — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q14",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Prakasha' mean?",
+      "correctAnswer": "The light of pure consciousness; illumination itself.",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Prakasha' signifies The light of pure consciousness; illumination itself. — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q15",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Pramiti' mean?",
+      "correctAnswer": "True cognition arising from aligned perception and awareness.",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Pramiti' signifies True cognition arising from aligned perception and awareness. — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q16",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Upaya' mean?",
+      "correctAnswer": "A means or method that leads toward liberation.",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Upaya' signifies A means or method that leads toward liberation. — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q17",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Anava' mean?",
+      "correctAnswer": "The sense of individuality that binds the soul.",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Anava' signifies The sense of individuality that binds the soul. — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q18",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Vimarsha-Shakti' mean?",
+      "correctAnswer": "The self-reflective power of consciousness to know itself.",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Vimarsha-Shakti' signifies The self-reflective power of consciousness to know itself. — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q19",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Bindu' mean?",
+      "correctAnswer": "The point-source of all manifestation; the seed of creation.",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Bindu' signifies The point-source of all manifestation; the seed of creation. — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q20",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Turiya' mean?",
+      "correctAnswer": "The fourth state beyond waking, dreaming, and deep sleep.",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Turiya' signifies The fourth state beyond waking, dreaming, and deep sleep. — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q21",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Turyatita' mean?",
+      "correctAnswer": "The transcendence beyond even the fourth state.",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Turyatita' signifies The transcendence beyond even the fourth state. — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q22",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Caitanya' mean?",
+      "correctAnswer": "Pure, self-luminous consciousness.",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Caitanya' signifies Pure, self-luminous consciousness. — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q23",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Kula' mean?",
+      "correctAnswer": "The totality of existence experienced as an interconnected unity.",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Kula' signifies The totality of existence experienced as an interconnected unity. — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q24",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Akula' mean?",
+      "correctAnswer": "The transcendental Shiva beyond the manifest universe.",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Akula' signifies The transcendental Shiva beyond the manifest universe. — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q25",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Jnana' mean?",
+      "correctAnswer": "Spiritual knowledge that leads to self-realization.",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Jnana' signifies Spiritual knowledge that leads to self-realization. — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q26",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Moksha' mean?",
+      "correctAnswer": "Liberation from limitation and ignorance.",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Moksha' signifies Liberation from limitation and ignorance. — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q27",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Ahamkara' mean?",
+      "correctAnswer": "Ego sense that personalizes the universal ‘I’.",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Ahamkara' signifies Ego sense that personalizes the universal ‘I’. — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q28",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Pashu' mean?",
+      "correctAnswer": "The bound individual soul limited by ignorance.",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Pashu' signifies The bound individual soul limited by ignorance. — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q29",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Pati' mean?",
+      "correctAnswer": "The Supreme Lord (Shiva) who liberates souls.",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Pati' signifies The Supreme Lord (Shiva) who liberates souls. — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q30",
+      "learningUnitId": "trika_philosophy_terms",
+      "question": "What does the Sanskrit term 'Pasha' mean?",
+      "correctAnswer": "The three bonds — ignorance, karma, and maya — binding the soul.",
+      "hint": "Relates to the metaphysical principles of consciousness and manifestation.",
+      "explanation": "'Pasha' signifies The three bonds — ignorance, karma, and maya — binding the soul. — an essential idea within Trika philosophy illustrating consciousness and its expression.",
+      "difficulty": "advanced",
+      "tags": [
+        "trika",
+        "sanskrit",
+        "shaivism"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q31",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Uccara' mean?",
+      "correctAnswer": "Upward movement of prana or subtle vibration during meditation.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Uccara' refers to Upward movement of prana or subtle vibration during meditation., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q32",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Dhyana' mean?",
+      "correctAnswer": "Deep meditative absorption leading to divine union.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Dhyana' refers to Deep meditative absorption leading to divine union., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q33",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Mudra' mean?",
+      "correctAnswer": "Symbolic gesture or energy seal guiding subtle forces.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Mudra' refers to Symbolic gesture or energy seal guiding subtle forces., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q34",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Bandha' mean?",
+      "correctAnswer": "Energetic lock used to direct prana in the body.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Bandha' refers to Energetic lock used to direct prana in the body., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q35",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Khechari' mean?",
+      "correctAnswer": "Inner state of expanded consciousness through control of prana.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Khechari' refers to Inner state of expanded consciousness through control of prana., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q36",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Bhavana' mean?",
+      "correctAnswer": "Creative visualization of the divine within.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Bhavana' refers to Creative visualization of the divine within., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q37",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Japa' mean?",
+      "correctAnswer": "Repetition of a mantra for purification and focus.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Japa' refers to Repetition of a mantra for purification and focus., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q38",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Mantra' mean?",
+      "correctAnswer": "Sacred sound embodying divine power.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Mantra' refers to Sacred sound embodying divine power., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q39",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Yantra' mean?",
+      "correctAnswer": "Geometric diagram used as a meditation tool.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Yantra' refers to Geometric diagram used as a meditation tool., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q40",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Chakra' mean?",
+      "correctAnswer": "Energy center in the subtle body linked with consciousness.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Chakra' refers to Energy center in the subtle body linked with consciousness., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q41",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Kundalini' mean?",
+      "correctAnswer": "Dormant energy rising through the chakras toward union with Shiva.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Kundalini' refers to Dormant energy rising through the chakras toward union with Shiva., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q42",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Nadi' mean?",
+      "correctAnswer": "Subtle energy channels through which prana flows.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Nadi' refers to Subtle energy channels through which prana flows., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q43",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Pranayama' mean?",
+      "correctAnswer": "Control of breath to harmonize life force and mind.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Pranayama' refers to Control of breath to harmonize life force and mind., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q44",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Tattva Shuddhi' mean?",
+      "correctAnswer": "Purification of the inner elements through mantra and meditation.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Tattva Shuddhi' refers to Purification of the inner elements through mantra and meditation., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q45",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Bhairavi Mudra' mean?",
+      "correctAnswer": "Advanced gesture of inward awareness and stillness.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Bhairavi Mudra' refers to Advanced gesture of inward awareness and stillness., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q46",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Ajapa Japa' mean?",
+      "correctAnswer": "Unbroken internal repetition of a mantra beyond effort.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Ajapa Japa' refers to Unbroken internal repetition of a mantra beyond effort., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q47",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Samavesha' mean?",
+      "correctAnswer": "Absorption into divine consciousness.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Samavesha' refers to Absorption into divine consciousness., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q48",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Shambhavi Mudra' mean?",
+      "correctAnswer": "Steady gaze at the brow center inducing inner stillness.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Shambhavi Mudra' refers to Steady gaze at the brow center inducing inner stillness., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q49",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Guru-tattva' mean?",
+      "correctAnswer": "The principle of the guru as the living embodiment of Shiva.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Guru-tattva' refers to The principle of the guru as the living embodiment of Shiva., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q50",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Shaktipata' mean?",
+      "correctAnswer": "Descent of divine grace awakening higher awareness.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Shaktipata' refers to Descent of divine grace awakening higher awareness., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q51",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Anavopaya' mean?",
+      "correctAnswer": "Path using body, breath, and mind to elevate consciousness.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Anavopaya' refers to Path using body, breath, and mind to elevate consciousness., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q52",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Shaktopaya' mean?",
+      "correctAnswer": "Path of awareness using subtle insight and energy control.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Shaktopaya' refers to Path of awareness using subtle insight and energy control., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q53",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Shambhavopaya' mean?",
+      "correctAnswer": "Direct realization through pure awareness without technique.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Shambhavopaya' refers to Direct realization through pure awareness without technique., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q54",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Anupaya' mean?",
+      "correctAnswer": "Effortless state where realization arises spontaneously.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Anupaya' refers to Effortless state where realization arises spontaneously., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q55",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Vasana' mean?",
+      "correctAnswer": "Subtle tendency formed by past thoughts and actions.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Vasana' refers to Subtle tendency formed by past thoughts and actions., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q56",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Samskara' mean?",
+      "correctAnswer": "Impression left by past experiences shaping perception.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Samskara' refers to Impression left by past experiences shaping perception., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q57",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Tarka' mean?",
+      "correctAnswer": "Discriminative reasoning used to perceive truth.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Tarka' refers to Discriminative reasoning used to perceive truth., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q58",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Vikalpa-kshaya' mean?",
+      "correctAnswer": "Dissolution of mental constructs in pure awareness.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Vikalpa-kshaya' refers to Dissolution of mental constructs in pure awareness., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q59",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Samadhi' mean?",
+      "correctAnswer": "Total absorption in the Self beyond duality.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Samadhi' refers to Total absorption in the Self beyond duality., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q60",
+      "learningUnitId": "tantric_practice_terms",
+      "question": "What does the Sanskrit term 'Bhoga' mean?",
+      "correctAnswer": "Divine enjoyment of existence as Shiva.",
+      "hint": "Related to meditation, energy flow, or advanced yogic technique.",
+      "explanation": "'Bhoga' refers to Divine enjoyment of existence as Shiva., representing an essential Tantric process for inner transformation.",
+      "difficulty": "advanced",
+      "tags": [
+        "tantra",
+        "practice",
+        "shaivism"
+      ],
+      "timeLimit": 45
+    }
+  ]
+}

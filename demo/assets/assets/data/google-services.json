@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "983330843621",
+    "project_id": "learning-kashmir-shaivism",
+    "storage_bucket": "learning-kashmir-shaivism.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983330843621:android:77562e37951f77a1219d0c",
+        "android_client_info": {
+          "package_name": "com.plainos.kashmirshaivism"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1ONa2UfuALh06ucYZqShFkDV1TtjagDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

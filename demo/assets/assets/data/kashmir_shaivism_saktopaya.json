@@ -1,0 +1,706 @@
+{
+  "categories": [
+    {
+      "id": "kashmir_shaivism",
+      "name": "Kashmir Shaivism",
+      "description": "A non-dual tantric tradition originating in Kashmir (9th–12th c. CE), emphasizing the identity of consciousness (Śiva) and energy (Śakti). Śāktopāya is one of its three principal upāyas (means), focusing on the awakening of inner awareness through the power of Śakti.",
+      "icon": "psychology"
+    }
+  ],
+  "subcategories": [
+    {
+      "id": "shaktopaya_foundations",
+      "categoryId": "kashmir_shaivism",
+      "name": "Foundations of Śāktopāya",
+      "description": "Core principles, definitions, and metaphysical underpinnings of the Path of Energy."
+    },
+    {
+      "id": "shaktopaya_practices",
+      "categoryId": "kashmir_shaivism",
+      "name": "Śāktopāya Practices and Techniques",
+      "description": "Practical methods including mantra, breath, awareness, and dissolution of thought (vikalpa-kṣaya)."
+    }
+  ],
+  "learningUnits": [
+    {
+      "id": "shaktopaya_foundations",
+      "subCategoryId": "shaktopaya_foundations",
+      "type": "mixed",
+      "title": "Foundations of Śāktopāya",
+      "content": {},
+      "difficulty": "beginner",
+      "tags": ["theory", "philosophy", "upaya", "shakti"]
+    },
+    {
+      "id": "shaktopaya_practices",
+      "subCategoryId": "shaktopaya_practices",
+      "type": "mixed",
+      "title": "Śāktopāya Practices and Techniques",
+      "content": {},
+      "difficulty": "beginner",
+      "tags": ["practice", "meditation", "mantra", "awareness"]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "What is the literal meaning of 'Śāktopāya'?",
+      "correctAnswer": "The means (upāya) of Śakti (Energy or Power)",
+      "hint": "Break the compound: 'Śakti' + 'upāya'.",
+      "explanation": "'Śāktopāya' is a Sanskrit compound: 'Śakti' (divine energy, the dynamic aspect of consciousness) + 'upāya' (means, path, method). It thus denotes the path that utilizes the power of consciousness itself as the means to realization.",
+      "difficulty": "beginner",
+      "tags": ["terminology", "etymology"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q2",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "In Kashmir Shaivism, what does Śakti primarily represent in relation to Śiva?",
+      "correctAnswer": "The dynamic, manifesting power of Śiva’s pure consciousness",
+      "hint": "Śiva is static consciousness; Śakti is its capacity to act and express.",
+      "explanation": "Śakti is not separate from Śiva but is His inherent power of self-expression, will (icchā), knowledge (jñāna), and action (kriyā). Without Śakti, Śiva would be inert; with Her, the universe unfolds as a free play (līlā) of consciousness.",
+      "difficulty": "beginner",
+      "tags": ["shakti", "shiva", "metaphysics"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q3",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "Which of the three primary upāyas in Kashmir Shaivism is Śāktopāya considered to be?",
+      "correctAnswer": "The intermediate or middle path, between Śāmbhavopāya and Āṇavopāya",
+      "hint": "Order: most direct → most gradual.",
+      "explanation": "The three upāyas are: (1) Śāmbhavopāya (pure will, instantaneous recognition), (2) Śāktopāya (energy/awareness-based methods), and (3) Āṇavopāya (ritual, body, breath). Śāktopāya is suited for those with strong intellectual and introspective capacity but who still benefit from subtle techniques.",
+      "difficulty": "beginner",
+      "tags": ["upaya", "taxonomy"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q4",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "In Śāktopāya, what is the primary instrument of spiritual practice?",
+      "correctAnswer": "The mind (specifically, purified cognition and inner awareness)",
+      "hint": "Unlike Āṇavopāya (body) or Śāmbhavopāya (pure will), this path works through refined mental activity.",
+      "explanation": "Śāktopāya engages the *vikalpa* (conceptual thought) as a tool — not to suppress it, but to refine and redirect it toward recognition of its source in pure awareness (cit). The practitioner uses inquiry, mantra, and breath-awareness to dissolve mental fragmentation.",
+      "difficulty": "beginner",
+      "tags": ["mind", "practice"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q5",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "What key Sanskrit term in Śāktopāya refers to the 'dissolution of thought constructs'?",
+      "correctAnswer": "Vikalpa-kṣaya",
+      "hint": "‘Vikalpa’ = mental modification; ‘kṣaya’ = dissolution or waning.",
+      "explanation": "Vikalpa-kṣaya is a central technique in Śāktopāya: the intentional calming or dissolution of dualistic thought patterns (*vikalpas*) to reveal the underlying non-dual awareness (prakāśa-vimarśa). It is not suppression, but recognition of thoughts as expressions of consciousness itself.",
+      "difficulty": "beginner",
+      "tags": ["vikalpa", "technique", "meditation"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q6",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "According to Abhinavagupta, what is the ultimate goal of Śāktopāya?",
+      "correctAnswer": "Recognition (pratyabhijñā) of one’s true nature as Śiva-consciousness",
+      "hint": "Kashmir Shaivism is a 'recognition' school — not attainment, but realization of what already is.",
+      "explanation": "Śāktopāya does not create enlightenment; it removes obscurations so the practitioner *recognizes* (pratyabhijñā) their innate identity with Śiva — the absolute, self-luminous, free consciousness. Śakti’s role is to reveal this through inner awakening.",
+      "difficulty": "beginner",
+      "tags": ["pratyabhijna", "goal", "abhinavagupta"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q7",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "Which of the following best describes 'cit-śakti'?",
+      "correctAnswer": "The power of pure consciousness to be self-aware and self-referential",
+      "hint": "‘Cit’ = consciousness; ‘śakti’ = power — what power does consciousness inherently possess?",
+      "explanation": "Cit-śakti is the reflexive capacity of consciousness — its ability to know itself (*vimarśa*). This self-referential awareness is the engine of manifestation and the key to liberation in Śāktopāya: when the mind rests in cit-śakti, duality collapses.",
+      "difficulty": "beginner",
+      "tags": ["cit", "vimarsha", "consciousness"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q8",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "In Śāktopāya, what is the status of the world (jagat)?",
+      "correctAnswer": "A real manifestation of Śiva-Śakti’s free will (svātantrya), not illusion (māyā as in Advaita)",
+      "hint": "Kashmir Shaivism affirms the reality of the world as divine expression.",
+      "explanation": "Unlike Advaita Vedānta’s doctrine of *māyā* (world as illusion), Kashmir Shaivism sees the universe as a *real*, dynamic, and joyful expression of Śiva’s freedom (*svātantrya-śakti*). Śāktopāya cultivates awareness of this divine play within experience.",
+      "difficulty": "beginner",
+      "tags": ["ontology", "world", "svatantrya"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q9",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "What is 'anavopaya' in contrast to 'śāktopāya'?",
+      "correctAnswer": "The path using the body, senses, and external rituals — more gradual than śāktopāya",
+      "hint": "‘Aṇu’ = individual/limited being; this path starts from identification with the body-mind.",
+      "explanation": "Āṇavopāya works with the practitioner as an *aṇu* (atomic, limited self), using breath (prāṇāyāma), mantra repetition, visualization, and ritual. Śāktopāya, by contrast, starts from the level of refined mind and inner energy, bypassing heavy external formality.",
+      "difficulty": "beginner",
+      "tags": ["anavopaya", "comparison", "taxonomy"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q10",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "Which text is a primary source for Śāktopāya teachings in Kashmir Shaivism?",
+      "correctAnswer": "Tantrāloka by Abhinavagupta",
+      "hint": "A massive synthesis of Trika and Kaula traditions by the greatest systematizer of the tradition.",
+      "explanation": "Abhinavagupta’s *Tantrāloka* (‘Light on the Tantras’) is the most comprehensive exposition of non-dual Śaivism, with extensive sections on Śāktopāya (e.g., chapters 4–5, 29). Other key texts include the *Mālinīvijayottara Tantra* and *Vijñāna Bhairava Tantra*.",
+      "difficulty": "beginner",
+      "tags": ["texts", "abhinavagupta", "tantraloka"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q11",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "What is the role of 'ahaṃkāra' in Śāktopāya practice?",
+      "correctAnswer": "To be recognized as a contraction of universal 'I'-consciousness (aham), not destroyed",
+      "hint": "Kashmir Shaivism reinterprets ego—not as evil, but as a limited expression of the divine 'I'.",
+      "explanation": "In Śāktopāya, *ahaṃkāra* (ego-sense) is not annihilated but *expanded* through recognition. The limited 'I' (*ahaṃkāra*) is a condensed form of the universal 'I' (*aham*). Practice reveals the ego’s essence as Śiva’s self-awareness.",
+      "difficulty": "beginner",
+      "tags": ["aham", "ego", "self"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q12",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "What does 'prakāśa-vimarśa' represent in Śāktopāya metaphysics?",
+      "correctAnswer": "The inseparable pair of luminosity (prakāśa) and self-awareness (vimarśa) in consciousness",
+      "hint": "Two aspects of one reality: light and its knowing of itself.",
+      "explanation": "All consciousness has two inseparable aspects: *prakāśa* (pure radiance, the 'light' of awareness) and *vimarśa* (the reflective capacity to know 'I am this'). Śakti is vimarśa — the dynamic self-recognition that makes consciousness alive and creative.",
+      "difficulty": "beginner",
+      "tags": ["prakasha", "vimarsha", "consciousness"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q13",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "In Śāktopāya, which energy center is often emphasized as the seat of awakened awareness?",
+      "correctAnswer": "The heart (hṛdaya), understood as the center of consciousness—not the physical organ",
+      "hint": "Symbolic location of the 'I'-sense and divine presence; referenced in Vijñāna Bhairava.",
+      "explanation": "The *hṛdaya* in tantric physiology is the spiritual heart — the locus of *aham vimarśa* (‘I’-awareness) and the abode of Śiva-Śakti. Many Śāktopāya techniques (e.g., DH 43 in Vijñāna Bhairava) focus attention here to stabilize non-dual awareness.",
+      "difficulty": "beginner",
+      "tags": ["hridaya", "physiology", "meditation"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q14",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "What is 'svātantrya' in Kashmir Shaivism?",
+      "correctAnswer": "The absolute freedom and autonomy of Śiva-Śakti to manifest, sustain, and dissolve the universe",
+      "hint": "Literally 'self-dependence' — divine sovereignty and creativity.",
+      "explanation": "Svātantrya is the core attribute of the Absolute: unrestricted, spontaneous freedom. The universe arises not from necessity but from divine play (līlā) out of sheer freedom. Śāktopāya awakens the practitioner to their own svātantrya — innate autonomy and creativity.",
+      "difficulty": "beginner",
+      "tags": ["svatantrya", "freedom", "divine"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q15",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "How is mantra understood in Śāktopāya (vs. Āṇavopāya)?",
+      "correctAnswer": "As a vibrational expression of consciousness itself, not merely a tool for concentration",
+      "hint": "In Śāktopāya, mantra is living energy — *spanda* — not just sound.",
+      "explanation": "While Āṇavopāya may use mantra mechanically, Śāktopāya sees *mantra* as *śabda-brahman* — the pulsation (spanda) of consciousness. The practitioner attunes to the *vimarśa* (self-aware resonance) within the mantra, leading to recognition of its source in the heart.",
+      "difficulty": "beginner",
+      "tags": ["mantra", "spanda", "sound"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q16",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "Which of the following is NOT one of the three primary śaktis emphasized in practice?",
+      "correctAnswer": "Māyā-śakti (as an independent power)",
+      "hint": "The three primary śaktis are icchā (will), jñāna (knowledge), and kriyā (action). Māyā is a limiting power, not primary.",
+      "explanation": "The main śaktis are *icchā* (will), *jñāna* (knowledge), and *kriyā* (action)—all aspects of divine freedom. *Māyā-śakti* is the power of limitation, responsible for individuality and duality, but it is subordinate and ultimately dissolved in realization.",
+      "difficulty": "beginner",
+      "tags": ["shakti", "taxonomy", "maya"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q17",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "What is 'spanda' in the context of Śāktopāya?",
+      "correctAnswer": "The subtle, dynamic pulsation of consciousness — the vibratory essence of Śakti",
+      "hint": "From the *Spanda Kārikās* — the 'throb' of reality.",
+      "explanation": "Spanda is the primordial vibration — the first stir of Śakti within Śiva. It is the rhythmic movement between expansion and contraction, manifestation and reabsorption. Śāktopāya practitioners tune into spanda in breath, thought, and emotion to realize its source in stillness.",
+      "difficulty": "beginner",
+      "tags": ["spanda", "vibration", "energy"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q18",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "In Śāktopāya, what is the significance of 'ānanda' (bliss)?",
+      "correctAnswer": "The natural, inherent quality of pure consciousness, revealed when contraction ceases",
+      "hint": "Not emotional joy, but the intrinsic nature of the Self.",
+      "explanation": "Ānanda is not a feeling but the very substance of non-dual awareness — the 'taste' (*rasa*) of freedom. In Śāktopāya, as mental fragmentation dissolves via vikalpa-kṣaya, the native bliss of consciousness spontaneously arises, confirming recognition.",
+      "difficulty": "beginner",
+      "tags": ["ananda", "bliss", "consciousness"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q19",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "Who is traditionally considered the founder of the Pratyabhijñā school, foundational to Śāktopāya theory?",
+      "correctAnswer": "Somānanda (with Utpaladeva and Abhinavagupta as major systematizers)",
+      "hint": "Author of *Śivadṛṣṭi*; preceded Utpaladeva’s *Īśvara-pratyabhijñā-kārikā*.",
+      "explanation": "Somānanda (c. 900 CE) established the Pratyabhijñā ('Recognition') school in his *Śivadṛṣṭi*. His disciple Utpaladeva refined it philosophically, and Abhinavagupta integrated it with tantric practice — making Śāktopāya a living path of recognition.",
+      "difficulty": "beginner",
+      "tags": ["history", "somananda", "pratyabhijna"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q20",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "What is 'māyā' in Kashmir Shaivism (vs. Advaita Vedānta)?",
+      "correctAnswer": "A real, divine power of self-limitation — not illusion, but creative concealment",
+      "hint": "Śakti’s power to appear as finite; necessary for manifestation.",
+      "explanation": "Māyā-śakti is Śiva’s power to contract His infinite awareness into the experience of individuality. It is real and purposeful — enabling the drama of recognition. Liberation is not escape from māyā, but seeing through it to its source in Śiva.",
+      "difficulty": "beginner",
+      "tags": ["maya", "comparison", "shakti"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q21",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "Which term denotes the 'I'-consciousness that is both individual and universal in Śāktopāya?",
+      "correctAnswer": "Aham",
+      "hint": "Sanskrit for 'I'; in Shaivism, it points to the essential Self.",
+      "explanation": "Aham is the core 'I'-principle — the bridge between limited ego (*ahaṃkāra*) and universal Śiva. In Śāktopāya, meditating on *ahaṃ* (e.g., in the mantra *ahaṃ idam* — 'I am this') dissolves duality by revealing the 'I' as the ground of all experience.",
+      "difficulty": "beginner",
+      "tags": ["aham", "self", "mantra"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q22",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "What is 'kalā' in the context of Śāktopāya cosmology?",
+      "correctAnswer": "Limited aspects or powers of Śakti that constitute the individual soul and world",
+      "hint": "From *kala* = 'to measure' — powers that measure/divide the infinite.",
+      "explanation": "Kalās are the 36 *tattvas* (principles) through which Śiva-Śakti manifest, especially the 5 *kañcukas* (coverings) that limit consciousness into time, space, and agency. Śāktopāya reverses this process through awareness.",
+      "difficulty": "beginner",
+      "tags": ["kala", "tattva", "cosmology"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q23",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "In Śāktopāya, what is the relationship between knowledge (jñāna) and liberation (mokṣa)?",
+      "correctAnswer": "Liberation is immediate upon true recognition (jñāna); no further action is needed",
+      "hint": "‘Jñānād eva tu kaivalyam’ — from knowledge alone comes aloneness (freedom).",
+      "explanation": "Unlike paths requiring ritual or asceticism, Śāktopāya holds that *jñāna*—direct, non-conceptual recognition of one’s nature—*is* liberation. Once the mind rests in cit-śakti, bondage is seen as never having truly existed.",
+      "difficulty": "beginner",
+      "tags": ["jnana", "moksha", "epistemology"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q24",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "Which of the following best defines 'vimarśa'?",
+      "correctAnswer": "The self-reflective capacity of consciousness — 'I am aware that I am aware'",
+      "hint": "The 'mirror' function of awareness — not passive, but dynamic knowing.",
+      "explanation": "Vimarśa is what makes consciousness *alive* and personal. Without it, awareness would be inert light (prakāśa). Śakti *is* vimarśa — the divine 'I'-sense that creates, sustains, and liberates. Śāktopāya cultivates this reflexive awareness.",
+      "difficulty": "beginner",
+      "tags": ["vimarsha", "consciousness", "shakti"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q25",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "What is 'unmeṣa-nimeṣa' in Śāktopāya practice?",
+      "correctAnswer": "The opening and closing of awareness — the dynamic rhythm of manifestation and withdrawal",
+      "hint": "Like blinking — but of cosmic consciousness.",
+      "explanation": "Unmeṣa (opening/expansion) and nimeṣa (closing/contraction) describe the pulsation (spanda) of Śakti. In meditation, the practitioner observes this rhythm in breath, thought, and sensation to realize its source in stillness.",
+      "difficulty": "beginner",
+      "tags": ["spanda", "rhythm", "meditation"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q26",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "Which tantric consort is most associated with Śāktopāya in the Kaula tradition?",
+      "correctAnswer": "Kālī (as the fierce, transformative aspect of Śakti)",
+      "hint": "Not gentle Lakṣmī — but the devourer of time and illusion.",
+      "explanation": "In Kaula lineages integrated into Śāktopāya (e.g., Krama), Kālī represents the power of dissolution — consuming limiting identities and revealing the timeless Self. Her energy supports *vikalpa-kṣaya* and fearless recognition.",
+      "difficulty": "beginner",
+      "tags": ["kali", "deity", "kaula"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q27",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "What does the phrase 'jagat satyam, jñānam anantam' signify in Kashmir Shaivism?",
+      "correctAnswer": "The world is real, consciousness is infinite knowledge — affirming non-dual realism",
+      "hint": "A reworking of the Chandogya Upaniṣad’s ‘satyam jñānam anantam brahma’.",
+      "explanation": "While Advaita says the world is *mithyā* (unreal), Kashmir Shaivism affirms *jagat satyam* — the world is truly Śiva’s form. *Jñānam anantam* means consciousness is boundless knowing. Śāktopāya lives this truth in embodied awareness.",
+      "difficulty": "beginner",
+      "tags": ["ontology", "quote", "realism"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q28",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "What is 'prāṇa' understood as in Śāktopāya?",
+      "correctAnswer": "The subtle vibratory life-force that is a direct expression of Śakti’s movement",
+      "hint": "More than breath — it’s the energy of awareness in motion.",
+      "explanation": "Prāṇa is the kinetic aspect of cit-śakti — the bridge between mind and body. In Śāktopāya, breath awareness is used not for control (as in haṭha yoga) but to trace prāṇa back to its source in the heart’s stillness.",
+      "difficulty": "beginner",
+      "tags": ["prana", "breath", "energy"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q29",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "Which of the following is a hallmark of Śāktopāya realization?",
+      "correctAnswer": "Sahaja — spontaneous, natural abidance in non-dual awareness",
+      "hint": "‘Saha’ = with; ‘ja’ = born — innate, effortless state.",
+      "explanation": "Sahaja is the fruit of Śāktopāya: the stabilized state where awareness rests in itself without effort. The world is seen as *svātantrya-līlā* — divine play — and action arises spontaneously from fullness, not desire.",
+      "difficulty": "beginner",
+      "tags": ["sahaja", "realization", "state"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q30",
+      "learningUnitId": "shaktopaya_foundations",
+      "question": "What is the role of the guru in Śāktopāya?",
+      "correctAnswer": "To trigger recognition through transmission (śaktipāta) and precise guidance, not dogma",
+      "hint": "The guru is a mirror — not a savior.",
+      "explanation": "The guru’s primary function is *śaktipāta* — awakening the disciple’s inner Śakti — and providing *upadeśa* (instruction) tailored to their capacity. In Śāktopāya, the guru helps the student see that the answer lies within, not outside.",
+      "difficulty": "beginner",
+      "tags": ["guru", "shaktipata", "transmission"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q31",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "What is the primary focus of the 'ahaṃ idam' practice in Śāktopāya?",
+      "correctAnswer": "Dissolving subject-object duality by recognizing 'I am this (all)'",
+      "hint": "Aham = I; idam = this. Uniting the two.",
+      "explanation": "This practice uses the awareness 'ahaṃ idam' to collapse the gap between self and world. As the practitioner feels 'I am this tree, this sound, this thought', the contraction of ego expands into universality — revealing the non-dual 'I'-consciousness (aham) as all-inclusive.",
+      "difficulty": "beginner",
+      "tags": ["aham", "practice", "non-duality"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q32",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "In vikalpa-kṣaya, what is the recommended attitude toward arising thoughts?",
+      "correctAnswer": "Observe without attachment or aversion, recognizing them as expressions of consciousness",
+      "hint": "Not suppression, not indulgence — witnessing with insight.",
+      "explanation": "Śāktopāya teaches *sākṣī-bhāva* (witnessing) combined with *pratyabhijñā* (recognition). Thoughts are not enemies; they are *spanda* — vibrations of Śakti. Letting them arise and dissolve naturally reveals the still awareness beneath.",
+      "difficulty": "beginner",
+      "tags": ["vikalpa", "meditation", "mind"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q33",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "Which Dhāraṇā (concentration) in the Vijñāna Bhairava Tantra emphasizes awareness between inhalation and exhalation?",
+      "correctAnswer": "Dhāraṇā 24: 'At the moment when breath turns from in to out and out to in, rest in that gap.'",
+      "hint": "The pause — where prāṇa and apāna meet.",
+      "explanation": "This technique uses the natural pause between breaths as a gateway to stillness. In that gap, mental activity subsides, and the practitioner can glimpse the *śūnya* (void) that is actually fullness — the abode of Bhairava (Śiva).",
+      "difficulty": "beginner",
+      "tags": ["vijñana bhairava", "breath", "meditation"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q34",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "What is the purpose of silently repeating the mantra 'so’ham' in Śāktopāya?",
+      "correctAnswer": "To internalize the truth 'I am He/That (Śiva)' with each breath",
+      "hint": "‘So’ on inhalation, ‘ham’ on exhalation — natural bija mantra of breath.",
+      "explanation": "‘So’ham’ (‘I am He’) aligns with the breath: ‘so’ (He) on inhalation, ‘ham’ (I) on exhalation. This effortless japa dissolves duality by affirming identity with the Absolute, using the body’s natural rhythm as support.",
+      "difficulty": "beginner",
+      "tags": ["mantra", "soham", "breath"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q35",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "How is the 'rising and falling' of emotions used in Śāktopāya?",
+      "correctAnswer": "As opportunities to recognize the underlying awareness that remains unchanged",
+      "hint": "Emotions are waves; awareness is the ocean.",
+      "explanation": "Rather than suppressing emotions, the practitioner observes their emergence and subsidence in the field of awareness. This reveals *vimarśa* — the self-knowing light in which all experience appears. Anger, joy, or fear become gateways to stillness.",
+      "difficulty": "beginner",
+      "tags": ["emotion", "awareness", "practice"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q36",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "What is 'bindu' in Śāktopāya meditation?",
+      "correctAnswer": "The point of focused awareness — often at the heart or between eyebrows — as a gateway to unity",
+      "hint": "Sanskrit for 'point' or 'drop'; symbolic of concentrated consciousness.",
+      "explanation": "Bindu is not a physical spot but the *locus* where duality collapses. Focusing at the heart bindu, for example, gathers scattered awareness into the center of ‘I’-consciousness, allowing spontaneous expansion into non-duality.",
+      "difficulty": "beginner",
+      "tags": ["bindu", "meditation", "focus"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q37",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "Which practice involves 'listening to the inner sound' (nāda)?",
+      "correctAnswer": "Nāda-anusandhāna — tracing subtle inner vibrations to their source in silence",
+      "hint": "From gross sound to subtle resonance to absolute silence.",
+      "explanation": "Nāda-anusandhāna begins with external sound (e.g., mantra), moves to inner resonance (e.g., *anāhata nāda*), and culminates in silence — the *śūnya* that is fullness. This is a classic Śāktopāya method for dissolving mental activity.",
+      "difficulty": "beginner",
+      "tags": ["nada", "sound", "meditation"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q38",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "What is the significance of 'smiling inwardly' in some Śāktopāya instructions?",
+      "correctAnswer": "A somatic expression of innate bliss (ānanda) and relaxed openness",
+      "hint": "Not forced — but a natural response to recognition.",
+      "explanation": "A gentle inner smile embodies *camatkāra* (wonder) and *ānanda* — the natural state of consciousness. It relaxes the subtle body, opens the heart, and counters seriousness, supporting effortless abidance in awareness.",
+      "difficulty": "beginner",
+      "tags": ["smile", "ananda", "somatic"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q39",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "In the 'observation of desire' practice, what is the key insight?",
+      "correctAnswer": "Desire arises in and is known by awareness — it does not define the Self",
+      "hint": "The 'I' that knows desire is prior to desire.",
+      "explanation": "Instead of indulging or suppressing desire, the practitioner observes: 'Desire is present — and I am aware of it.' This reveals the distinction between *content* (desire) and *awareness* (the 'I'), loosening identification and revealing freedom.",
+      "difficulty": "beginner",
+      "tags": ["desire", "awareness", "practice"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q40",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "What does 'khecara mudrā' involve in Śāktopāya?",
+      "correctAnswer": "Mentally placing awareness in the 'sky' of the heart or cranial vault — spacious, unconfined consciousness",
+      "hint": "‘Kha’ = sky/void; ‘cara’ = moving — awareness freely abiding in openness.",
+      "explanation": "Khecara mudrā is not a physical gesture but an inner attitude: resting as the 'sky-like' awareness in which thoughts, sensations, and emotions appear like clouds. It cultivates *vyoma* (space-consciousness), the natural state of Śiva.",
+      "difficulty": "beginner",
+      "tags": ["khecara", "mudra", "space"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q41",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "How is sleep (nidrā) utilized in Śāktopāya practice?",
+      "correctAnswer": "By maintaining subtle awareness at sleep onset to recognize the 'I' beyond waking/dreaming",
+      "hint": "The threshold — where individuality dissolves momentarily.",
+      "explanation": "Practitioners observe the transition into sleep, aiming to retain a thread of awareness (*antaḥ-sākṣī*). In that gap, the ego vanishes, revealing the ground of pure 'I'-consciousness — a preview of liberation.",
+      "difficulty": "beginner",
+      "tags": ["sleep", "nidra", "threshold"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q42",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "What is 'dhvani' in mantra practice?",
+      "correctAnswer": "The subtle resonance or after-sound of a mantra that leads to silence",
+      "hint": "The echo — guiding awareness inward.",
+      "explanation": "After mentally uttering a mantra (e.g., *haṃsa*), the practitioner attends to its *dhvani* — the fading resonance. This bridges sound and silence, drawing awareness from thought to the source of thought: pure cit-śakti.",
+      "difficulty": "beginner",
+      "tags": ["mantra", "dhvani", "sound"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q43",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "Which practice involves 'feeling the 'I'-sense' as a subtle vibration in the heart?",
+      "correctAnswer": "Aham-vimarśa — self-reflective awareness of the 'I' as living presence",
+      "hint": "Not conceptual — but felt as energy.",
+      "explanation": "Aham-vimarśa is the heart of Śāktopāya: turning attention to the *sensation* of 'I am' — not as thought, but as a palpable, vibrant presence in the heart center. This direct contact dissolves mental fragmentation.",
+      "difficulty": "beginner",
+      "tags": ["aham", "vimarsha", "heart"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q44",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "What is the purpose of 'gazing at the sky' (ākāśa-dṛṣṭi)?",
+      "correctAnswer": "To internalize the qualities of spaciousness, clarity, and unchanging awareness",
+      "hint": "Outer sky mirrors inner sky — vyoma.",
+      "explanation": "Gazing at the vast, empty sky induces a somatic resonance with *vyoma-cit* (space-consciousness). The mind naturally relaxes into openness, reflecting the non-dual awareness that is always present but obscured by contraction.",
+      "difficulty": "beginner",
+      "tags": ["sky", "gaze", "space"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q45",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "How is 'walking meditation' adapted in Śāktopāya?",
+      "correctAnswer": "By feeling each step as the pulsation (spanda) of consciousness moving through the body",
+      "hint": "Not mindfulness of movement — but recognition of energy as Śakti.",
+      "explanation": "The practitioner feels the *spanda* — the subtle throb of awareness — in the lifting, moving, and placing of the foot. This transforms ordinary action into worship: every step is Śiva dancing through Śakti.",
+      "difficulty": "beginner",
+      "tags": ["walking", "spanda", "embodiment"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q46",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "What is 'bhāvanā' in Śāktopāya?",
+      "correctAnswer": "Contemplative cultivation of a truth (e.g., 'I am full') until it becomes direct recognition",
+      "hint": "Not visualization — but deepening insight through repeated insight.",
+      "explanation": "Bhāvanā is not imagination but *nididhyāsana*-like contemplation. For example, reflecting on ‘I am complete’ not as belief, but as an inquiry that unravels lack. When conviction deepens, it shifts from thought to direct *pratyabhijñā*.",
+      "difficulty": "beginner",
+      "tags": ["bhavana", "contemplation", "practice"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q47",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "Which technique uses the ‘flash of recognition’ in daily life?",
+      "correctAnswer": "Sudden recollection (smṛti) of one’s true nature during ordinary moments",
+      "hint": "Like remembering a forgotten truth — in the midst of activity.",
+      "explanation": "The practitioner cultivates *smṛti* — momentary recollection of ‘I am Śiva’ — when seeing beauty, hearing music, or feeling joy. These flashes weaken habitual contraction and plant seeds of stable recognition.",
+      "difficulty": "beginner",
+      "tags": ["smriti", "daily life", "recognition"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q48",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "What is 'kālāgni' visualization in advanced Śāktopāya?",
+      "correctAnswer": "Mentally kindling the fire of time (kāla) in the heart to burn away duality",
+      "hint": "Kālī’s fire — consuming limitation.",
+      "explanation": "In Krama-influenced practices, the practitioner visualizes a fierce flame (kālāgni) in the heart, symbolizing Kālī’s power to dissolve time, space, and ego. This supports *vikalpa-kṣaya* and reveals the timeless Self.",
+      "difficulty": "beginner",
+      "tags": ["kali", "fire", "visualization"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q49",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "How is ‘silence between words’ used in dialogue as practice?",
+      "correctAnswer": "As an opportunity to rest in the awareness that precedes and follows speech",
+      "hint": "The gap — where the ‘I’ is nakedly present.",
+      "explanation": "During conversation, the practitioner notices the pause before speaking and after listening. In that silence, mental constructs drop, revealing the *aham vimarśa* — the self-aware ‘I’ that is prior to language and identity.",
+      "difficulty": "beginner",
+      "tags": ["silence", "speech", "daily practice"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q50",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "What is ‘yoni-mudrā’ in Śāktopāya context?",
+      "correctAnswer": "Symbolic gesture (often internal) representing the source — the abode of Śakti from which all arises",
+      "hint": "‘Yoni’ = source/womb — not physical, but metaphysical.",
+      "explanation": "Yoni-mudrā may involve hand gestures, but in Śāktopāya it’s primarily internal: turning awareness to the heart as the *yoni* (source) of all manifestation. It signifies return to the origin — the point of non-dual creativity.",
+      "difficulty": "beginner",
+      "tags": ["yoni", "mudra", "symbolism"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q51",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "Which practice involves ‘feeling the body as light’?",
+      "correctAnswer": "Jyoti-rūpa bhāvanā — contemplation of the body as luminous energy",
+      "hint": "Not imagination — but sensing prāṇa as radiance.",
+      "explanation": "The practitioner shifts from feeling the body as solid to sensing it as vibrant, luminous *prāṇa* — the play of cit-śakti. This dissolves heaviness and reveals the body as a temple of consciousness.",
+      "difficulty": "beginner",
+      "tags": ["light", "body", "energy"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q52",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "What is ‘ātma-vyāpti’ in the progression of Śāktopāya?",
+      "correctAnswer": "The stage of pervasion — where awareness expands to fill the entire body-mind",
+      "hint": "‘Vyāpti’ = pervasion; ‘ātma’ = Self — expansion of ‘I’-sense.",
+      "explanation": "After initial focus (e.g., at the heart), awareness naturally expands (*vyāpti*) to include the whole body, then senses, then world — all as expressions of the one ‘I’. This is the bridge to *śiva-vyāpti* (universal pervasion).",
+      "difficulty": "beginner",
+      "tags": ["vyapti", "expansion", "stages"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q53",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "How is ‘gratitude’ integrated into Śāktopāya?",
+      "correctAnswer": "As recognition of life as Śiva’s free offering (svātantrya-līlā)",
+      "hint": "Not emotional — but ontological acknowledgment.",
+      "explanation": "Gratitude in Śāktopāya is *camatkāra* (wonder) at the miracle of existence. It arises naturally when one sees the world not as burden, but as Śiva’s joyful self-expression — turning daily life into worship.",
+      "difficulty": "beginner",
+      "tags": ["gratitude", "camatkara", "attitude"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q54",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "What is ‘citi-saṃvedana’?",
+      "correctAnswer": "Direct, non-conceptual knowing of consciousness as it is",
+      "hint": "‘Saṃvedana’ = awareness; ‘citi’ = of consciousness.",
+      "explanation": "Citi-saṃvedana is the culmination of Śāktopāya: pure self-awareness, free from subject-object split. It’s not *about* consciousness — it *is* consciousness knowing itself. Practices prepare the ground for this spontaneous recognition.",
+      "difficulty": "beginner",
+      "tags": ["consciousness", "recognition", "goal"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q55",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "Which Dhāraṇā uses ‘gazing at a blank wall’?",
+      "correctAnswer": "Dhāraṇā 60: 'Fix gaze on empty space; mind becomes empty like it.'",
+      "hint": "External emptiness mirrors internal stillness.",
+      "explanation": "Staring at a blank wall (or sky) allows the visual field to ‘dissolve,’ inducing mental calm. As external form fades, the practitioner rests in the formless awareness — the true nature of the Self.",
+      "difficulty": "beginner",
+      "tags": ["vijñana bhairava", "gaze", "emptiness"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q56",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "What is ‘sphurattā’ in meditative experience?",
+      "correctAnswer": "The spontaneous flash or throb of self-awareness — a moment of recognition",
+      "hint": "‘Sphurat’ = to flash, sparkle — like lightning in the mind.",
+      "explanation": "Sphurattā is the sudden, vivid arising of ‘I am’ — a momentary but profound recognition of the Self. These flashes, cultivated through practice, gradually stabilize into continuous awareness (*nityodita*).",
+      "difficulty": "beginner",
+      "tags": ["sphuratta", "recognition", "experience"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q57",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "How is ‘eating’ transformed into practice?",
+      "correctAnswer": "By feeling the act as Śakti nourishing Śiva — the universe feeding itself",
+      "hint": "Not ritual eating — but awareness of energy exchange.",
+      "explanation": "The practitioner eats with awareness that food is *prāṇa*, the eater is *cit*, and the act is *līlā* — divine play. This dissolves duality between subject, object, and action, revealing non-dual enjoyment (*bhukti*).",
+      "difficulty": "beginner",
+      "tags": ["eating", "daily life", "embodiment"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q58",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "What is the role of ‘devotion (bhakti)’ in Śāktopāya?",
+      "correctAnswer": "As an expression of love for the Self — not other-directed worship",
+      "hint": "Bhakti to Śiva is devotion to one’s own highest nature.",
+      "explanation": "In non-dual Śaivism, *bhakti* is love for the inner Lord — the recognition ‘I am Śiva’. Tears, song, or prayer become spontaneous expressions of *ānanda*, not means to attain, but celebrations of what is already true.",
+      "difficulty": "beginner",
+      "tags": ["bhakti", "devotion", "love"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q59",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "Which technique emphasizes ‘resting in the natural breath’ without control?",
+      "correctAnswer": "Sahaja-prāṇāyāma — effortless awareness of spontaneous breathing",
+      "hint": "‘Sahaja’ = natural; no manipulation.",
+      "explanation": "Unlike forceful prāṇāyāma, *sahaja-prāṇāyāma* simply observes the breath as it is — a direct expression of Śakti’s rhythm. This relaxes effort and reveals the stillness within movement.",
+      "difficulty": "beginner",
+      "tags": ["pranayama", "breath", "effortless"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q60",
+      "learningUnitId": "shaktopaya_practices",
+      "question": "What is the final ‘test’ of Śāktopāya realization?",
+      "correctAnswer": "Unshaken abidance in awareness amidst worldly activity — sahaja samādhi",
+      "hint": "Not retreat — but engagement with freedom.",
+      "explanation": "True realization isn’t seclusion, but *sahaja samādhi*: acting in the world while rooted in non-dual awareness. The practitioner moves, speaks, and creates from fullness — proving that Śakti’s play and Śiva’s stillness are one.",
+      "difficulty": "beginner",
+      "tags": ["sahaja", "samadhi", "realization"],
+      "timeLimit": 40
+    }
+  ]
+}

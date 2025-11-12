@@ -1,0 +1,706 @@
+{
+  "categories": [
+    {
+      "id": "tantra_yoga_philosophy",
+      "name": "Tantra Yoga Philosophy",
+      "description": "Tantra Yoga Philosophy is an ancient spiritual tradition that integrates body, mind, and spirit to achieve enlightenment and self-realization. It draws from Hindu and Buddhist roots, emphasizing the divine in everyday life through practices like meditation, rituals, and energy cultivation. This philosophy promotes the idea that the material world is not an illusion but a manifestation of the divine.",
+      "icon": "meditation"
+    }
+  ],
+  "subcategories": [
+    {
+      "id": "origins_and_history",
+      "categoryId": "tantra_yoga_philosophy",
+      "name": "Origins and History of Tantra Yoga",
+      "description": "This subcategory explores the historical roots and evolution of Tantra Yoga from ancient Indian traditions to its modern interpretations."
+    },
+    {
+      "id": "core_principles",
+      "categoryId": "tantra_yoga_philosophy",
+      "name": "Core Principles of Tantra Yoga",
+      "description": "This subcategory examines the fundamental concepts and philosophical tenets that form the foundation of Tantra Yoga practice."
+    }
+  ],
+  "learningUnits": [
+    {
+      "id": "origins_and_history",
+      "subCategoryId": "origins_and_history",
+      "type": "mixed",
+      "title": "Origins and History of Tantra Yoga",
+      "content": {},
+      "difficulty": "beginner",
+      "tags": ["history", "origins", "evolution", "tantra"]
+    },
+    {
+      "id": "core_principles",
+      "subCategoryId": "core_principles",
+      "type": "mixed",
+      "title": "Core Principles of Tantra Yoga",
+      "content": {},
+      "difficulty": "beginner",
+      "tags": ["principles", "philosophy", "concepts", "tantra"]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "learningUnitId": "origins_and_history",
+      "question": "In which country did Tantra Yoga primarily originate?",
+      "correctAnswer": "India",
+      "hint": "Think about ancient spiritual traditions in South Asia.",
+      "explanation": "Tantra Yoga originated in India around the 5th to 9th centuries CE, drawing from Vedic and pre-Vedic traditions. It evolved as a counter to orthodox Brahmanism, incorporating elements from Hinduism and Buddhism. This origin shaped its emphasis on practical spirituality over rigid rituals.",
+      "difficulty": "beginner",
+      "tags": ["origins", "india"],
+      "timeLimit": 20
+    },
+    {
+      "id": "q2",
+      "learningUnitId": "origins_and_history",
+      "question": "What is the approximate time period when Tantric texts first appeared?",
+      "correctAnswer": "5th to 9th centuries CE",
+      "hint": "It was during the early medieval period in India.",
+      "explanation": "Tantric texts, known as Tantras, began emerging between the 5th and 9th centuries CE, marking the formalization of Tantra as a philosophical system. These texts integrated esoteric practices with philosophy. This period saw Tantra influencing both Hindu and Buddhist schools.",
+      "difficulty": "beginner",
+      "tags": ["history", "texts"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q3",
+      "learningUnitId": "origins_and_history",
+      "question": "Which two major religions heavily influenced the development of Tantra Yoga?",
+      "correctAnswer": "Hinduism and Buddhism",
+      "hint": "Consider the spiritual traditions of ancient India.",
+      "explanation": "Tantra Yoga was shaped by Hinduism, with its Vedic roots, and Buddhism, particularly in its Vajrayana form. This blend created a unique path focusing on energy and enlightenment. The interaction between these religions allowed Tantra to spread across Asia.",
+      "difficulty": "beginner",
+      "tags": ["influences", "religions"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q4",
+      "learningUnitId": "origins_and_history",
+      "question": "What does the word 'Tantra' literally mean in Sanskrit?",
+      "correctAnswer": "Loom or weave",
+      "hint": "It refers to interconnecting threads.",
+      "explanation": "In Sanskrit, 'Tantra' derives from 'tan' meaning to expand or weave, symbolizing the weaving of knowledge and practices. This reflects Tantra's approach to integrating all aspects of life. Historically, it denoted texts that 'expand' on spiritual topics.",
+      "difficulty": "beginner",
+      "tags": ["etymology", "sanskrit"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q5",
+      "learningUnitId": "origins_and_history",
+      "question": "Who is considered a key figure in the early dissemination of Tantric teachings?",
+      "correctAnswer": "Matsyendranath",
+      "hint": "A legendary yogi associated with the Nath tradition.",
+      "explanation": "Matsyendranath is revered as a founder of Hatha Yoga and Tantra, credited with revealing secret teachings. He influenced the Shaiva and Shakta sects. His legacy helped Tantra transition from esoteric to more accessible practices.",
+      "difficulty": "beginner",
+      "tags": ["figures", "yogi"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q6",
+      "learningUnitId": "origins_and_history",
+      "question": "What historical event contributed to the decline of Tantra in India around the 12th century?",
+      "correctAnswer": "Muslim invasions",
+      "hint": "External conquests disrupted spiritual centers.",
+      "explanation": "Muslim invasions in the 12th century led to the destruction of Tantric temples and monasteries, forcing practices underground. This shifted Tantra from institutional to guru-disciple transmission. Despite this, it survived and influenced later yoga forms.",
+      "difficulty": "beginner",
+      "tags": ["decline", "invasions"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q7",
+      "learningUnitId": "origins_and_history",
+      "question": "Which sect within Hinduism is closely associated with Tantra?",
+      "correctAnswer": "Shakta",
+      "hint": "It worships the divine feminine.",
+      "explanation": "The Shakta sect emphasizes Shakti, the feminine energy, which aligns with Tantra's focus on goddess worship. This connection dates back to ancient times. Shakta Tantra influenced rituals and philosophy in Hinduism.",
+      "difficulty": "beginner",
+      "tags": ["sects", "shakta"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q8",
+      "learningUnitId": "origins_and_history",
+      "question": "How did Tantra spread to Tibet?",
+      "correctAnswer": "Through Buddhist missionaries",
+      "hint": "Via the Vajrayana path.",
+      "explanation": "Buddhist missionaries like Padmasambhava brought Tantric elements to Tibet in the 8th century, forming Tibetan Buddhism. This integrated mantras and rituals. The spread enriched Tantra with unique esoteric practices.",
+      "difficulty": "beginner",
+      "tags": ["spread", "tibet"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q9",
+      "learningUnitId": "origins_and_history",
+      "question": "What is the name of the Tantric Buddhist tradition in Tibet?",
+      "correctAnswer": "Vajrayana",
+      "hint": "It means 'Diamond Vehicle'.",
+      "explanation": "Vajrayana is the Tantric form of Buddhism that emphasizes rapid enlightenment through rituals and visualizations. It evolved from Indian Tantra in the 7th century. This tradition preserves many original Tantric elements.",
+      "difficulty": "beginner",
+      "tags": ["buddhism", "vajrayana"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q10",
+      "learningUnitId": "origins_and_history",
+      "question": "Who introduced Tantra to the West in the 20th century?",
+      "correctAnswer": "Sir John Woodroffe",
+      "hint": "A British scholar who wrote under a pseudonym.",
+      "explanation": "Sir John Woodroffe, alias Arthur Avalon, translated Tantric texts and demystified the philosophy for Western audiences. His works in the early 1900s corrected misconceptions. This paved the way for modern interest in Tantra Yoga.",
+      "difficulty": "beginner",
+      "tags": ["west", "introduction"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q11",
+      "learningUnitId": "origins_and_history",
+      "question": "What role did the Gupta Empire play in Tantra's development?",
+      "correctAnswer": "It provided a cultural flourishing period",
+      "hint": "A golden age in India.",
+      "explanation": "The Gupta Empire (4th-6th centuries CE) fostered arts and philosophy, allowing Tantra to emerge. Temples and texts from this era show Tantric influences. This stability helped integrate Tantra into mainstream spirituality.",
+      "difficulty": "beginner",
+      "tags": ["empire", "gupta"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q12",
+      "learningUnitId": "origins_and_history",
+      "question": "Which ancient text is considered a foundational Tantric scripture?",
+      "correctAnswer": "Vijnana Bhairava Tantra",
+      "hint": "It contains 112 meditation techniques.",
+      "explanation": "The Vijnana Bhairava Tantra is a key Shaiva text from around 850 CE, outlining dharanas for realization. It exemplifies non-dual Tantra. This scripture influenced later yogic practices.",
+      "difficulty": "beginner",
+      "tags": ["texts", "scripture"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q13",
+      "learningUnitId": "origins_and_history",
+      "question": "How did colonial rule affect Tantra in India?",
+      "correctAnswer": "It led to suppression and misconceptions",
+      "hint": "British views distorted it.",
+      "explanation": "Under British colonial rule, Tantra was labeled as superstitious or immoral, leading to its marginalization. This created lasting stereotypes. Post-independence, efforts revived authentic teachings.",
+      "difficulty": "beginner",
+      "tags": ["colonialism", "suppression"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q14",
+      "learningUnitId": "origins_and_history",
+      "question": "What is the significance of Kashmir in Tantra's history?",
+      "correctAnswer": "Center of Kashmir Shaivism",
+      "hint": "A non-dualistic Tantric school.",
+      "explanation": "Kashmir was home to Kashmir Shaivism, a Tantric philosophy from the 8th-11th centuries emphasizing direct realization. Thinkers like Abhinavagupta flourished there. This school integrated aesthetics and spirituality.",
+      "difficulty": "beginner",
+      "tags": ["kashmir", "shaivism"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q15",
+      "learningUnitId": "origins_and_history",
+      "question": "Who was Abhinavagupta?",
+      "correctAnswer": "A prominent Tantric philosopher",
+      "hint": "He wrote Tantraloka.",
+      "explanation": "Abhinavagupta (10th-11th century) synthesized Tantric teachings in works like Tantraloka. He advanced non-dual philosophy. His contributions made Tantra more systematic and accessible.",
+      "difficulty": "beginner",
+      "tags": ["philosophers", "abhinavagupta"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q16",
+      "learningUnitId": "origins_and_history",
+      "question": "What distinguishes Left-Hand from Right-Hand Tantra historically?",
+      "correctAnswer": "Use of taboo practices vs. symbolic ones",
+      "hint": "Vamachara vs. Dakshinachara.",
+      "explanation": "Left-Hand (Vamachara) Tantra involved literal rituals with taboos like meat and wine, while Right-Hand used symbols. This division emerged in medieval India. Both aim at transcendence but differ in approach.",
+      "difficulty": "beginner",
+      "tags": ["paths", "left_right"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q17",
+      "learningUnitId": "origins_and_history",
+      "question": "How did Tantra influence Hatha Yoga?",
+      "correctAnswer": "Provided energetic and postural foundations",
+      "hint": "Kundalini and asanas.",
+      "explanation": "Tantra introduced concepts like chakras and kundalini, which Hatha Yoga adopted for physical practices. This occurred around the 11th century. Hatha became a preparatory step for Tantric meditation.",
+      "difficulty": "beginner",
+      "tags": ["influence", "hatha"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q18",
+      "learningUnitId": "origins_and_history",
+      "question": "What was the role of gurus in early Tantra?",
+      "correctAnswer": "Transmitters of secret knowledge",
+      "hint": "Initiation was key.",
+      "explanation": "Gurus in Tantra historically initiated disciples into esoteric practices, ensuring oral transmission. This lineage system preserved teachings. It emphasized personal guidance over scriptural study alone.",
+      "difficulty": "beginner",
+      "tags": ["gurus", "transmission"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q19",
+      "learningUnitId": "origins_and_history",
+      "question": "Which dynasty supported Tantric arts and architecture?",
+      "correctAnswer": "Pala Dynasty",
+      "hint": "In eastern India, 8th-12th centuries.",
+      "explanation": "The Pala Dynasty patronized Buddhist Tantra, building monasteries like Vikramashila. This fostered Tantric scholarship. Their rule saw the peak of Vajrayana art.",
+      "difficulty": "beginner",
+      "tags": ["dynasty", "pala"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q20",
+      "learningUnitId": "origins_and_history",
+      "question": "How has modern Tantra evolved from its origins?",
+      "correctAnswer": "Incorporated psychological and therapeutic elements",
+      "hint": "Influenced by Western thought.",
+      "explanation": "Modern Tantra, popularized in the 20th century, blends ancient practices with psychology, focusing on relationships and healing. Figures like Osho contributed. This evolution made it more accessible globally.",
+      "difficulty": "beginner",
+      "tags": ["modern", "evolution"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q21",
+      "learningUnitId": "origins_and_history",
+      "question": "What is Kaula Tantra?",
+      "correctAnswer": "A family-based Tantric tradition",
+      "hint": "Emphasizes clan worship.",
+      "explanation": "Kaula Tantra, from the 9th century, involves group rituals and Shakti worship within lineages. It integrates worldly life with spirituality. This school influenced many regional practices.",
+      "difficulty": "beginner",
+      "tags": ["schools", "kaula"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q22",
+      "learningUnitId": "origins_and_history",
+      "question": "Who was Padmasambhava?",
+      "correctAnswer": "Founder of Tibetan Tantra",
+      "hint": "Known as Guru Rinpoche.",
+      "explanation": "Padmasambhava introduced Tantric Buddhism to Tibet in the 8th century, subduing local spirits. He established the Nyingma school. His teachings form the basis of Dzogchen.",
+      "difficulty": "beginner",
+      "tags": ["figures", "padmasambhava"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q23",
+      "learningUnitId": "origins_and_history",
+      "question": "What impact did the Bhakti movement have on Tantra?",
+      "correctAnswer": "Integrated devotional elements",
+      "hint": "From the 15th century onward.",
+      "explanation": "The Bhakti movement's emphasis on devotion influenced Tantra by softening its esoteric aspects. This led to more accessible practices. Saints like Mirabai embodied this fusion.",
+      "difficulty": "beginner",
+      "tags": ["movements", "bhakti"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q24",
+      "learningUnitId": "origins_and_history",
+      "question": "Which text is a key source for Tantric cosmology?",
+      "correctAnswer": "Spanda Karikas",
+      "hint": "From Kashmir Shaivism.",
+      "explanation": "The Spanda Karikas (9th century) describe vibration as the essence of reality in Tantra. It explains creation through divine pulsation. This text deepened Tantric metaphysics.",
+      "difficulty": "beginner",
+      "tags": ["texts", "cosmology"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q25",
+      "learningUnitId": "origins_and_history",
+      "question": "How did Tantra view women historically?",
+      "correctAnswer": "As embodiments of divine energy",
+      "hint": "Shakti principle.",
+      "explanation": "In Tantra, women were revered as manifestations of Shakti, contrasting patriarchal norms. This led to inclusive rituals. Such views empowered female practitioners in ancient societies.",
+      "difficulty": "beginner",
+      "tags": ["women", "shakti"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q26",
+      "learningUnitId": "origins_and_history",
+      "question": "What is the Nath tradition in Tantra?",
+      "correctAnswer": "A yogic order emphasizing Hatha practices",
+      "hint": "Founded by Gorakhnath.",
+      "explanation": "The Nath tradition (12th century) combined Tantra with ascetic yoga, focusing on immortality through kundalini. It bridged Shaiva and Siddha paths. Naths influenced modern yoga.",
+      "difficulty": "beginner",
+      "tags": ["traditions", "nath"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q27",
+      "learningUnitId": "origins_and_history",
+      "question": "How did Tantra reach Southeast Asia?",
+      "correctAnswer": "Through trade and cultural exchange",
+      "hint": "Via Indian merchants.",
+      "explanation": "From the 7th century, Tantra spread to places like Indonesia through trade routes, influencing Hindu-Buddhist kingdoms. Temples like Borobudur show this. It adapted to local beliefs.",
+      "difficulty": "beginner",
+      "tags": ["spread", "asia"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q28",
+      "learningUnitId": "origins_and_history",
+      "question": "Who was Lalla Ded?",
+      "correctAnswer": "A Kashmiri Tantric poetess",
+      "hint": "14th century mystic.",
+      "explanation": "Lalla Ded composed vakhs blending Shaiva Tantra and Sufism. Her poetry emphasized direct experience. She represents women's roles in Tantric history.",
+      "difficulty": "beginner",
+      "tags": ["figures", "lalla"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q29",
+      "learningUnitId": "origins_and_history",
+      "question": "What caused the revival of Tantra in the 20th century?",
+      "correctAnswer": "Interest from Western scholars and hippies",
+      "hint": "Counterculture movement.",
+      "explanation": "The 1960s counterculture rediscovered Tantra through figures like Alan Watts. This led to Neo-Tantra focusing on sexuality. Authentic lineages also gained global attention.",
+      "difficulty": "beginner",
+      "tags": ["revival", "20th_century"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q30",
+      "learningUnitId": "origins_and_history",
+      "question": "Which university was a center for Tantric studies in ancient India?",
+      "correctAnswer": "Nalanda",
+      "hint": "A Buddhist mahavihara.",
+      "explanation": "Nalanda (5th-12th centuries) taught Tantric Buddhism, attracting scholars from Asia. It preserved texts until its destruction. This institution advanced Tantric philosophy.",
+      "difficulty": "beginner",
+      "tags": ["centers", "nalanda"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q31",
+      "learningUnitId": "core_principles",
+      "question": "What is the central goal of Tantra Yoga?",
+      "correctAnswer": "Union of individual and universal consciousness",
+      "hint": "Enlightenment through integration.",
+      "explanation": "Tantra Yoga aims to realize the oneness of the self (Atman) with the divine (Brahman) by harmonizing opposites. This principle encourages embracing all life aspects. It leads to liberation while living.",
+      "difficulty": "beginner",
+      "tags": ["goal", "union"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q32",
+      "learningUnitId": "core_principles",
+      "question": "What does 'Shiva-Shakti' represent in Tantra?",
+      "correctAnswer": "Passive consciousness and active energy",
+      "hint": "Divine masculine and feminine.",
+      "explanation": "Shiva is pure awareness, while Shakti is creative power; their union creates the universe. This duality is central to Tantra. Balancing them awakens inner potential.",
+      "difficulty": "beginner",
+      "tags": ["shiva_shakti", "duality"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q33",
+      "learningUnitId": "core_principles",
+      "question": "What is Kundalini in Tantra Yoga?",
+      "correctAnswer": "Dormant spiritual energy at the base of the spine",
+      "hint": "Coiled like a serpent.",
+      "explanation": "Kundalini is the primal energy that, when awakened, rises through chakras to unite with Shiva. This process leads to enlightenment. Practices like pranayama facilitate its rise.",
+      "difficulty": "beginner",
+      "tags": ["kundalini", "energy"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q34",
+      "learningUnitId": "core_principles",
+      "question": "How many main chakras are there in Tantra?",
+      "correctAnswer": "Seven",
+      "hint": "Energy centers along the spine.",
+      "explanation": "The seven chakras are vortexes of energy from muladhara to sahasrara, each governing aspects of life. Balancing them is key in Tantra. This system maps psycho-spiritual growth.",
+      "difficulty": "beginner",
+      "tags": ["chakras", "seven"],
+      "timeLimit": 20
+    },
+    {
+      "id": "q35",
+      "learningUnitId": "core_principles",
+      "question": "What is the principle of non-duality in Tantra?",
+      "correctAnswer": "Everything is divine consciousness",
+      "hint": "No separation between self and universe.",
+      "explanation": "Non-duality (Advaita) in Tantra means the world is a manifestation of one reality. This view dissolves illusions. It encourages seeing sacredness in all.",
+      "difficulty": "beginner",
+      "tags": ["non_duality", "advaita"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q36",
+      "learningUnitId": "core_principles",
+      "question": "What role do mantras play in Tantra?",
+      "correctAnswer": "Vibrational tools for transformation",
+      "hint": "Sacred sounds.",
+      "explanation": "Mantras in Tantra are chanted to invoke energies and alter consciousness. They align the practitioner with divine frequencies. This practice purifies the mind and body.",
+      "difficulty": "beginner",
+      "tags": ["mantras", "vibration"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q37",
+      "learningUnitId": "core_principles",
+      "question": "What is a yantra?",
+      "correctAnswer": "Geometric diagram for meditation",
+      "hint": "Sacred geometry.",
+      "explanation": "Yantras represent cosmic principles and are used in Tantra for focusing the mind. Gazing at them activates inner energies. They symbolize the universe's structure.",
+      "difficulty": "beginner",
+      "tags": ["yantra", "geometry"],
+      "timeLimit": 20
+    },
+    {
+      "id": "q38",
+      "learningUnitId": "core_principles",
+      "question": "How does Tantra view the body?",
+      "correctAnswer": "As a temple of the divine",
+      "hint": "Not an obstacle to spirituality.",
+      "explanation": "In Tantra, the body is sacred and a vehicle for enlightenment, unlike ascetic traditions. This principle promotes body-positive practices. It integrates physical health with spiritual growth.",
+      "difficulty": "beginner",
+      "tags": ["body", "temple"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q39",
+      "learningUnitId": "core_principles",
+      "question": "What is the concept of Maya in Tantra?",
+      "correctAnswer": "Creative illusion of the divine",
+      "hint": "Not mere delusion.",
+      "explanation": "Maya is Shakti's power to manifest the world, seen as real and divine in Tantra. This differs from Vedanta's view. Understanding Maya leads to appreciation of existence.",
+      "difficulty": "beginner",
+      "tags": ["maya", "illusion"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q40",
+      "learningUnitId": "core_principles",
+      "question": "What are the three gunas in Tantra?",
+      "correctAnswer": "Sattva, Rajas, Tamas",
+      "hint": "Qualities of nature.",
+      "explanation": "The gunas are fundamental qualities: sattva (purity), rajas (activity), tamas (inertia). Tantra teaches balancing them for harmony. This principle applies to diet, behavior, and meditation.",
+      "difficulty": "beginner",
+      "tags": ["gunas", "qualities"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q41",
+      "learningUnitId": "core_principles",
+      "question": "What is Prana in Tantra Yoga?",
+      "correctAnswer": "Life force energy",
+      "hint": "Circulates through nadis.",
+      "explanation": "Prana is the vital energy sustaining life, controlled through breathwork in Tantra. Balancing prana awakens higher states. It's essential for kundalini practices.",
+      "difficulty": "beginner",
+      "tags": ["prana", "energy"],
+      "timeLimit": 20
+    },
+    {
+      "id": "q42",
+      "learningUnitId": "core_principles",
+      "question": "How many primary nadis are there?",
+      "correctAnswer": "Three",
+      "hint": "Ida, Pingala, Sushumna.",
+      "explanation": "The three main nadis channel prana: ida (lunar), pingala (solar), sushumna (central). Tantra focuses on purifying them. This balance leads to spiritual awakening.",
+      "difficulty": "beginner",
+      "tags": ["nadis", "channels"],
+      "timeLimit": 20
+    },
+    {
+      "id": "q43",
+      "learningUnitId": "core_principles",
+      "question": "What is the role of ritual in Tantra?",
+      "correctAnswer": "To invoke divine energies",
+      "hint": "Puja and ceremonies.",
+      "explanation": "Rituals in Tantra symbolize inner processes and connect to the divine. They transform ordinary actions into sacred ones. This practice cultivates mindfulness and devotion.",
+      "difficulty": "beginner",
+      "tags": ["ritual", "puja"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q44",
+      "learningUnitId": "core_principles",
+      "question": "What does 'Tantric sex' truly represent?",
+      "correctAnswer": "Sacred union of energies",
+      "hint": "Beyond physical pleasure.",
+      "explanation": "In Tantra, sex is a meditative act uniting Shiva and Shakti for spiritual growth. It's about energy exchange, not indulgence. This principle teaches control and transcendence.",
+      "difficulty": "beginner",
+      "tags": ["sex", "union"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q45",
+      "learningUnitId": "core_principles",
+      "question": "What is Samadhi in Tantra?",
+      "correctAnswer": "State of blissful absorption",
+      "hint": "Ultimate meditation goal.",
+      "explanation": "Samadhi is union with the divine, achieved through Tantric practices. It transcends ego. This state brings profound insight and peace.",
+      "difficulty": "beginner",
+      "tags": ["samadhi", "absorption"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q46",
+      "learningUnitId": "core_principles",
+      "question": "How does Tantra approach desires?",
+      "correctAnswer": "Transforms them into spiritual fuel",
+      "hint": "Not suppression.",
+      "explanation": "Tantra uses desires as paths to enlightenment, channeling them consciously. This contrasts with renunciation. It promotes fulfillment without attachment.",
+      "difficulty": "beginner",
+      "tags": ["desires", "transformation"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q47",
+      "learningUnitId": "core_principles",
+      "question": "What is the Muladhara chakra associated with?",
+      "correctAnswer": "Survival and grounding",
+      "hint": "Base chakra.",
+      "explanation": "Muladhara, at the spine's base, governs basic needs and stability. In Tantra, activating it builds foundation. It's linked to earth element.",
+      "difficulty": "beginner",
+      "tags": ["chakras", "muladhara"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q48",
+      "learningUnitId": "core_principles",
+      "question": "What is Bindu in Tantra?",
+      "correctAnswer": "Point of concentrated energy",
+      "hint": "Often visualized in meditation.",
+      "explanation": "Bindu represents the seed of creation, used in visualizations. It symbolizes unity. Focusing on bindu leads to higher consciousness.",
+      "difficulty": "beginner",
+      "tags": ["bindu", "energy"],
+      "timeLimit": 20
+    },
+    {
+      "id": "q49",
+      "learningUnitId": "core_principles",
+      "question": "How does Tantra view the guru-disciple relationship?",
+      "correctAnswer": "Essential for transmission of knowledge",
+      "hint": "Initiation process.",
+      "explanation": "The guru imparts shaktipat, awakening energy in the disciple. This bond is sacred. It ensures authentic guidance in practices.",
+      "difficulty": "beginner",
+      "tags": ["guru", "disciple"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q50",
+      "learningUnitId": "core_principles",
+      "question": "What is the Sahasrara chakra?",
+      "correctAnswer": "Crown chakra of enlightenment",
+      "hint": "Top of the head.",
+      "explanation": "Sahasrara connects to universal consciousness, blooming like a lotus. In Tantra, its opening signifies liberation. It's beyond elements.",
+      "difficulty": "beginner",
+      "tags": ["chakras", "sahasrara"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q51",
+      "learningUnitId": "core_principles",
+      "question": "What are Mudras in Tantra?",
+      "correctAnswer": "Hand gestures to direct energy",
+      "hint": "Used in rituals.",
+      "explanation": "Mudras seal and channel prana during practices. They enhance meditation. Each mudra has specific effects on mind and body.",
+      "difficulty": "beginner",
+      "tags": ["mudras", "gestures"],
+      "timeLimit": 20
+    },
+    {
+      "id": "q52",
+      "learningUnitId": "core_principles",
+      "question": "What is the principle of Spanda?",
+      "correctAnswer": "Divine vibration of the universe",
+      "hint": "From Kashmir Shaivism.",
+      "explanation": "Spanda is the subtle pulsation underlying all existence. Recognizing it leads to awareness. This concept explains creation's dynamic nature.",
+      "difficulty": "beginner",
+      "tags": ["spanda", "vibration"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q53",
+      "learningUnitId": "core_principles",
+      "question": "How does Tantra integrate the five elements?",
+      "correctAnswer": "As building blocks of body and cosmos",
+      "hint": "Earth, water, fire, air, ether.",
+      "explanation": "The pancha mahabhutas are balanced in Tantra for harmony. Practices attune to them. This holistic view connects microcosm and macrocosm.",
+      "difficulty": "beginner",
+      "tags": ["elements", "pancha"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q54",
+      "learningUnitId": "core_principles",
+      "question": "What is Nyasa?",
+      "correctAnswer": "Placing mantras on the body",
+      "hint": "A ritual practice.",
+      "explanation": "Nyasa infuses the body with divine energy through touch and sound. It purifies and energizes. This technique prepares for deeper meditation.",
+      "difficulty": "beginner",
+      "tags": ["nyasa", "ritual"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q55",
+      "learningUnitId": "core_principles",
+      "question": "What does 'Laya Yoga' mean in Tantra?",
+      "correctAnswer": "Dissolution through absorption",
+      "hint": "Merging with the divine.",
+      "explanation": "Laya Yoga dissolves the ego by absorbing energies into higher chakras. It's a Tantric path to samadhi. Practices include sound and visualization.",
+      "difficulty": "beginner",
+      "tags": ["laya", "dissolution"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q56",
+      "learningUnitId": "core_principles",
+      "question": "What is the Anahata chakra associated with?",
+      "correctAnswer": "Love and compassion",
+      "hint": "Heart center.",
+      "explanation": "Anahata governs emotions and relationships. In Tantra, opening it fosters unity. It's linked to air element.",
+      "difficulty": "beginner",
+      "tags": ["chakras", "anahata"],
+      "timeLimit": 20
+    },
+    {
+      "id": "q57",
+      "learningUnitId": "core_principles",
+      "question": "How does Tantra define liberation?",
+      "correctAnswer": "Jivanmukti - freedom while alive",
+      "hint": "Not after death.",
+      "explanation": "Jivanmukti is realizing enlightenment in this life, enjoying freedom amid worldly duties. Tantra emphasizes this practical liberation. It integrates spirituality with daily living.",
+      "difficulty": "beginner",
+      "tags": ["liberation", "jivanmukti"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q58",
+      "learningUnitId": "core_principles",
+      "question": "What is Shaktipat?",
+      "correctAnswer": "Transmission of energy from guru",
+      "hint": "Awakening initiation.",
+      "explanation": "Shaktipat awakens kundalini through the guru's grace. It can occur via touch or glance. This accelerates spiritual progress.",
+      "difficulty": "beginner",
+      "tags": ["shaktipat", "transmission"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q59",
+      "learningUnitId": "core_principles",
+      "question": "What role does breath play in Tantra?",
+      "correctAnswer": "Vehicle for prana control",
+      "hint": "Pranayama techniques.",
+      "explanation": "Breath regulates energy flow, calming the mind. Tantric pranayama awakens subtle forces. It's foundational for all practices.",
+      "difficulty": "beginner",
+      "tags": ["breath", "pranayama"],
+      "timeLimit": 20
+    },
+    {
+      "id": "q60",
+      "learningUnitId": "core_principles",
+      "question": "What is the Vishuddha chakra?",
+      "correctAnswer": "Throat chakra of communication",
+      "hint": "Expression center.",
+      "explanation": "Vishuddha governs truth and creativity. Balancing it enhances clear speech. In Tantra, it's key for mantra efficacy.",
+      "difficulty": "beginner",
+      "tags": ["chakras", "vishuddha"],
+      "timeLimit": 25
+    }
+  ]
+}

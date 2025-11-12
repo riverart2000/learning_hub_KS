@@ -1,0 +1,474 @@
+{
+  "categories": [
+    {
+      "id": "kashmir_shaivism_sanskrit_terms",
+      "name": "Kashmir Shaivism Sanskrit: Words, Meanings & Translations",
+      "description": "Master key Sanskrit terms in Kashmir Shaivism with accurate meanings, context, and English translations.",
+      "icon": "book"
+    }
+  ],
+  "subcategories": [
+    {
+      "id": "core_concepts_sanskrit_meanings",
+      "categoryId": "kashmir_shaivism_sanskrit_terms",
+      "name": "Core Concepts & Deities",
+      "description": "Learn foundational Sanskrit words representing the essence and deities of Kashmir Shaivism."
+    },
+    {
+      "id": "philosophical_terms_translations",
+      "categoryId": "kashmir_shaivism_sanskrit_terms",
+      "name": "Philosophical & Technical Terms",
+      "description": "Understand advanced philosophical terms describing metaphysics, consciousness, and realization."
+    }
+  ],
+  "learningUnits": [
+    {
+      "id": "core_concepts_sanskrit_meanings",
+      "subCategoryId": "core_concepts_sanskrit_meanings",
+      "type": "mixed",
+      "title": "Core Concepts & Deities",
+      "content": {},
+      "difficulty": "beginner",
+      "tags": [
+        "sanskrit",
+        "shaivism",
+        "core_concepts"
+      ]
+    },
+    {
+      "id": "philosophical_terms_translations",
+      "subCategoryId": "philosophical_terms_translations",
+      "type": "mixed",
+      "title": "Philosophical & Technical Terms",
+      "content": {},
+      "difficulty": "beginner",
+      "tags": [
+        "sanskrit",
+        "shaivism",
+        "philosophy"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "learningUnitId": "core_concepts_sanskrit_meanings",
+      "question": "Translate 'Śiva' in Kashmir Shaivism.",
+      "correctAnswer": "Pure Consciousness or Supreme Reality",
+      "hint": "Think beyond deity—universal awareness.",
+      "explanation": "In Kashmir Shaivism, Śiva represents the absolute, unchanging awareness that underlies all experience.",
+      "difficulty": "beginner",
+      "tags": [
+        "core",
+        "consciousness"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q2",
+      "learningUnitId": "core_concepts_sanskrit_meanings",
+      "question": "What is the Sanskrit word for 'Divine Energy' inseparable from Śiva?",
+      "correctAnswer": "Śakti",
+      "hint": "Dynamic aspect of pure consciousness.",
+      "explanation": "Śakti is the creative, expressive power of Śiva—consciousness in motion.",
+      "difficulty": "beginner",
+      "tags": [
+        "core",
+        "energy"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q3",
+      "learningUnitId": "core_concepts_sanskrit_meanings",
+      "question": "Meaning of 'Spanda'?",
+      "correctAnswer": "Vibration or Divine Pulsation",
+      "hint": "Subtle movement within stillness.",
+      "explanation": "Spanda is the innate vibration within consciousness that creates all manifestation.",
+      "difficulty": "beginner",
+      "tags": [
+        "core",
+        "spanda"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q4",
+      "learningUnitId": "core_concepts_sanskrit_meanings",
+      "question": "Translate 'Prakāśa'.",
+      "correctAnswer": "Light or Illumination",
+      "hint": "Refers to awareness itself.",
+      "explanation": "Prakāśa means the self-luminous light of consciousness—the radiance of Śiva.",
+      "difficulty": "beginner",
+      "tags": [
+        "core",
+        "light"
+      ],
+      "timeLimit": 30
+    },
+    {
+      "id": "q5",
+      "learningUnitId": "core_concepts_sanskrit_meanings",
+      "question": "Translate 'Vimarśa'.",
+      "correctAnswer": "Reflective Awareness or Self-Recognition",
+      "hint": "Awareness reflecting on itself.",
+      "explanation": "Vimarśa is consciousness’s power to know itself. It’s the self-reflexive aspect of awareness.",
+      "difficulty": "beginner",
+      "tags": [
+        "core",
+        "reflection"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q6",
+      "learningUnitId": "core_concepts_sanskrit_meanings",
+      "question": "Meaning of 'Paramaśiva'?",
+      "correctAnswer": "Supreme Śiva or Absolute Reality",
+      "hint": "Beyond duality or attributes.",
+      "explanation": "Paramaśiva is the transcendent essence—pure being beyond thought or differentiation.",
+      "difficulty": "beginner",
+      "tags": [
+        "core",
+        "absolute"
+      ],
+      "timeLimit": 45
+    },
+    {
+      "id": "q7",
+      "learningUnitId": "core_concepts_sanskrit_meanings",
+      "question": "Translate 'Cit' (चित्).",
+      "correctAnswer": "Consciousness",
+      "hint": "Awareness itself, not the contents of awareness.",
+      "explanation": "Cit is the pure, all-pervading awareness present in every experience.",
+      "difficulty": "beginner",
+      "tags": [
+        "core",
+        "awareness"
+      ],
+      "timeLimit": 25
+    },
+    {
+      "id": "q8",
+      "learningUnitId": "core_concepts_sanskrit_meanings",
+      "question": "Meaning of 'Ānanda'?",
+      "correctAnswer": "Bliss",
+      "hint": "Intrinsic joy of being.",
+      "explanation": "Ānanda is the bliss that naturally arises from pure consciousness, not dependent on external conditions.",
+      "difficulty": "beginner",
+      "tags": [
+        "core",
+        "bliss"
+      ],
+      "timeLimit": 25
+    },
+    {
+      "id": "q9",
+      "learningUnitId": "core_concepts_sanskrit_meanings",
+      "question": "Translate 'Icchā Śakti'.",
+      "correctAnswer": "Power of Will",
+      "hint": "The intention within consciousness.",
+      "explanation": "Icchā Śakti represents divine desire—the will of consciousness to manifest itself.",
+      "difficulty": "beginner",
+      "tags": [
+        "energy",
+        "will"
+      ],
+      "timeLimit": 30
+    },
+    {
+      "id": "q10",
+      "learningUnitId": "core_concepts_sanskrit_meanings",
+      "question": "Translate 'Kriyā Śakti'.",
+      "correctAnswer": "Power of Action",
+      "hint": "Manifesting force of creation.",
+      "explanation": "Kriyā Śakti is the power that brings consciousness’s intention into material expression.",
+      "difficulty": "beginner",
+      "tags": [
+        "energy",
+        "action"
+      ],
+      "timeLimit": 30
+    },
+    {
+      "id": "q11",
+      "learningUnitId": "core_concepts_sanskrit_meanings",
+      "question": "Translate 'Jñāna Śakti'.",
+      "correctAnswer": "Power of Knowledge",
+      "hint": "The knowing faculty within consciousness.",
+      "explanation": "Jñāna Śakti reveals divine wisdom—consciousness knowing itself and its creation.",
+      "difficulty": "beginner",
+      "tags": [
+        "energy",
+        "knowledge"
+      ],
+      "timeLimit": 30
+    },
+    {
+      "id": "q12",
+      "learningUnitId": "core_concepts_sanskrit_meanings",
+      "question": "Translate 'Aham' (अहम्).",
+      "correctAnswer": "I-consciousness or I-am-ness",
+      "hint": "The first vibration of awareness.",
+      "explanation": "Aham is the primordial 'I' from which self-awareness and all differentiation emerge.",
+      "difficulty": "beginner",
+      "tags": [
+        "core",
+        "identity"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q13",
+      "learningUnitId": "core_concepts_sanskrit_meanings",
+      "question": "Meaning of 'Śūnya'?",
+      "correctAnswer": "Emptiness or Void",
+      "hint": "Not nothingness—potential fullness.",
+      "explanation": "Śūnya represents the dynamic void—pregnant with potential rather than mere absence.",
+      "difficulty": "beginner",
+      "tags": [
+        "core",
+        "void"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q14",
+      "learningUnitId": "core_concepts_sanskrit_meanings",
+      "question": "Translate 'Sadāśiva'.",
+      "correctAnswer": "I-am-This awareness",
+      "hint": "Unity with subtle distinction.",
+      "explanation": "Sadāśiva is the stage where awareness recognizes its own reflection within creation.",
+      "difficulty": "beginner",
+      "tags": [
+        "core",
+        "unity"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q15",
+      "learningUnitId": "core_concepts_sanskrit_meanings",
+      "question": "Meaning of 'Anuttara'?",
+      "correctAnswer": "The Highest, Nothing Beyond",
+      "hint": "Absolute reality itself.",
+      "explanation": "Anuttara is the supreme state beyond all duality—ultimate consciousness as both immanent and transcendent.",
+      "difficulty": "beginner",
+      "tags": [
+        "core",
+        "absolute"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q16",
+      "learningUnitId": "philosophical_terms_translations",
+      "question": "Translate 'Upāya'.",
+      "correctAnswer": "Means or Method",
+      "hint": "Pathway to realization.",
+      "explanation": "Upāya refers to a spiritual method. Kashmir Shaivism teaches four—Āṇava, Śākta, Śāmbhava, and Anupāya.",
+      "difficulty": "beginner",
+      "tags": [
+        "method",
+        "path"
+      ],
+      "timeLimit": 30
+    },
+    {
+      "id": "q17",
+      "learningUnitId": "philosophical_terms_translations",
+      "question": "Meaning of 'Āṇava Upāya'?",
+      "correctAnswer": "Path of Effort or Individual Discipline",
+      "hint": "Practice relying on the limited self.",
+      "explanation": "Āṇava Upāya includes physical and mental techniques for concentration, suited for beginners.",
+      "difficulty": "beginner",
+      "tags": [
+        "path",
+        "discipline"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q18",
+      "learningUnitId": "philosophical_terms_translations",
+      "question": "Translate 'Śākta Upāya'.",
+      "correctAnswer": "Path of Awareness or Energy",
+      "hint": "Realization through subtle perception.",
+      "explanation": "Śākta Upāya uses awareness of thought and emotion to recognize divine consciousness within experience.",
+      "difficulty": "beginner",
+      "tags": [
+        "path",
+        "awareness"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q19",
+      "learningUnitId": "philosophical_terms_translations",
+      "question": "Meaning of 'Śāmbhava Upāya'?",
+      "correctAnswer": "Path of Pure Will",
+      "hint": "Effortless realization.",
+      "explanation": "Śāmbhava Upāya is direct recognition—awareness awakening to itself without technique.",
+      "difficulty": "beginner",
+      "tags": [
+        "path",
+        "will"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q20",
+      "learningUnitId": "philosophical_terms_translations",
+      "question": "Translate 'Anupāya'.",
+      "correctAnswer": "No-method or Instant Realization",
+      "hint": "Beyond all practices.",
+      "explanation": "Anupāya is spontaneous awakening—when nothing needs to be done for realization.",
+      "difficulty": "beginner",
+      "tags": [
+        "path",
+        "realization"
+      ],
+      "timeLimit": 30
+    },
+    {
+      "id": "q21",
+      "learningUnitId": "philosophical_terms_translations",
+      "question": "Meaning of 'Pratyabhijñā'?",
+      "correctAnswer": "Recognition or Re-cognition",
+      "hint": "Remembering true identity as Śiva.",
+      "explanation": "Pratyabhijñā doctrine teaches liberation through recognizing one’s nature as divine consciousness.",
+      "difficulty": "beginner",
+      "tags": [
+        "doctrine",
+        "recognition"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q22",
+      "learningUnitId": "philosophical_terms_translations",
+      "question": "Translate 'Mokṣa'.",
+      "correctAnswer": "Liberation",
+      "hint": "Freedom from limitation.",
+      "explanation": "Mokṣa is realizing you were never bound—awakening to the truth of your divine nature.",
+      "difficulty": "beginner",
+      "tags": [
+        "goal",
+        "liberation"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q23",
+      "learningUnitId": "philosophical_terms_translations",
+      "question": "Translate 'Malas'.",
+      "correctAnswer": "Impurities or Limitations",
+      "hint": "Obscurations of awareness.",
+      "explanation": "Malas are the coverings (āṇava, māyīya, kārma) that restrict perception of our divine self.",
+      "difficulty": "beginner",
+      "tags": [
+        "impurity",
+        "obstruction"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q24",
+      "learningUnitId": "philosophical_terms_translations",
+      "question": "Meaning of 'Āṇava Mala'?",
+      "correctAnswer": "Limitation of Smallness",
+      "hint": "Feeling separate from the whole.",
+      "explanation": "Āṇava Mala causes the sense of individual incompleteness or ego-based limitation.",
+      "difficulty": "beginner",
+      "tags": [
+        "impurity",
+        "ego"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q25",
+      "learningUnitId": "philosophical_terms_translations",
+      "question": "Meaning of 'Māyīya Mala'?",
+      "correctAnswer": "Illusion of Difference",
+      "hint": "Creates duality within oneness.",
+      "explanation": "Māyīya Mala makes the one consciousness appear as many distinct entities.",
+      "difficulty": "beginner",
+      "tags": [
+        "impurity",
+        "illusion"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q26",
+      "learningUnitId": "philosophical_terms_translations",
+      "question": "Translate 'Kārma Mala'.",
+      "correctAnswer": "Impurity of Action",
+      "hint": "Binding through doing.",
+      "explanation": "Kārma Mala binds beings through identification with personal actions and their fruits.",
+      "difficulty": "beginner",
+      "tags": [
+        "impurity",
+        "action"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q27",
+      "learningUnitId": "philosophical_terms_translations",
+      "question": "Translate 'Tattva'.",
+      "correctAnswer": "Principle or Element of Reality",
+      "hint": "Building blocks of existence.",
+      "explanation": "The 36 Tattvas outline the process from pure consciousness to material manifestation.",
+      "difficulty": "beginner",
+      "tags": [
+        "principle",
+        "structure"
+      ],
+      "timeLimit": 40
+    },
+    {
+      "id": "q28",
+      "learningUnitId": "philosophical_terms_translations",
+      "question": "Meaning of 'Śiva-Śakti Aikya'?",
+      "correctAnswer": "Unity of Śiva and Śakti",
+      "hint": "No separation between stillness and motion.",
+      "explanation": "Śiva-Śakti Aikya expresses the inseparability of consciousness and its creative energy.",
+      "difficulty": "beginner",
+      "tags": [
+        "unity",
+        "principle"
+      ],
+      "timeLimit": 35
+    },
+    {
+      "id": "q29",
+      "learningUnitId": "philosophical_terms_translations",
+      "question": "Translate 'Caitanya'.",
+      "correctAnswer": "Living Consciousness",
+      "hint": "Dynamic intelligence within all beings.",
+      "explanation": "Caitanya is pure, living awareness—the essence that animates the universe.",
+      "difficulty": "beginner",
+      "tags": [
+        "consciousness",
+        "life"
+      ],
+      "timeLimit": 30
+    },
+    {
+      "id": "q30",
+      "learningUnitId": "philosophical_terms_translations",
+      "question": "Meaning of 'Samvit'?",
+      "correctAnswer": "Universal Consciousness",
+      "hint": "Awareness beyond subject-object division.",
+      "explanation": "Samvit is unbounded, self-aware consciousness—identical with Śiva itself.",
+      "difficulty": "beginner",
+      "tags": [
+        "consciousness",
+        "universal"
+      ],
+      "timeLimit": 35
+    }
+  ]
+}

@@ -1,0 +1,706 @@
+{
+  "categories": [
+    {
+      "id": "tantra_yoga_asanas",
+      "name": "Tantra Yoga Asanas",
+      "description": "Explore foundational Tantra Yoga postures through their authentic Sanskrit names and meanings. This category emphasizes symbolic, energetic, and ritual dimensions of asanas as described in classical Tantric texts, not just physical alignment.",
+      "icon": "psychology"
+    }
+  ],
+  "subcategories": [
+    {
+      "id": "sitting_asanas",
+      "categoryId": "tantra_yoga_asanas",
+      "name": "Sitting Asanas (Āsanas for Meditation & Prāṇāyāma)",
+      "description": "Postures traditionally used for meditation, mantra repetition, and prāṇāyāma in Tantra Yoga—designed to stabilize the spine and awaken kuṇḍalinī."
+    },
+    {
+      "id": "symbolic_asanas",
+      "categoryId": "tantra_yoga_asanas",
+      "name": "Symbolic Asanas (Mudrā & Yantra-Inspired Postures)",
+      "description": "Asanas embodying Tantric deities, cosmic principles, or yantra geometry—used in ritual (pūjā) and visualization (bhāvanā) practices."
+    }
+  ],
+  "learningUnits": [
+    {
+      "id": "sitting_asanas",
+      "subCategoryId": "sitting_asanas",
+      "type": "mixed",
+      "title": "Sitting Asanas (Āsanas for Meditation & Prāṇāyāma)",
+      "content": {},
+      "difficulty": "beginner",
+      "tags": ["meditation", "pranayama", "spine", "muladhara", "svadhisthana"]
+    },
+    {
+      "id": "symbolic_asanas",
+      "subCategoryId": "symbolic_asanas",
+      "type": "mixed",
+      "title": "Symbolic Asanas (Mudrā & Yantra-Inspired Postures)",
+      "content": {},
+      "difficulty": "beginner",
+      "tags": ["ritual", "deity", "yantra", "visualization", "energetic"]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "learningUnitId": "sitting_asanas",
+      "question": "What is the English translation of 'Siddhāsana'?",
+      "correctAnswer": "Accomplished Pose",
+      "hint": "Think of 'siddha' meaning 'perfected being' or 'adept'.",
+      "explanation": "Siddhāsana is named after the 'siddhas'—enlightened masters who attained perfection through yoga. In Tantra, it is said to awaken kuṇḍalinī and seal the bindu (vital essence) at the crown.",
+      "difficulty": "beginner",
+      "tags": ["meditation", "classical"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q2",
+      "learningUnitId": "sitting_asanas",
+      "question": "What does 'Padmāsana' literally mean?",
+      "correctAnswer": "Lotus Pose",
+      "hint": "The word 'padma' appears in many Indian spiritual terms.",
+      "explanation": "'Padma' means lotus—a symbol of purity and spiritual unfolding in Tantra. Padmāsana represents the lotus of the heart (anāhata) and is used for deep meditation and prāṇāyāma.",
+      "difficulty": "beginner",
+      "tags": ["meditation", "symbolism"],
+      "timeLimit": 20
+    },
+    {
+      "id": "q3",
+      "learningUnitId": "sitting_asanas",
+      "question": "Which asana is known as 'Thunderbolt Pose'?",
+      "correctAnswer": "Vajrāsana",
+      "hint": "The Sanskrit word 'vajra' means thunderbolt or diamond.",
+      "explanation": "Vajrāsana is named after Indra's celestial weapon. In Tantra, 'vajra' also symbolizes indestructible wisdom and the masculine principle (Śiva). This pose aids digestion and is used after meals in some lineages.",
+      "difficulty": "beginner",
+      "tags": ["posture", "digestion", "symbolism"],
+      "timeLimit": 22
+    },
+    {
+      "id": "q4",
+      "learningUnitId": "sitting_asanas",
+      "question": "What is 'Bhadrāsana' translated as?",
+      "correctAnswer": "Auspicious Pose",
+      "hint": "'Bhadra' relates to auspiciousness—like in 'Bhadrapada', an auspicious lunar month.",
+      "explanation": "Also called 'Gorakṣāsana' in some texts, Bhadrāsana is considered highly auspicious for tantric sādhana (practice). It stimulates the pelvic floor and is conducive to mūla bandha.",
+      "difficulty": "beginner",
+      "tags": ["bandha", "pelvic", "auspicious"],
+      "timeLimit": 28
+    },
+    {
+      "id": "q5",
+      "learningUnitId": "sitting_asanas",
+      "question": "Which asana is called 'Easy Pose'?",
+      "correctAnswer": "Sukhāsana",
+      "hint": "'Sukha' means ease or comfort.",
+      "explanation": "Sukhāsana is recommended for beginners in meditation. Though simple, in Tantra it is valued for its ability to ground energy and prepare the practitioner for more advanced postures.",
+      "difficulty": "beginner",
+      "tags": ["beginner", "meditation"],
+      "timeLimit": 20
+    },
+    {
+      "id": "q6",
+      "learningUnitId": "sitting_asanas",
+      "question": "What is the English name for 'Muktāsana'?",
+      "correctAnswer": "Liberation Pose",
+      "hint": "'Mukti' means liberation (mokṣa).",
+      "explanation": "Muktāsana is a cross-legged posture said to free the practitioner from bondage to the senses. Some texts equate it with Siddhāsana or use it as a preparatory pose for kuṇḍalinī arousal.",
+      "difficulty": "beginner",
+      "tags": ["liberation", "tantric", "kuṇḍalinī"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q7",
+      "learningUnitId": "sitting_asanas",
+      "question": "Which asana is known as 'Seer’s Pose'?",
+      "correctAnswer": "Mālāsana",
+      "hint": "Not to be confused with Garland Pose (also called Mālāsana in modern yoga); in Tantra, it refers to a seated pose associated with sages.",
+      "explanation": "In classical Tantra, Mālāsana (from 'mālā'—garland or rosary) is the seat of the ṛṣi (seer) during japa (mantra repetition). It supports prolonged sitting with an erect spine.",
+      "difficulty": "beginner",
+      "tags": ["japa", "meditation", "ṣaḍaṅgayoga"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q8",
+      "learningUnitId": "sitting_asanas",
+      "question": "What does 'Kūrmāsana' mean?",
+      "correctAnswer": "Tortoise Pose",
+      "hint": "Kūrma is one of the avatars of Viṣṇu.",
+      "explanation": "Named after the tortoise avatar, Kūrmāsana symbolizes withdrawal of the senses (pratyāhāra). In Tantra, it is used to contain prāṇa and prepare for internal visualization.",
+      "difficulty": "beginner",
+      "tags": ["pratyahara", "withdrawal", "pranayama"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q9",
+      "learningUnitId": "sitting_asanas",
+      "question": "Which asana translates to 'Cow Face Pose'?",
+      "correctAnswer": "Gomukhāsana",
+      "hint": "Think of the shape formed by the legs resembling a cow’s face.",
+      "explanation": "Though often practiced as a seated stretch, in Tantra Gomukhāsana is used to balance idā and piṅgalā nāḍīs. The 'cow' symbolizes nourishment and the earth element.",
+      "difficulty": "beginner",
+      "tags": ["nadi", "balance", "earth"],
+      "timeLimit": 28
+    },
+    {
+      "id": "q10",
+      "learningUnitId": "sitting_asanas",
+      "question": "What is 'Virāsana' in English?",
+      "correctAnswer": "Hero Pose",
+      "hint": "'Vīra' means hero or warrior.",
+      "explanation": "Virāsana cultivates courage (vīrya)—a key tantric siddhi. It grounds the practitioner and is used in rituals requiring steadfastness and devotion.",
+      "difficulty": "beginner",
+      "tags": ["vīrya", "ritual", "steadfastness"],
+      "timeLimit": 22
+    },
+    {
+      "id": "q11",
+      "learningUnitId": "sitting_asanas",
+      "question": "Which asana is called 'Bound Angle Pose'?",
+      "correctAnswer": "Baddha Koṇāsana",
+      "hint": "‘Baddha’ = bound, ‘koṇa’ = angle.",
+      "explanation": "Though modern yoga uses it for hip opening, in Tantra Baddha Koṇāsana stimulates the yoni-mudrā and activates the svādhiṣṭhāna chakra, supporting śakti awakening.",
+      "difficulty": "beginner",
+      "tags": ["svadhisthana", "shakti", "yoni"],
+      "timeLimit": 26
+    },
+    {
+      "id": "q12",
+      "learningUnitId": "sitting_asanas",
+      "question": "What is the meaning of 'Svastikāsana'?",
+      "correctAnswer": "Auspicious Symbol Pose",
+      "hint": "It’s named after an ancient symbol—not to be confused with its 20th-century misuse.",
+      "explanation": "Svastikāsana is one of the oldest meditative postures, mentioned in the *Gheraṇḍa Saṃhitā*. The crossed-leg position mirrors the svastika yantra, representing cyclical cosmic order and stability.",
+      "difficulty": "beginner",
+      "tags": ["yantra", "cosmic", "classical"],
+      "timeLimit": 32
+    },
+    {
+      "id": "q13",
+      "learningUnitId": "sitting_asanas",
+      "question": "Which asana is known as 'Pose of the Enlightened Beings'?",
+      "correctAnswer": "Siddhāsana",
+      "hint": "Same as q1—this reinforces learning through repetition with a different phrasing.",
+      "explanation": "Siddhāsana is the seat of the Siddhas—perfected yogis. The *Haṭha Yoga Pradīpikā* (1.44) states it destroys all diseases and leads to success in yoga.",
+      "difficulty": "beginner",
+      "tags": ["siddha", "enlightenment", "classical"],
+      "timeLimit": 24
+    },
+    {
+      "id": "q14",
+      "learningUnitId": "sitting_asanas",
+      "question": "What does 'Dandasana' translate to?",
+      "correctAnswer": "Staff Pose",
+      "hint": "‘Daṇḍa’ means staff or rod.",
+      "explanation": "Dandasana is the foundation for many seated postures. In Tantra, the 'staff' symbolizes the central channel (suṣumnā nāḍī)—a straight spine is essential for prāṇa flow.",
+      "difficulty": "beginner",
+      "tags": ["foundation", "spine", "sushumna"],
+      "timeLimit": 20
+    },
+    {
+      "id": "q15",
+      "learningUnitId": "sitting_asanas",
+      "question": "Which asana is called 'Pose of the Serpent Power'?",
+      "correctAnswer": "Kuṇḍalinī Āsana",
+      "hint": "Rarely taught publicly—this is an internal, subtle posture.",
+      "explanation": "Kuṇḍalinī Āsana is not a physical shape but a *mental* alignment where the practitioner visualizes the coiled serpent at the base of the spine. It is preparatory for awakening practices.",
+      "difficulty": "beginner",
+      "tags": ["kuṇḍalinī", "visualization", "internal"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q16",
+      "learningUnitId": "sitting_asanas",
+      "question": "What is 'Vīrāsana' (variant spelling) in English?",
+      "correctAnswer": "Hero Pose",
+      "hint": "Same as q10—reinforces spelling variations in transliteration.",
+      "explanation": "Vīrāsana (with long 'ī') and Virāsana (short 'i') are the same pose. The long vowel emphasizes 'vīrya' (heroic energy), essential for tantric sādhana.",
+      "difficulty": "beginner",
+      "tags": ["spelling", "vīrya", "tantric energy"],
+      "timeLimit": 22
+    },
+    {
+      "id": "q17",
+      "learningUnitId": "sitting_asanas",
+      "question": "Which asana means 'Pose of the Crane'?",
+      "correctAnswer": "Bakāsana",
+      "hint": "‘Baka’ means crane or heron.",
+      "explanation": "Though often performed as an arm balance today, in classical Tantra, Bakāsana refers to a seated pose where the knees are lifted—symbolizing vigilance and purity (like the crane filtering water).",
+      "difficulty": "beginner",
+      "tags": ["symbolism", "vigilance", "purity"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q18",
+      "learningUnitId": "sitting_asanas",
+      "question": "What is 'Yogamudrāsana' translated as?",
+      "correctAnswer": "Yoga Seal Pose",
+      "hint": "‘Mudrā’ means seal or gesture.",
+      "explanation": "Yogamudrāsana combines forward bending with a bind, symbolizing the union of Śiva and Śakti. It is used to internalize awareness and enhance prāṇa retention.",
+      "difficulty": "beginner",
+      "tags": ["mudra", "union", "pranayama"],
+      "timeLimit": 32
+    },
+    {
+      "id": "q19",
+      "learningUnitId": "sitting_asanas",
+      "question": "Which asana is known as 'Pose of the Peacock'?",
+      "correctAnswer": "Mayūrāsana",
+      "hint": "‘Mayūra’ = peacock.",
+      "explanation": "The peacock symbolizes transformation (it eats poison but remains radiant). Mayūrāsana detoxifies and strengthens digestion—key for tantric practitioners to maintain a pure body (deha-śuddhi).",
+      "difficulty": "beginner",
+      "tags": ["detox", "transformation", "digestion"],
+      "timeLimit": 28
+    },
+    {
+      "id": "q20",
+      "learningUnitId": "sitting_asanas",
+      "question": "What does 'Guhyāsana' mean?",
+      "correctAnswer": "Secret Pose",
+      "hint": "‘Guhyā’ relates to secrecy or the hidden—like Guhyeśvarī (a form of the Goddess).",
+      "explanation": "Guhyāsana is a tantric seated posture taught only to initiates. It involves specific pelvic alignment to awaken the guhyā chakra (near mūlādhāra) and is used in kaula practices.",
+      "difficulty": "beginner",
+      "tags": ["secret", "initiation", "kaula"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q21",
+      "learningUnitId": "sitting_asanas",
+      "question": "Which asana translates to 'Pose of the Goddess'?",
+      "correctAnswer": "Devīāsana",
+      "hint": "‘Devī’ = Goddess.",
+      "explanation": "Devīāsana is a regal seated posture (often with one leg folded, one extended) used in deity meditation (devatā-bhāvanā). It invokes the presence of the Divine Feminine.",
+      "difficulty": "beginner",
+      "tags": ["goddess", "bhavana", "shakti"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q22",
+      "learningUnitId": "sitting_asanas",
+      "question": "What is 'Śālāsana' in English?",
+      "correctAnswer": "Relaxation Pose",
+      "hint": "‘Śāla’ means rest or ease—related to ‘śithila’ (relaxed).",
+      "explanation": "Śālāsana is a supported seated rest used between intense practices. In Tantra, conscious rest is vital for integrating energetic shifts without dispersion.",
+      "difficulty": "beginner",
+      "tags": ["rest", "integration", "nadi"],
+      "timeLimit": 24
+    },
+    {
+      "id": "q23",
+      "learningUnitId": "sitting_asanas",
+      "question": "Which asana is called 'Pose of the Swan'?",
+      "correctAnswer": "Haṃsāsana",
+      "hint": "‘Haṃsa’ = swan or goose—also the mantra 'haṃsa' (I am That).",
+      "explanation": "The haṃsa symbolizes discrimination (viveka)—like the mythical swan separating milk from water. Haṃsāsana supports ajapā-japa (spontaneous mantra repetition).",
+      "difficulty": "beginner",
+      "tags": ["hamsa", "discrimination", "mantra"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q24",
+      "learningUnitId": "sitting_asanas",
+      "question": "What does 'Paryaṅkāsana' mean?",
+      "correctAnswer": "Couch Pose",
+      "hint": "It’s a reclined or semi-reclined meditation posture.",
+      "explanation": "Paryaṅkāsana is used for yoga nidrā and visualization. In Tantra, reclining postures are employed for practices involving the lunar channel (idā) and dream yoga (svapna-darśana).",
+      "difficulty": "beginner",
+      "tags": ["reclined", "yoga nidra", "ida"],
+      "timeLimit": 28
+    },
+    {
+      "id": "q25",
+      "learningUnitId": "sitting_asanas",
+      "question": "Which asana is known as 'Pose of the Five Elements'?",
+      "correctAnswer": "Pañcabhūtāsana",
+      "hint": "‘Pañca’ = five, ‘bhūta’ = element.",
+      "explanation": "Pañcabhūtāsana is a ritual sequence (not a single pose) where the practitioner visualizes and embodies earth, water, fire, air, and ether—key for bhūta-śuddhi (elemental purification) in Tantra.",
+      "difficulty": "beginner",
+      "tags": ["elements", "purification", "ritual"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q26",
+      "learningUnitId": "sitting_asanas",
+      "question": "What is 'Nāgāsana' translated as?",
+      "correctAnswer": "Serpent Pose",
+      "hint": "‘Nāga’ = serpent or cobra.",
+      "explanation": "Nāgāsana is a subtle seated posture where the spine undulates slightly, mimicking the rising serpent (kuṇḍalinī). It awakens the nāga nāḍī (a minor channel associated with vitality).",
+      "difficulty": "beginner",
+      "tags": ["naga", "serpent", "subtle body"],
+      "timeLimit": 32
+    },
+    {
+      "id": "q27",
+      "learningUnitId": "sitting_asanas",
+      "question": "Which asana means 'Pose of the Moon'?",
+      "correctAnswer": "Candrāsana",
+      "hint": "‘Candra’ = moon.",
+      "explanation": "Candrāsana cools the system and activates the idā nāḍī. It is practiced during the waning moon for introspection and release—aligning with tantric lunar cycles.",
+      "difficulty": "beginner",
+      "tags": ["moon", "ida", "cooling"],
+      "timeLimit": 26
+    },
+    {
+      "id": "q28",
+      "learningUnitId": "sitting_asanas",
+      "question": "What does 'Sūryāsana' mean?",
+      "correctAnswer": "Sun Pose",
+      "hint": "‘Sūrya’ = sun.",
+      "explanation": "Sūryāsana (not to be confused with Sūryanamaskāra) is a seated gaze (trāṭaka) practice toward the sun, used to absorb solar energy (sūrya śakti) for vitality and clarity.",
+      "difficulty": "beginner",
+      "tags": ["sun", "trataka", "vitality"],
+      "timeLimit": 28
+    },
+    {
+      "id": "q29",
+      "learningUnitId": "sitting_asanas",
+      "question": "Which asana is called 'Pose of the Bell'?",
+      "correctAnswer": "Ghaṇṭāsana",
+      "hint": "‘Ghaṇṭā’ = bell—used in pūjā.",
+      "explanation": "Ghaṇṭāsana involves specific hand positioning (mudrā) mimicking a ringing bell—awakening inner sound (nāda) and signaling the start of inner ritual in Tantra.",
+      "difficulty": "beginner",
+      "tags": ["nada", "ritual", "sound"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q30",
+      "learningUnitId": "sitting_asanas",
+      "question": "What is 'Ādhyātma Āsana' in English?",
+      "correctAnswer": "Spiritual Self Pose",
+      "hint": "‘Ādhyātma’ = pertaining to the inner self (ātman).",
+      "explanation": "Ādhyātma Āsana is not a physical posture but a state of abidance in the Self—described in the *Vijñāna Bhairava Tantra* as the highest 'āsana'. It is the goal of all seated practice.",
+      "difficulty": "beginner",
+      "tags": ["non-dual", "self", "vijnana bhairava"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q31",
+      "learningUnitId": "symbolic_asanas",
+      "question": "What is the English name for 'Śavāsana'?",
+      "correctAnswer": "Corpse Pose",
+      "hint": "‘Śava’ = corpse.",
+      "explanation": "In Tantra, Śavāsana is not passive rest but ‘yogic death’—a conscious surrender to dissolve ego-identity (ahaṃkāra) and access the void (śūnya), preparing for rebirth in ritual.",
+      "difficulty": "beginner",
+      "tags": ["death", "surrender", "shunya"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q32",
+      "learningUnitId": "symbolic_asanas",
+      "question": "Which asana is known as 'Pose of the Dancing Goddess'?",
+      "correctAnswer": "Nāṭarājāsana",
+      "hint": "Nāṭarāja is Śiva as the cosmic dancer.",
+      "explanation": "Nāṭarājāsana embodies the tandava—the dance of creation and destruction. Practitioners visualize themselves as Śiva/Śakti in dynamic balance, dissolving duality.",
+      "difficulty": "beginner",
+      "tags": ["nataraja", "dance", "shiva"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q33",
+      "learningUnitId": "symbolic_asanas",
+      "question": "What does 'Trikōṇāsana' mean?",
+      "correctAnswer": "Triangle Pose",
+      "hint": "‘Tri’ = three, ‘koṇa’ = angle.",
+      "explanation": "The triangle represents the triad of creation-preservation-destruction (Brahmā-Viṣṇu-Śiva) or the three guṇas. In Tantra, it symbolizes the Śrī Yantra’s primary triangle—Śakti’s abode.",
+      "difficulty": "beginner",
+      "tags": ["yantra", "trinity", "shri yantra"],
+      "timeLimit": 28
+    },
+    {
+      "id": "q34",
+      "learningUnitId": "symbolic_asanas",
+      "question": "Which asana is called 'Warrior II Pose'?",
+      "correctAnswer": "Vīrabhadrāsana II",
+      "hint": "Named after a fierce form of Śiva.",
+      "explanation": "Vīrabhadra is Śiva’s wrathful manifestation. This pose cultivates fierce compassion (karuṇā) and destroys ignorance—key for tantric warriors (vīra) on the path.",
+      "difficulty": "beginner",
+      "tags": ["vira", "shiva", "compassion"],
+      "timeLimit": 26
+    },
+    {
+      "id": "q35",
+      "learningUnitId": "symbolic_asanas",
+      "question": "What is 'Garudāsana' translated as?",
+      "correctAnswer": "Eagle Pose",
+      "hint": "Garuḍa is Viṣṇu’s eagle mount.",
+      "explanation": "Garuḍa symbolizes freedom from saṃsāra (like the eagle soaring above). In Tantra, this pose balances opposing energies and awakens the vishuddha chakra for truth-speaking.",
+      "difficulty": "beginner",
+      "tags": ["garuda", "freedom", "vishuddha"],
+      "timeLimit": 28
+    },
+    {
+      "id": "q36",
+      "learningUnitId": "symbolic_asanas",
+      "question": "Which asana means 'Pose of the Half Moon'?",
+      "correctAnswer": "Ardha Candrāsana",
+      "hint": "‘Ardha’ = half, ‘candra’ = moon.",
+      "explanation": "The half-moon symbolizes the balance of solar and lunar energies. In Tantra, it represents the union of ha (sun) and sa (moon) in the haṃsa mantra—reflecting the practitioner’s dual nature.",
+      "difficulty": "beginner",
+      "tags": ["moon", "balance", "hamsa"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q37",
+      "learningUnitId": "symbolic_asanas",
+      "question": "What does 'Vṛkṣāsana' mean?",
+      "correctAnswer": "Tree Pose",
+      "hint": "‘Vṛkṣa’ = tree.",
+      "explanation": "The tree represents the axis mundi (world axis)—linking earth and heaven. In Tantra, Vṛkṣāsana grounds the practitioner (like roots) while opening to grace (like branches).",
+      "difficulty": "beginner",
+      "tags": ["axis", "grounding", "grace"],
+      "timeLimit": 24
+    },
+    {
+      "id": "q38",
+      "learningUnitId": "symbolic_asanas",
+      "question": "Which asana is known as 'Lord of the Dance Pose'?",
+      "correctAnswer": "Nāṭarājāsana",
+      "hint": "Same as q32—reinforces key deity association.",
+      "explanation": "Nāṭarājāsana is the dynamic embodiment of Śiva’s cosmic dance. Practicing it with bhāva (feeling) transforms movement into worship (nṛtya-pūjā).",
+      "difficulty": "beginner",
+      "tags": ["nataraja", "bhava", "pūjā"],
+      "timeLimit": 28
+    },
+    {
+      "id": "q39",
+      "learningUnitId": "symbolic_asanas",
+      "question": "What is 'Uṣṭrāsana' in English?",
+      "correctAnswer": "Camel Pose",
+      "hint": "‘Uṣṭra’ = camel.",
+      "explanation": "The camel symbolizes endurance and crossing deserts (samsāra). Uṣṭrāsana opens the heart and throat—essential for mantra siddhi and expressing divine will.",
+      "difficulty": "beginner",
+      "tags": ["endurance", "heart", "mantra"],
+      "timeLimit": 26
+    },
+    {
+      "id": "q40",
+      "learningUnitId": "symbolic_asanas",
+      "question": "Which asana translates to 'Pose of the Bow'?",
+      "correctAnswer": "Dhanurāsana",
+      "hint": "‘Dhanus’ = bow.",
+      "explanation": "The bow represents focused intention—like Arjuna in the Bhagavad Gītā. In Tantra, Dhanurāsana strengthens the back body (ida) and awakens willpower (icchā śakti).",
+      "difficulty": "beginner",
+      "tags": ["will", "focus", "iccha"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q41",
+      "learningUnitId": "symbolic_asanas",
+      "question": "What does 'Matsyāsana' mean?",
+      "correctAnswer": "Fish Pose",
+      "hint": "‘Matsya’ = fish.",
+      "explanation": "Matsya is Viṣṇu’s first avatar, saving wisdom from the flood. Matsyāsana opens the throat for truth and activates the vishuddha chakra—key for akṣara (sacred syllable) practices.",
+      "difficulty": "beginner",
+      "tags": ["matsya", "vishuddha", "truth"],
+      "timeLimit": 28
+    },
+    {
+      "id": "q42",
+      "learningUnitId": "symbolic_asanas",
+      "question": "Which asana is called 'Pose of the Eight Limbs'?",
+      "correctAnswer": "Aṣṭāṅgāsana",
+      "hint": "‘Aṣṭa’ = eight, ‘aṅga’ = limb.",
+      "explanation": "Aṣṭāṅgāsana is a prostration where eight body parts touch the ground—symbolizing surrender to the divine. It is used in tantric pūjā to honor the guru and deities.",
+      "difficulty": "beginner",
+      "tags": ["prostration", "guru", "surrender"],
+      "timeLimit": 32
+    },
+    {
+      "id": "q43",
+      "learningUnitId": "symbolic_asanas",
+      "question": "What is 'Śaṅkhāsana' translated as?",
+      "correctAnswer": "Conch Pose",
+      "hint": "‘Śaṅkha’ = conch shell.",
+      "explanation": "The conch (śaṅkha) is blown to awaken consciousness. Śaṅkhāsana involves a spiral twist, mimicking the conch’s geometry—activating nāda (inner sound) and clearing blockages.",
+      "difficulty": "beginner",
+      "tags": ["sound", "nada", "spiral"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q44",
+      "learningUnitId": "symbolic_asanas",
+      "question": "Which asana means 'Pose of the Chariot'?",
+      "correctAnswer": "Rathāsana",
+      "hint": "‘Ratha’ = chariot—like the body in the Kaṭha Upaniṣad.",
+      "explanation": "In Tantra, the body is the chariot (ratha), senses the horses, mind the reins. Rathāsana is a standing posture of readiness—symbolizing the warrior’s preparedness for inner battle.",
+      "difficulty": "beginner",
+      "tags": ["chariot", "upanishad", "readiness"],
+      "timeLimit": 34
+    },
+    {
+      "id": "q45",
+      "learningUnitId": "symbolic_asanas",
+      "question": "What does 'Cakrāsana' mean?",
+      "correctAnswer": "Wheel Pose",
+      "hint": "‘Cakra’ = wheel or circle.",
+      "explanation": "The wheel symbolizes time (kāla-cakra) and the cycle of saṃsāra. Cakrāsana opens the heart and activates the anāhata chakra, transforming cyclic suffering into liberation.",
+      "difficulty": "beginner",
+      "tags": ["wheel", "time", "anahata"],
+      "timeLimit": 28
+    },
+    {
+      "id": "q46",
+      "learningUnitId": "symbolic_asanas",
+      "question": "Which asana is known as 'Pose of the Mountain'?",
+      "correctAnswer": "Tāḍāsana",
+      "hint": "‘Tāḍa’ = mountain (from ‘tāḍaka’—palm tree or mountain).",
+      "explanation": "Mountains symbolize stability and the axis of the world (Meru). Tāḍāsana teaches grounding while remaining upright—essential for tantric practitioners navigating life’s storms.",
+      "difficulty": "beginner",
+      "tags": ["mountain", "stability", "meru"],
+      "timeLimit": 22
+    },
+    {
+      "id": "q47",
+      "learningUnitId": "symbolic_asanas",
+      "question": "What is 'Vajroli Mudrā Āsana' in English?",
+      "correctAnswer": "Thunderbolt Attitude Pose",
+      "hint": "‘Vajroli’ combines ‘vajra’ (thunderbolt) and ‘uli’ (direction of flow).",
+      "explanation": "This is not just a posture but a practice involving subtle energy redirection. In Tantra, it preserves vital essences (bindu) and transforms sexual energy into ojas (spiritual vigor).",
+      "difficulty": "beginner",
+      "tags": ["vajroli", "bindu", "ojas"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q48",
+      "learningUnitId": "symbolic_asanas",
+      "question": "Which asana translates to 'Pose of the Siddha Hand'?",
+      "correctAnswer": "Siddha Hastāsana",
+      "hint": "‘Hasta’ = hand.",
+      "explanation": "Siddha Hastāsana is a seated pose with specific hand gestures (mudrā) used to channel energy. It is taught in Kaula lineages for awakening the inner guru.",
+      "difficulty": "beginner",
+      "tags": ["mudra", "siddha", "kaula"],
+      "timeLimit": 32
+    },
+    {
+      "id": "q49",
+      "learningUnitId": "symbolic_asanas",
+      "question": "What does 'Yantrāsana' mean?",
+      "correctAnswer": "Yantra Pose",
+      "hint": "It’s a posture designed to mirror a yantra’s geometry.",
+      "explanation": "Yantrāsana involves aligning the body with sacred geometry (e.g., triangle, square). Practitioners visualize the corresponding yantra, merging form and consciousness for sādhana.",
+      "difficulty": "beginner",
+      "tags": ["yantra", "geometry", "visualization"],
+      "timeLimit": 36
+    },
+    {
+      "id": "q50",
+      "learningUnitId": "symbolic_asanas",
+      "question": "Which asana is called 'Pose of the Inner Fire'?",
+      "correctAnswer": "Agnistambhāsana",
+      "hint": "‘Agni’ = fire, ‘stambha’ = pillar.",
+      "explanation": "Agnistambhāsana awakens the digestive and transformative fire (agni) in the navel. It supports tapas (austerity) and burns away impurities (mala) for spiritual clarity.",
+      "difficulty": "beginner",
+      "tags": ["agni", "tapas", "purification"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q51",
+      "learningUnitId": "symbolic_asanas",
+      "question": "What is 'Kālī Āsana' in English?",
+      "correctAnswer": "Goddess Kālī Pose",
+      "hint": "A fierce standing posture embodying the destroyer of time.",
+      "explanation": "Kālī Āsana is practiced with fierce bhāva—standing with legs wide, arms raised. It destroys fear and ego, invoking the transformative power of time (kāla) and compassion.",
+      "difficulty": "beginner",
+      "tags": ["kali", "fierce", "compassion"],
+      "timeLimit": 32
+    },
+    {
+      "id": "q52",
+      "learningUnitId": "symbolic_asanas",
+      "question": "Which asana means 'Pose of the Cosmic Man'?",
+      "correctAnswer": "Puruṣāsana",
+      "hint": "‘Puruṣa’ = cosmic being (as in Puruṣa Sūkta).",
+      "explanation": "Puruṣāsana mirrors the Vedic cosmic person—arms outstretched, embodying the universe. In Tantra, it affirms ‘ahaṃ brahmāsmi’ (I am the Absolute).",
+      "difficulty": "beginner",
+      "tags": ["purusha", "cosmic", "non-dual"],
+      "timeLimit": 34
+    },
+    {
+      "id": "q53",
+      "learningUnitId": "symbolic_asanas",
+      "question": "What does 'Śrī Āsana' mean?",
+      "correctAnswer": "Goddess of Abundance Pose",
+      "hint": "Śrī is Lakṣmī, goddess of prosperity and grace.",
+      "explanation": "Śrī Āsana is a graceful seated or standing posture inviting abundance (aiśvarya) and beauty (śrī). It cultivates gratitude and openness to grace in everyday life.",
+      "difficulty": "beginner",
+      "tags": ["lakshmi", "abundance", "grace"],
+      "timeLimit": 28
+    },
+    {
+      "id": "q54",
+      "learningUnitId": "symbolic_asanas",
+      "question": "Which asana is known as 'Pose of the Third Eye'?",
+      "correctAnswer": "Trinetra Āsana",
+      "hint": "‘Tri’ = three, ‘netra’ = eye.",
+      "explanation": "Trinetra Āsana involves focused gaze (trāṭaka) at the eyebrow center. It activates the ājñā chakra and inner vision—essential for dhyāna (meditation) in Tantra.",
+      "difficulty": "beginner",
+      "tags": ["ajna", "trataka", "inner vision"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q55",
+      "learningUnitId": "symbolic_asanas",
+      "question": "What is 'Bhairavāsana' translated as?",
+      "correctAnswer": "Fierce Form of Śiva Pose",
+      "hint": "Bhairava is the terrifying aspect of Śiva.",
+      "explanation": "Bhairavāsana is a dynamic, grounded stance invoking fearlessness. It is used in kaula rituals to confront and transmute fear, embodying ‘bhayaṃ harati’ (remover of fear).",
+      "difficulty": "beginner",
+      "tags": ["bhairava", "fearless", "kaula"],
+      "timeLimit": 32
+    },
+    {
+      "id": "q56",
+      "learningUnitId": "symbolic_asanas",
+      "question": "Which asana means 'Pose of the Five Faces'?",
+      "correctAnswer": "Pañcānana Āsana",
+      "hint": "Śiva is sometimes depicted with five faces (Pañcānana).",
+      "explanation": "Pañcānana Āsana involves rotating awareness through five directions (N, S, E, W, Zenith), symbolizing Śiva’s all-pervading consciousness and protection.",
+      "difficulty": "beginner",
+      "tags": ["pancanana", "shiva", "directions"],
+      "timeLimit": 36
+    },
+    {
+      "id": "q57",
+      "learningUnitId": "symbolic_asanas",
+      "question": "What does 'Cidākāśa Āsana' mean?",
+      "correctAnswer": "Consciousness-Space Pose",
+      "hint": "‘Cit’ = consciousness, ‘ākāśa’ = space.",
+      "explanation": "Cidākāśa Āsana is not physical—it is abidance in pure awareness (as in *Vijñāna Bhairava Tantra* verse 45). The ‘pose’ is effortless presence in the heart-space.",
+      "difficulty": "beginner",
+      "tags": ["cidakasha", "awareness", "non-dual"],
+      "timeLimit": 45
+    },
+    {
+      "id": "q58",
+      "learningUnitId": "symbolic_asanas",
+      "question": "Which asana is called 'Pose of the Primordial Sound'?",
+      "correctAnswer": "Nāda Āsana",
+      "hint": "‘Nāda’ = cosmic sound (e.g., Om).",
+      "explanation": "Nāda Āsana involves sitting in stillness to hear the inner sound (anāhata nāda). In Tantra, listening to nāda leads to laya (dissolution) in the supreme vibration.",
+      "difficulty": "beginner",
+      "tags": ["nada", "sound", "laya"],
+      "timeLimit": 38
+    },
+    {
+      "id": "q59",
+      "learningUnitId": "symbolic_asanas",
+      "question": "What is 'Yuganaddha Āsana' in English?",
+      "correctAnswer": "Union of Opposites Pose",
+      "hint": "‘Yuganaddha’ = interwoven, as in Haṭha Yoga (ha + tha = sun + moon).",
+      "explanation": "Yuganaddha Āsana harmonizes dualities—left/right, male/female, stillness/movement. It embodies the tantric principle of non-duality (advaita) in dynamic form.",
+      "difficulty": "beginner",
+      "tags": ["duality", "union", "hatha"],
+      "timeLimit": 34
+    },
+    {
+      "id": "q60",
+      "learningUnitId": "symbolic_asanas",
+      "question": "Which asana translates to 'Pose of the Heart Lotus'?",
+      "correctAnswer": "Hṛdaya Padmāsana",
+      "hint": "‘Hṛdaya’ = heart, ‘padma’ = lotus.",
+      "explanation": "Hṛdaya Padmāsana is a variation of Padmāsana with hands at the heart, visualizing a blooming lotus. It awakens divine love (prema) and opens the anāhata chakra for devotion.",
+      "difficulty": "beginner",
+      "tags": ["heart", "lotus", "bhakti"],
+      "timeLimit": 30
+    }
+  ]
+}

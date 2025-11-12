@@ -1,0 +1,49 @@
+{
+  "app": {
+    "name": "Learning Kashmir Shaivism",
+    "displayName": "Learning Kashmir Shaivism",
+    "packageName": "com.plainos.kashmirshaivism",
+    "tagline": "Master the profound wisdom of Kashmir Shaivism through interactive learning and meditation practices.",
+    "subtitle": "PlainOS",
+    "version": "0.1.0",
+    "versionCode": "1",
+    "buildNumber": "1",
+    "shortDescription": "Interactive Kashmir Shaivism learning app. No ads. No distractions. Pure knowledge.",
+    "description": "Learning Kashmir Shaivism is a dedicated app for studying the non-dual tantric tradition of Kashmir Shaivism.\n\nExplore the four Upāyas (paths), the 36 Tattvas, Sanskrit fundamentals, and advanced philosophical concepts through interactive quizzes and structured learning units.\n\nPart of the PlainOS movement — clean, fast, and focused on your spiritual growth. No ads, no tracking, no noise.\n\nFeatures:\n• Comprehensive coverage of Āṇavopāya, Śāktopāya, Śāmbhavopāya, and Anupāya\n• 36 Tattvas explained in detail\n• Sanskrit terminology and etymology\n• Progress tracking for your learning journey\n• Offline access to all content\n• Clean, distraction-free interface",
+    "category": "Education",
+    "contentRating": "Everyone",
+    "platform": {
+      "minSdkVersion": 21,
+      "targetSdkVersion": 35,
+      "compileSdkVersion": 36,
+      "minMacOSVersion": "10.14",
+      "minIOSVersion": "15.0"
+    }
+  },
+  "developer": {
+    "name": "PlainOS by Joe Bains",
+    "author": "Joe Bains",
+    "email": "joebainsodds@gmail.com",
+    "organization": "PlainOS",
+    "website": "https://plainos.io",
+    "supportEmail": "joebainsodds@gmail.com",
+    "bio": "Biohacker and performance coach"
+  },
+  "legal": {
+    "copyright": "© 2025 PlainOS by Joe Bains. All rights reserved.",
+    "privacyNote": "We only store your name, email, and scores in the cloud for sync. Everything else stays local on your device. PlainOS apps are clean, fast, and private."
+  },
+  "welcome": {
+    "title": "Welcome to Learning Kashmir Shaivism",
+    "subtitle": "Master the profound wisdom of non-dual Shaiva tantra through interactive learning.",
+    "signInPrompt": "Sign in to Continue Your Journey",
+    "termsText": "By continuing, you agree to our Terms of Service and Privacy Policy"
+  },
+  "home": {
+    "welcomePrefix": "Namaste, ",
+    "welcomeSuffix": "!",
+    "subtitle": "Continue your study of Kashmir Shaivism",
+    "categoriesTitle": "Learning Paths"
+  }
+}
+

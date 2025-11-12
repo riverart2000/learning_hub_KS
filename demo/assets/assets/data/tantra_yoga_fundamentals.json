@@ -1,0 +1,323 @@
+{
+  "categories": [
+    {
+      "id": "tantra_yoga",
+      "name": "Tantra Yoga Fundamentals",
+      "description": "An introduction to the philosophy and practice of Tantra Yoga — the union of consciousness and energy through awareness, breath, and ritual.",
+      "icon": "self_improvement"
+    }
+  ],
+  "subcategories": [
+    {
+      "id": "philosophical_foundations",
+      "categoryId": "tantra_yoga",
+      "name": "Philosophical Foundations",
+      "description": "Explore the origins, concepts, and philosophical framework of Tantra Yoga."
+    },
+    {
+      "id": "practical_practices",
+      "categoryId": "tantra_yoga",
+      "name": "Practical Practices",
+      "description": "Learn the essential methods of Tantra including breathwork, mantra, meditation, and ritual."
+    }
+  ],
+  "learningUnits": [
+    {
+      "id": "philosophical_foundations",
+      "subCategoryId": "philosophical_foundations",
+      "type": "mixed",
+      "title": "Philosophical Foundations",
+      "content": {},
+      "difficulty": "beginner",
+      "tags": ["tantra", "philosophy", "awareness"]
+    },
+    {
+      "id": "practical_practices",
+      "subCategoryId": "practical_practices",
+      "type": "mixed",
+      "title": "Practical Practices",
+      "content": {},
+      "difficulty": "beginner",
+      "tags": ["tantra", "practice", "yoga"]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "learningUnitId": "philosophical_foundations",
+      "question": "What does the word 'Tantra' literally mean in Sanskrit?",
+      "correctAnswer": "To weave or expand",
+      "hint": "It’s related to integration and connection.",
+      "explanation": "‘Tantra’ comes from the root 'tan', meaning ‘to weave’ or ‘to expand’. It refers to the interweaving of consciousness and energy.",
+      "difficulty": "beginner",
+      "tags": ["meaning", "sanskrit"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q2",
+      "learningUnitId": "philosophical_foundations",
+      "question": "Tantra Yoga aims to unite which two aspects of existence?",
+      "correctAnswer": "Consciousness and energy",
+      "hint": "Think of Shiva and Shakti.",
+      "explanation": "Tantra views all of existence as a dynamic play between consciousness (Shiva) and energy (Shakti), seeking their union within the practitioner.",
+      "difficulty": "beginner",
+      "tags": ["shiva", "shakti"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q3",
+      "learningUnitId": "philosophical_foundations",
+      "question": "Which ancient text is considered foundational to Kashmir Shaivism and Tantric philosophy?",
+      "correctAnswer": "Vijnana Bhairava Tantra",
+      "hint": "It describes 112 meditation techniques.",
+      "explanation": "The Vijnana Bhairava Tantra is a dialogue between Shiva and Shakti offering 112 ways to enter meditation through awareness.",
+      "difficulty": "beginner",
+      "tags": ["texts", "shaivism"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q4",
+      "learningUnitId": "philosophical_foundations",
+      "question": "In Tantra, who represents pure consciousness?",
+      "correctAnswer": "Shiva",
+      "hint": "The still aspect of reality.",
+      "explanation": "Shiva symbolizes pure, unchanging awareness — the witness of all experiences.",
+      "difficulty": "beginner",
+      "tags": ["shiva", "awareness"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q5",
+      "learningUnitId": "philosophical_foundations",
+      "question": "Who represents the dynamic creative energy in Tantra?",
+      "correctAnswer": "Shakti",
+      "hint": "She’s the embodiment of movement and creation.",
+      "explanation": "Shakti is the feminine power that manifests as all forms, motion, and creativity in the universe.",
+      "difficulty": "beginner",
+      "tags": ["shakti", "energy"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q6",
+      "learningUnitId": "philosophical_foundations",
+      "question": "What is the primary goal of Tantra Yoga?",
+      "correctAnswer": "To experience the unity of all aspects of existence",
+      "hint": "It’s about dissolving separation.",
+      "explanation": "Tantra seeks to transcend duality by realizing that the material and spiritual worlds are one continuous field of consciousness.",
+      "difficulty": "beginner",
+      "tags": ["goal", "unity"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q7",
+      "learningUnitId": "philosophical_foundations",
+      "question": "Which statement best describes non-duality in Tantra?",
+      "correctAnswer": "Everything is a manifestation of one consciousness",
+      "hint": "It denies separation between spirit and matter.",
+      "explanation": "Non-duality, or Advaita, in Tantra asserts that all phenomena arise from a single field of awareness.",
+      "difficulty": "beginner",
+      "tags": ["nonduality", "advaita"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q8",
+      "learningUnitId": "philosophical_foundations",
+      "question": "What is the Tantric view of the body?",
+      "correctAnswer": "The body is sacred and a vehicle of awakening",
+      "hint": "It’s not something to be renounced.",
+      "explanation": "Unlike ascetic traditions, Tantra regards the body as divine and capable of holding consciousness fully.",
+      "difficulty": "beginner",
+      "tags": ["body", "sacred"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q9",
+      "learningUnitId": "philosophical_foundations",
+      "question": "What does ‘Kundalini’ represent in Tantra?",
+      "correctAnswer": "Dormant spiritual energy coiled at the base of the spine",
+      "hint": "It’s symbolized as a coiled serpent.",
+      "explanation": "Kundalini is the latent energy within all beings that, when awakened, leads to expanded awareness.",
+      "difficulty": "beginner",
+      "tags": ["kundalini", "energy"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q10",
+      "learningUnitId": "philosophical_foundations",
+      "question": "What does the term 'Spanda' refer to in Tantra?",
+      "correctAnswer": "The subtle pulsation of universal consciousness",
+      "hint": "It means vibration or throb.",
+      "explanation": "Spanda refers to the vibrational movement through which consciousness expresses itself as creation.",
+      "difficulty": "beginner",
+      "tags": ["spanda", "vibration"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q11",
+      "learningUnitId": "philosophical_foundations",
+      "question": "In Tantra, what is Maya?",
+      "correctAnswer": "The power that creates the illusion of separation",
+      "hint": "It hides unity.",
+      "explanation": "Maya veils the true nature of oneness by projecting duality and multiplicity.",
+      "difficulty": "beginner",
+      "tags": ["maya", "illusion"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q12",
+      "learningUnitId": "philosophical_foundations",
+      "question": "Who is the Tantric goddess of knowledge and speech?",
+      "correctAnswer": "Saraswati",
+      "hint": "She plays the Veena.",
+      "explanation": "Saraswati represents divine wisdom and communication — key aspects in Tantric mantra and learning.",
+      "difficulty": "beginner",
+      "tags": ["deities", "saraswati"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q13",
+      "learningUnitId": "philosophical_foundations",
+      "question": "Which principle expresses the idea that the divine is immanent in everything?",
+      "correctAnswer": "Shaktism",
+      "hint": "It emphasizes the power aspect of the divine.",
+      "explanation": "Shaktism celebrates the divine feminine power as the immanent force present in all forms.",
+      "difficulty": "beginner",
+      "tags": ["shaktism", "immanence"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q14",
+      "learningUnitId": "philosophical_foundations",
+      "question": "What does the term 'Guru' mean in Tantra?",
+      "correctAnswer": "One who dispels darkness",
+      "hint": "It’s symbolic, not just a teacher.",
+      "explanation": "‘Gu’ means darkness and ‘ru’ means remover — a Guru guides the student from ignorance to awareness.",
+      "difficulty": "beginner",
+      "tags": ["guru", "teacher"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q15",
+      "learningUnitId": "philosophical_foundations",
+      "question": "Which practice emphasizes embracing all life experiences as spiritual?",
+      "correctAnswer": "Left-hand Tantra (Vamachara)",
+      "hint": "It doesn’t reject the material.",
+      "explanation": "Vamachara practices use taboo-breaking and life-affirming methods to dissolve inner resistance and duality.",
+      "difficulty": "beginner",
+      "tags": ["vamachara", "nonduality"],
+      "timeLimit": 45
+    },
+
+    {
+      "id": "q31",
+      "learningUnitId": "practical_practices",
+      "question": "What is 'Pranayama' in Tantra Yoga?",
+      "correctAnswer": "Control and expansion of life force through breath",
+      "hint": "It involves breath regulation.",
+      "explanation": "Pranayama uses conscious breathing to balance energy channels and awaken inner awareness.",
+      "difficulty": "beginner",
+      "tags": ["breath", "pranayama"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q32",
+      "learningUnitId": "practical_practices",
+      "question": "Which sound is considered the primal vibration in Tantra?",
+      "correctAnswer": "Om",
+      "hint": "It’s the universal mantra.",
+      "explanation": "Om represents the primordial sound of creation, the vibration of the entire cosmos.",
+      "difficulty": "beginner",
+      "tags": ["mantra", "sound"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q33",
+      "learningUnitId": "practical_practices",
+      "question": "What are 'Mudras' in Tantric practice?",
+      "correctAnswer": "Gestures that channel energy flow",
+      "hint": "They use hands or the body.",
+      "explanation": "Mudras are symbolic postures that direct subtle energies to support meditation and ritual.",
+      "difficulty": "beginner",
+      "tags": ["mudra", "energy"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q34",
+      "learningUnitId": "practical_practices",
+      "question": "What are the 'Nadis' in Tantra?",
+      "correctAnswer": "Subtle energy channels within the body",
+      "hint": "They carry prana.",
+      "explanation": "Nadis are energy pathways like Ida, Pingala, and Sushumna that regulate pranic flow in the body.",
+      "difficulty": "beginner",
+      "tags": ["nadi", "prana"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q35",
+      "learningUnitId": "practical_practices",
+      "question": "What is a 'Yantra'?",
+      "correctAnswer": "A geometric diagram used for meditation",
+      "hint": "It often symbolizes deities.",
+      "explanation": "Yantras act as visual tools representing cosmic principles, focusing the mind in meditation.",
+      "difficulty": "beginner",
+      "tags": ["yantra", "symbolism"],
+      "timeLimit": 30
+    },
+    {
+      "id": "q36",
+      "learningUnitId": "practical_practices",
+      "question": "What are 'Mantras' in Tantra Yoga?",
+      "correctAnswer": "Sacred sounds used to focus the mind and invoke energy",
+      "hint": "They are recited or chanted.",
+      "explanation": "Mantras are vibrational tools that align the practitioner’s consciousness with divine frequencies.",
+      "difficulty": "beginner",
+      "tags": ["mantra", "sound"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q37",
+      "learningUnitId": "practical_practices",
+      "question": "What is the function of a 'Chakra' in Tantra?",
+      "correctAnswer": "Energy centers that regulate consciousness and vitality",
+      "hint": "There are seven major ones.",
+      "explanation": "Chakras are spinning energy vortices in the subtle body, each governing physical and spiritual functions.",
+      "difficulty": "beginner",
+      "tags": ["chakra", "energy"],
+      "timeLimit": 35
+    },
+    {
+      "id": "q38",
+      "learningUnitId": "practical_practices",
+      "question": "Where is the 'Ajna Chakra' located?",
+      "correctAnswer": "Between the eyebrows",
+      "hint": "Also known as the third eye.",
+      "explanation": "The Ajna Chakra governs intuition and inner vision, situated at the brow center.",
+      "difficulty": "beginner",
+      "tags": ["ajna", "chakra"],
+      "timeLimit": 25
+    },
+    {
+      "id": "q39",
+      "learningUnitId": "practical_practices",
+      "question": "What is 'Bandha' in Tantra practice?",
+      "correctAnswer": "An energetic lock that directs prana",
+      "hint": "Applied through muscles and breath.",
+      "explanation": "Bandhas control the movement of prana in specific areas, enhancing focus and vitality.",
+      "difficulty": "beginner",
+      "tags": ["bandha", "energy"],
+      "timeLimit": 40
+    },
+    {
+      "id": "q40",
+      "learningUnitId": "practical_practices",
+      "question": "Which practice awakens the Kundalini energy?",
+      "correctAnswer": "Kundalini Yoga",
+      "hint": "It focuses on energy rising through chakras.",
+      "explanation": "Kundalini Yoga uses breath, movement, and sound to awaken and raise the dormant energy at the spine’s base.",
+      "difficulty": "beginner",
+      "tags": ["kundalini", "yoga"],
+      "timeLimit": 35
+    }
+  ]
+}
+
