@@ -123,7 +123,7 @@ jobs:
         run: pod install
 
       - name: Build macOS app
-        run: flutter build macos --release --target-platform=darwin-universal
+        run: flutter build macos --release
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
@@ -246,6 +246,7 @@ jobs:
             (cd artifacts/ios-artifacts && zip -r ../../packaged/ios.zip .)
           fi
           if [ -d artifacts/macos-app ]; then
+            find artifacts/macos-app -path "*/Contents/MacOS/*" -type f -exec chmod +x {} +
             (cd artifacts/macos-app && zip -r ../../packaged/macos.zip .)
           fi
           if [ -d artifacts/windows-app ]; then
