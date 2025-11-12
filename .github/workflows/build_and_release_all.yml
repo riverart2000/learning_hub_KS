@@ -198,6 +198,29 @@ jobs:
           name: linux-app
           path: build/linux/x64/release/bundle
 
+  build_web:
+    needs: analyze
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+
+      - name: Install dependencies
+        run: flutter pub get
+
+      - name: Build web app
+        run: flutter build web --release --base-href "/${{ github.event.repository.name }}/"
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: web-build
+          path: build/web
+
   create_release:
     name: Publish GitHub Release
     needs:
@@ -206,6 +229,7 @@ jobs:
       - build_macos
       - build_windows
       - build_linux
+      - build_web
     runs-on: ubuntu-latest
     if: github.event_name == 'workflow_dispatch' && inputs.version_tag != ''
     steps:
@@ -229,5 +253,30 @@ jobs:
             artifacts/macos-app/**
             artifacts/windows-app/**
             artifacts/linux-app/**
+            artifacts/web-build/**
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  deploy_pages:
+    name: Deploy GitHub Pages
+    needs: create_release
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    if: github.event_name == 'workflow_dispatch' && inputs.version_tag != ''
+    steps:
+      - name: Download web artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: web-build
+          path: web
+
+      - name: Upload pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: web
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
