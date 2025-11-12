@@ -2,6 +2,10 @@
 
 Interactive study companion for Kashmir Shaivism learners. Built with Flutter and optimized for Android, iOS, macOS, Windows, and Linux.
 
+## 🌐 Web Live Demo
+
+Try the app directly in your browser: **[https://riverart2000.github.io/learning_hub_KS/](https://riverart2000.github.io/learning_hub_KS/)**
+
 ## Requirements
 
 - Flutter 3.27.x (stable channel)
