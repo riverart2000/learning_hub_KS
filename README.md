@@ -1,18 +1,48 @@
-# learning_hub
+# Learning Kashmir Shaivism (PlainOS)
 
-A new Flutter project.
+Interactive study companion for Kashmir Shaivism learners. Built with Flutter and optimized for Android, iOS, macOS, Windows, and Linux.
 
-## Getting Started
+## Requirements
 
-This project is a starting point for a Flutter application.
+- Flutter 3.27.x (stable channel)
+- Dart SDK ^3.9.2
+- macOS builds require Xcode and CocoaPods
+- Windows builds require Visual Studio with desktop workload
+- Linux builds require `clang`, `cmake`, `ninja`, GTK3, LZMA, and GStreamer dev packages
 
-A few resources to get you started if this is your first Flutter project:
+Install Flutter dependencies: `flutter pub get`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Linux dependencies
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Before running `flutter build linux --release`, install:
+
+```bash
+sudo apt-get update
+sudo apt-get install -y \
+	clang \
+	cmake \
+	ninja-build \
+	pkg-config \
+	libgtk-3-dev \
+	liblzma-dev \
+	libgstreamer1.0-dev \
+	libgstreamer-plugins-base1.0-dev
+```
+
+## Build Commands
+
+```bash
+flutter build apk --release
+flutter build appbundle --release
+flutter build ios --release --no-codesign
+flutter build macos --release
+flutter build windows --release
+flutter build linux --release
+flutter build web --release
+```
+
+## CI
+
+GitHub Actions workflow `.github/workflows/build_and_release_all.yml` runs analysis plus builds for every platform and uploads artifacts. Configure Android signing secrets (`ANDROID_KEYSTORE_BASE64`, `ANDROID_KEYSTORE_PASSWORD`, `ANDROID_KEY_ALIAS`, `ANDROID_KEY_PASSWORD`) for release artifacts.
 
 
