@@ -2,6 +2,10 @@ name: Build and Release All Platforms
 
 on:
   workflow_dispatch:
+    inputs:
+      version_tag:
+        description: 'Release tag (e.g., v1.0.0)'
+        required: true
   push:
     branches:
       - main
@@ -193,3 +197,37 @@ jobs:
         with:
           name: linux-app
           path: build/linux/x64/release/bundle
+
+  create_release:
+    name: Publish GitHub Release
+    needs:
+      - build_android
+      - build_ios
+      - build_macos
+      - build_windows
+      - build_linux
+    runs-on: ubuntu-latest
+    if: github.event_name == 'workflow_dispatch' && inputs.version_tag != ''
+    steps:
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+
+      - name: Display artifact contents
+        run: ls -R artifacts
+
+      - name: Create release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ inputs.version_tag }}
+          name: Release ${{ inputs.version_tag }}
+          files: |
+            artifacts/android-artifacts/*.apk
+            artifacts/android-artifacts/*.aab
+            artifacts/ios-artifacts/**
+            artifacts/macos-app/**
+            artifacts/windows-app/**
+            artifacts/linux-app/**
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
