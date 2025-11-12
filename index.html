@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kashmir Shaivism Learning Hub - Downloads</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      background: #fafafa;
+      color: #222;
+      margin: 0;
+      padding: 2em;
+      text-align: center;
+    }
+    h1 { font-size: 2em; margin-bottom: 0.3em; }
+    p { color: #555; margin-bottom: 2em; }
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1.5em;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .card {
+      background: #fff;
+      border: 1px solid #ddd;
+      border-radius: 12px;
+      padding: 1.5em;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+      transition: transform 0.2s;
+    }
+    .card:hover { transform: translateY(-5px); }
+    a.button {
+      display: inline-block;
+      margin: 0.4em;
+      padding: 0.6em 1.5em;
+      background: #0070f3;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: 600;
+    }
+    a.button.demo { background: #22c55e; } /* green button */
+    a.button:hover { opacity: 0.85; }
+    footer { margin-top: 3em; font-size: 0.9em; color: #666; }
+  </style>
+</head>
+<body>
+  <h1>🕉️ Kashmir Shaivism Learning Hub</h1>
+  <p>Explore, learn, and download the latest builds of the app.</p>
+
+  <div id="downloads" class="cards">Loading latest release…</div>
+
+  <footer>
+    <p>Built by <strong>Joe Bains</strong> — Biohacker • Technologist • Teacher</p>
+    <p><a href="https://github.com/riverart2000/learning_hub_KS" target="_blank">View source on GitHub</a></p>
+  </footer>
+
+  <script>
+    const repo = "riverart2000/learning_hub_KS";
+    const webDemoURL = "https://riverart2000.github.io/learning_hub_KS/"; // 👈 Live demo link
+    const container = document.getElementById("downloads");
+
+    async function loadLatestRelease() {
+      try {
+        const res = await fetch(`https://api.github.com/repos/${repo}/releases/latest`);
+        if (!res.ok) throw new Error("Failed to fetch release");
+        const release = await res.json();
+        container.innerHTML = "";
+
+        release.assets.forEach(asset => {
+          const name = asset.name.toLowerCase();
+          const size = (asset.size / 1024 / 1024).toFixed(2) + " MB";
+          const card = document.createElement("div");
+          card.className = "card";
+
+          let platform = "";
+          let buttons = "";
+
+          if (name.includes("apk")) {
+            platform = "📱 Android App";
+            buttons = `<a class='button' href='${asset.browser_download_url}'>Download APK</a>`;
+          } 
+          else if (name.includes("web")) {
+            platform = "🌐 Web App";
+            buttons = `
+              <a class='button demo' href='${webDemoURL}' target='_blank'>View Demo</a>
+              <a class='button' href='${asset.browser_download_url}'>Download Web ZIP</a>
+            `;
+          }
+          else if (name.includes("win")) {
+            platform = "🪟 Windows Build";
+            buttons = `<a class='button' href='${asset.browser_download_url}'>Download Windows</a>`;
+          }
+          else if (name.includes("mac")) {
+            platform = "🍎 macOS Build";
+            buttons = `<a class='button' href='${asset.browser_download_url}'>Download macOS</a>`;
+          }
+          else if (name.includes("linux")) {
+            platform = "🐧 Linux Build";
+            buttons = `<a class='button' href='${asset.browser_download_url}'>Download Linux</a>`;
+          }
+          else {
+            platform = "📦 Other Build";
+            buttons = `<a class='button' href='${asset.browser_download_url}'>Download</a>`;
+          }
+
+          card.innerHTML = `
+            <h2>${platform}</h2>
+            <p>${asset.name} <br><small>${size}</small></p>
+            ${buttons}
+          `;
+          container.appendChild(card);
+        });
+      } catch (err) {
+        console.error(err);
+        container.innerHTML = "<p>⚠️ Could not load latest release. Please check GitHub.</p>";
+      }
+    }
+
+    loadLatestRelease();
+  </script>
+</body>
+</html>
