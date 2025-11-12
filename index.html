@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kashmir Shaivism Learning Hub - Downloads</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      background: #fafafa;
+      color: #222;
+      margin: 0;
+      padding: 2em;
+      text-align: center;
+    }
+    h1 { font-size: 2em; margin-bottom: 0.3em; }
+    p { color: #555; margin-bottom: 2em; }
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1.5em;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .card {
+      background: white;
+      border: 1px solid #ddd;
+      border-radius: 12px;
+      padding: 1.5em;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+      transition: transform 0.2s;
+    }
+    .card:hover { transform: translateY(-5px); }
+    a.button {
+      display: inline-block;
+      margin-top: 1em;
+      padding: 0.6em 1.5em;
+      background: #0070f3;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: 600;
+    }
+    a.button:hover { background: #0058c7; }
+    footer { margin-top: 3em; font-size: 0.9em; color: #666; }
+  </style>
+</head>
+<body>
+  <h1>🕉️ Kashmir Shaivism Learning Hub</h1>
+  <p>Automatically updated with the latest release from GitHub.</p>
+
+  <div id="downloads" class="cards">Loading latest release…</div>
+
+  <footer>
+    <p>Built by <strong>Joe Bains</strong> — Biohacker • Technologist • Teacher</p>
+    <p><a href="https://github.com/riverart2000/learning_hub_KS" target="_blank">View source on GitHub</a></p>
+  </footer>
+
+  <script>
+    const repo = "riverart2000/learning_hub_KS";
+    const container = document.getElementById("downloads");
+
+    async function loadLatestRelease() {
+      try {
+        const res = await fetch(`https://api.github.com/repos/${repo}/releases/latest`);
+        if (!res.ok) throw new Error("Failed to fetch release");
+        const release = await res.json();
+
+        container.innerHTML = "";
+
+        release.assets.forEach(asset => {
+          const name = asset.name;
+          const size = (asset.size / 1024 / 1024).toFixed(2) + " MB";
+          const card = document.createElement("div");
+          card.className = "card";
+
+          let platform = "📦 General Build";
+          if (/apk/i.test(name)) platform = "📱 Android APK";
+          else if (/web/i.test(name)) platform = "🌐 Web Build";
+          else if (/win/i.test(name)) platform = "🪟 Windows Build";
+          else if (/mac/i.test(name)) platform = "🍎 macOS Build";
+          else if (/linux/i.test(name)) platform = "🐧 Linux Build";
+
+          card.innerHTML = `
+            <h2>${platform}</h2>
+            <p>${name} <br><small>${size}</small></p>
+            <a class="button" href="${asset.browser_download_url}">Download</a>
+          `;
+          container.appendChild(card);
+        });
+      } catch (err) {
+        container.innerHTML = "<p>⚠️ Could not load latest release. Please check the GitHub repo.</p>";
+        console.error(err);
+      }
+    }
+
+    loadLatestRelease();
+  </script>
+</body>
+</html>
